@@ -24,9 +24,9 @@ deploy:
     on:
       branch: master
   - provider: s3
-    access_key_id: AKIAID4KJ5B3CZER7FQQ
+    access_key_id: AKIAJRNWPZQET66PPB5Q
     secret_access_key:
-      secure: Zy8Pu5dZDSsRHikJe4KvnnT0aaCvYJzHKcm2byKKEfZRxdeWZGO6hjDqiBkg0sFc8U+pxgOmHlikEo8Bupi+QFPT9aAmvgOQg/GGpPbPgVkX$
+      secure: iEs85JwZ7CoNYpW+UtT27ewqhOlf3mz4hpzGpqwQMembIuVvfT2hMVYb0JRUp1/eOcUoUotCjzTTvHOcIs72/e27Tsp/XOLaG5k//sxXrWmQ+IZx4r0U0P1omFoIS/HMFyy789lKXp0VkZYoRlNANBwm8LDFiCG9sAsUEuBZT5L68pERMXAL7tOVT6NGAHxGoOUZ8ikRJkjaeN5FK1g+OKsWQDdMQwQcEPYrRRWeOsLDbaPt8CnqsJrr39PWNikBzZrHIYcICal9PQGVN63wtCn51eag926EK44aq2REer7UCfrwK2nrCvjG6LF4fZJPtwVP4Bh5K2J0oFuQcKMENBWcqMdHl8ixFexsEU6AfV7Li4H9xfTOnoIcuVdAyLij2rWeW7j7gA4JNnCywMCYAaR8YXsDQKg42pFsA0MYY5j/EI51NlrUUy9LreWI3dr5aAV8tB21imBvvpUzZdQa9N3X6RqXZ8Ym2Nne1CtyU7U4VOmjosnker0T/dVx9WCy5nS5prRTn512FS81EVzi4GzI8q5CBKCdBHYzXcczGjPRyK7aOsBOuDcnaw4gPsTx0UD8K9Cuk0P6MjazhCqmCTlTmrO3/VmVz8ED2SaP5ntCrUlJEOT2q9WKq+QzFeZ90lXH6MV9wr04SyA8lhTXVKk97hbxj+3rw/w+L/tXOBk=
     bucket: magazine.nightly.hevnly.com
     region: eu-west-1
     skip_cleanup: true
