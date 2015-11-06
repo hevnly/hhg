@@ -1,14 +1,25 @@
 language: node_js
 script: date
 deploy:
-  provider: s3
-  access_key_id: AKIAJRNWPZQET66PPB5Q
-  secret_access_key:
-    secure: rPQc8prtSrepyAHE5qST1HTWfQnX3r8P8ahh/LwP4uVKiiujevzGHWEB5EfjHeRzLtMMAr3xyLn+xO3pHchPdK56pKLOl9Vizt11WARA2mJH1OO636zw7bsXj1y0cpFnGOcn26S3xJYRjorgPvJ4iWv10wiVVPL5kfwvmVkRpbUOdYx8BijAMDxbwPYGH1PXU7ixFOgpJIYrhCkW/2hIfdAkIufsiCtFYGAqSpKs9ogj02nEcT3yr1Et7VS0wTWKqgYrPZBUi/KjOdt/YJiNyrvqzxklCXc+7wfDdbvespyt8zR8eYstDgnVFB623poje/wBqgMDnsD4kvPHC53rpj6vyapLqkDLKo1rJ2i9G/sHrRYksX45b0YB3AyG2t4mcX+AzmtIC2IQYXIGEfKc0r4zfrfWehIFBg/CorPUP/uO2aXBcxMD8OitPLH78JKIbu5vR8g8dbXcBLFdaRmqKMjd2T6Wb9pS55lTvuIB2yY4AR3RbIvabEQIVMyqU5FEYMcb5k7Ovofz1kqtcEwMs7ryYe0H0oBSXX6GR11YTMKDiNhD+Mc1BXbfa5r6Q0oIuhZheNOlEUT04GqJ8bcxb6x5CZirmisHHZlYF+49dv5zmW04UwOKiiZQWSQKJw0TJnN1qS+Cu2DLUIPu4vhIWfw0Ju/J3peP0eIR+h1qbUE=
-  bucket: magazine.nightly.hevnly.com
-  region: eu-west-1
-  skip_cleanup: true
-  acl: public_read
-  local_dir: source
-  on:
-    branch: develop
+  - provider: s3
+    access_key_id: AKIAJRNWPZQET66PPB5Q
+    secret_access_key:
+      secure: rPQc8prtSrepyAHE5qST1HTWfQnX3r8P8ahh/LwP4uVKiiujevzGHWEB5EfjHeRzLtMMAr3xyLn+xO3pHchPdK56pKLOl9Vizt11WARA2m$
+    bucket: magazine.beta.hevnly.com
+    region: eu-west-1
+    skip_cleanup: true
+    acl: public_read
+    local_dir: source
+    on:
+      branch: master
+  - provider: s3
+    access_key_id: AKIAJRNWPZQET66PPB5Q
+    secret_access_key:
+      secure: rPQc8prtSrepyAHE5qST1HTWfQnX3r8P8ahh/LwP4uVKiiujevzGHWEB5EfjHeRzLtMMAr3xyLn+xO3pHchPdK56pKLOl9Vizt11WARA2mJH1OO636zw7bsXj1y0cpFnGOcn26S3xJYRjorgPvJ4iWv10wiVVPL5kfwvmVkRpbUOdYx8BijAMDxbwPYGH1PXU7ixFOgpJIYrhCkW/2hIfdAkIufsiCtFYGAqSpKs9ogj02nEcT3yr1Et7VS0wTWKqgYrPZBUi/KjOdt/YJiNyrvqzxklCXc+7wfDdbvespyt8zR8eYstDgnVFB623poje/wBqgMDnsD4kvPHC53rpj6vyapLqkDLKo1rJ2i9G/sHrRYksX45b0YB3AyG2t4mcX+AzmtIC2IQYXIGEfKc0r4zfrfWehIFBg/CorPUP/uO2aXBcxMD8OitPLH78JKIbu5vR8g8dbXcBLFdaRmqKMjd2T6Wb9pS55lTvuIB2yY4AR3RbIvabEQIVMyqU5FEYMcb5k7Ovofz1kqtcEwMs7ryYe0H0oBSXX6GR11YTMKDiNhD+Mc1BXbfa5r6Q0oIuhZheNOlEUT04GqJ8bcxb6x5CZirmisHHZlYF+49dv5zmW04UwOKiiZQWSQKJw0TJnN1qS+Cu2DLUIPu4vhIWfw0Ju/J3peP0eIR+h1qbUE=
+    bucket: magazine.nightly.hevnly.com
+    region: eu-west-1
+    skip_cleanup: true
+    acl: public_read
+    local_dir: source
+    on:
+      branch: develop
