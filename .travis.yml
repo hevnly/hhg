@@ -1,37 +1,14 @@
 language: node_js
 script: date
 deploy:
-  - provider: s3
-    access_key_id: AKIAIFVKJ4HIOOJQUNDQ
-    secret_access_key:
-      secure: MSpa30tnqdqgNicLGFdK3Z9FMy3U8MCadvTUXcFjD9EYaXMvxpXCgFMyFx/pXcuimBeHiXfOJ55ZzeTtAKUEbZ6Tor0L8aePqyFEM9o0tKBoM12By95MCVwqPDRQEY4nhnAvXKU7pZ9qEIqJK5MDcIe6DgvSCwXZSIyU7RAP/eBBr8iEBdbeq29d85TzLaikUXrTxkU051Pyjs5y2Nt9xqQsQoY5oACla4f4VaI1Ef70Nn35HpwL8l5+AIGja37+F2GvfujyedH/WfUic1nb24oVGvSg9J+mkZxv94CvKhV1laN0Y5/rabA94cEfdDaDY+W8rKkBHv2XpBx6SGU4RbNwxaF1xnBCrugmq8U9ztIdNka7ad2Nt5Z+Q/5Iq9GhE8CTGZotZ7LmcFUT3xyQKNa2bD6vLsDgCXuDGyOcIP4cnlC7WxiKOf/WG0ea9BeuN9RwFTsZBAITmukWxQ6UsP1eTWUiKi4qk15fX2B3jWQ1dUAUZ657Hq1vJ02r384J1bYSvTCXa5aJTvNaW1jPj83wR7KPnT5c+GVHgZ9UZau+vxLXn9kLRK2Kbl4HSDawY63LwyLro0qHatQjflc6vqLkXq3FCbsEJxuk2g0YilRpqJv/csHYxkl63DkyFYPZZ1WVtPAR4zEAN8S6tK1eO8EBdac3HZQL2qJFhkC2TEE=
-    bucket: magazine.hevnly.com
-    region: eu-west-1
-    skip_cleanup: true
-    acl: public_read
-    local_dir: source
-    on:
-      tags: true
-  - provider: s3
-    access_key_id: AKIAJ3742PVGA6IWSPAQ
-    secret_access_key:
-      secure: mOLoPLyEJQHzlrSVbKBd4anw3u++mjckgU3L6uvBM3SLhbrNPrQXB9j0Cj3dXbwgf37E54p8ghc6UHjwM2OOAj7axYgK87M8ncjITk3KYQV4$
-    bucket: magazine.beta.hevnly.com
-    region: eu-west-1
-    skip_cleanup: true
-    acl: public_read
-    local_dir: source
-    on:
-      branch: master
-  - provider: s3
-    access_key_id: AKIAJRNWPZQET66PPB5Q
-    secret_access_key:
-      secure: "GZVuLZ+jMjtlNPZBEXn43u0bz+MmhbEccPucelVdRz1Un+EnzdOv72PKtO/QXOU3bLG2lWz4j36WazfRqd7CE3zUR2D0UgBHcgDrqfNd56NLw/BDrW+SR6pVsQJcHujQ1cXZOJY7my1qjHpHlthvTxouLfV2NGX3ky0QDd/tdjhqktEqVpLFiR3fZYlz8n1l0iDfTgxLr0FXJlmKX/hHF4KmzALqp4Q/SXHkmLDxSNGB7bMxRUs0Ywvvcp9Dr3m3Myc8qy/JdzstbH2uIuS5s4a6JrlE1CreCwOyZk5Tj73/0vr9VcqbNi09JqbVIUmx3tLZpyAPtWbsbnAljnMT2p90bSILYg34qXWiDq00veJ5XsanAWvezevLb3R5ppzPwfqnHc1ZFCWeoIpJhAB43j4b6Anz+fvMe+it5+JlDwB/I95JqCvHU96+PhSVGDbfUZh3BEZbFgRGV0d7BpjsH5W66QIeJApMeuvfNVuaEBsUUufvXJIrc9QAaLt/t91OYiUHKHlDprpjckv11NWc+lt1d5lIQ9hFe9MeHXDtL18+dWSTHnLLsPyJkfFqR80U5fn20jy0kri4PgaSTuoYUcGI4+Gk+ja4nEuD2oDAZPnvanih+vEQT8gLPCdvFCSBGvkod1bxShZdB+GvIeRb+ENGR5oy2rpUskMXusIscgs="
-    bucket: magazine.nightly.hevnly.com
-    region: eu-west-1
-    skip_cleanup: true
-    acl: public_read
-    local_dir: source
-    on:
-      branch: develop
-
+  provider: s3
+  access_key_id: AKIAJRNWPZQET66PPB5Q
+  secret_access_key:
+    secure: rPQc8prtSrepyAHE5qST1HTWfQnX3r8P8ahh/LwP4uVKiiujevzGHWEB5EfjHeRzLtMMAr3xyLn+xO3pHchPdK56pKLOl9Vizt11WARA2mJH1OO636zw7bsXj1y0cpFnGOcn26S3xJYRjorgPvJ4iWv10wiVVPL5kfwvmVkRpbUOdYx8BijAMDxbwPYGH1PXU7ixFOgpJIYrhCkW/2hIfdAkIufsiCtFYGAqSpKs9ogj02nEcT3yr1Et7VS0wTWKqgYrPZBUi/KjOdt/YJiNyrvqzxklCXc+7wfDdbvespyt8zR8eYstDgnVFB623poje/wBqgMDnsD4kvPHC53rpj6vyapLqkDLKo1rJ2i9G/sHrRYksX45b0YB3AyG2t4mcX+AzmtIC2IQYXIGEfKc0r4zfrfWehIFBg/CorPUP/uO2aXBcxMD8OitPLH78JKIbu5vR8g8dbXcBLFdaRmqKMjd2T6Wb9pS55lTvuIB2yY4AR3RbIvabEQIVMyqU5FEYMcb5k7Ovofz1kqtcEwMs7ryYe0H0oBSXX6GR11YTMKDiNhD+Mc1BXbfa5r6Q0oIuhZheNOlEUT04GqJ8bcxb6x5CZirmisHHZlYF+49dv5zmW04UwOKiiZQWSQKJw0TJnN1qS+Cu2DLUIPu4vhIWfw0Ju/J3peP0eIR+h1qbUE=
+  bucket: magazine.nightly.hevnly.com
+  region: eu-west-1
+  skip_cleanup: true
+  acl: public_read
+  local_dir: source
+  on:
+    branch: develop
