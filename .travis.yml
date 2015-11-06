@@ -1,8 +1,5 @@
 language: node_js
-node_js:
-  - stable
-before_install:
-  - sudo apt-get install markdown
+script: date
 deploy:
   - provider: s3
     access_key_id: AKIAIFVKJ4HIOOJQUNDQ
