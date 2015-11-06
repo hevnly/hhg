@@ -2,7 +2,7 @@
 title: mast brothers
 subTitle: chocolate makers
 readingTime: 4min
-heroImage: vifa-hero.jpg
+heroImage: mast-brothers-hero.jpg
 date: 2015-10-14
 slug: mast-brothers
 tags:
