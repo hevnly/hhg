@@ -1,5 +1,8 @@
 language: node_js
-script: date
+script:
+    - date
+    - npm install -g bloginator
+    - bloginate
 deploy:
   - provider: s3
     access_key_id: AKIAJRNWPZQET66PPB5Q
@@ -9,7 +12,7 @@ deploy:
     region: eu-west-1
     skip_cleanup: true
     acl: public_read
-    local_dir: source
+    local_dir: build
     on:
       branch: master
   - provider: s3
@@ -20,6 +23,6 @@ deploy:
     region: eu-west-1
     skip_cleanup: true
     acl: public_read
-    local_dir: source
+    local_dir: build
     on:
       branch: develop
