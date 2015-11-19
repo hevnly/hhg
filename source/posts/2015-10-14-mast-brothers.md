@@ -5,9 +5,9 @@ readingTime: 4min
 heroImage: mast-brothers-hero.jpg
 date: 2015-10-14
 slug: mast-brothers
-tags:
+tags: chocolate, beer
 category: place
-editionName: chocolate
+editionName: food
 editionNumber: 1
 ---
 
