@@ -4,7 +4,7 @@ subTitle: "where are we now"
 readingTime: 4min
 heroImage: nikehero.jpg
 date: 2015-07-12
-slug: the-ongoing-influence-of-black-culture-within-popular-culture-part-2
+slug: influence-of-black-culture-2
 tags: black culture, fashion, culture
 category: product
 editionName: revolution

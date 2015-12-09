@@ -4,7 +4,7 @@ subTitle: "part one – black culture and popular culture: the history and the d
 readingTime: 4min
 heroImage: dmc-hero.jpg
 date: 2015-07-12
-slug: the-ongoing-influence-of-black-culture-within-popular-culture
+slug: influence-of-black-culture
 tags: black culture, fashion, culture
 category: people
 editionName: revolution
