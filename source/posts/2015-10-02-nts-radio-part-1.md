@@ -1,14 +1,15 @@
 ---
 title: "the online station making radio relevant again : part 1"
-subTitle: hevnly meets nts founder femi adeyemi
+subTitle: "hevnly meets nts founder femi adeyemi"
 readingTime: 3min
 heroImage: nts-radio-part-1-hero.jpg
 date: 2015-10-02
 slug: nts-radio-part-1
 tags: radio, music, audio
-category: person
+category: people
 editionName: music
-editionNumber: 2
+editionNumber: 3
+featureNumber: 1
 ---
 
 wander aimlessly down kingsland road, amidst dalston's perpetual hustle and bustle, seemingly engulfed in the cacophony of ridley road market and the never-ending stream of double deckers, and it's easy to miss the turn-off to gillett square. a granite-paved courtyard a mere stumble from the high street, this intimate opening in the heart of east london's concrete jungle occupies a patch of relative tranquility and pedestrianized space.

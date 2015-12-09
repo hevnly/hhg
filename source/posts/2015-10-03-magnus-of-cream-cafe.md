@@ -1,14 +1,15 @@
 ---
 title: "cream: how to redefine the 'conventional' café"
-subTitle: magnus reid is on a mission to create the perfect recipe
+subTitle: "magnus reid is on a mission to create the perfect recipe"
 readingTime: 6min
 heroImage: magnus-of-cream-cafe-hero.jpg
 date: 2015-10-03
 slug: magnus-of-cream-cafe
 tags:
-category: person
-editionName: coffee
-editionNumber: 3
+category: people
+editionName: organic
+editionNumber: 2
+featureNumber: 1
 ---
 
 magnus reid takes his responsibilities seriously. 'for me, buying local is as, if not more important than buying a certified organic product', he says. 'people often overlook emissions, and transit spraying, fishing quotas and all that kind of thing.' we're sitting in c.r.e.a.m. cafe, a daytime canteen located in new inn yard, shoreditch, where magnus—blond, nearly six foot, and covered in tattoos—is head chef.
