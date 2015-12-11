@@ -1,18 +1,15 @@
 ---
-title: "the ongoing influence of black culture within popular culture part 2"
-subTitle: "where are we now"
+title: “the ongoing influence of black culture within popular culture part 2”
+subTitle: “where are we now“
 readingTime: 4min
 heroImage: nikehero.jpg
 date: 2015-07-12
-slug: influence-of-black-culture-2
-tags: black culture, fashion, culture
+slug: black-culture-part-2
+tags: black culture, fashion, culture,
 category: product
 editionName: revolution
 editionNumber: 5
-featureNumber: 2
-publish: true
 ---
-
 around the same time that adidas began collaborating with run dmc, rival brand nike started designing footwear for basketball legend michael jordan. the deal became one of the most lucrative collaborations between a black cultural icon and a big commercial brand.
 
 but the collaboration didn’t get off to a good start. it was decided by the nba commissioner that the trainer, designed by peter moore, didn’t contain enough white and therefore broke the nba clothing rules. and so each time jordan stepped onto the court he was fined $5000.
@@ -49,6 +46,5 @@ these are testimonies that illustrate just how influential black cultural icons 
 ozwald boateng, londoner by way of ghana, was the first designer of African heritage to set up shop on the prestigious savile row. boateng was responsible for creating suits not just for will smith and jamie foxx but also the entire ocean’s 13 cast. although already a sartorial force, tracy reese shot to fame when michelle obama started to wear her dresses on the world stage. beyonce, eva longoria and alicia keys also helped her cause. the first lady was also instrumental in popularising duro olowu’s range of vibrant patterns.
 
 these are just some of the contemporary figures shaping the trends and fashions we see in the media and online—though maybe not the names we are used to hearing about.
-
 ![ozwald boateng](ozwald.jpg)
 *ozwald boateng*

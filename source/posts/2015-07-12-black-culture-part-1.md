@@ -1,17 +1,16 @@
 ---
-title: "the ongoing influence of black culture within popular culture"
+title: “the ongoing influence of black culture within popular culture”
 subTitle: "part one – black culture and popular culture: the history and the development"
 readingTime: 4min
 heroImage: dmc-hero.jpg
 date: 2015-07-12
-slug: influence-of-black-culture
-tags: black culture, fashion, culture
+slug: black-culture-part-1
+tags: black culture, fashion, culture,
 category: people
-editionName: revolution
+editionName: revolution 
 editionNumber: 5
-featureNumber: 7
-publish: true
 ---
+
 
 it was kansas-based jazz saxophonist lester “prez” young who popularised the word ‘cool’ as a term of approval. or so the story goes. young was part of an early jazz movement that would morph from a black sub-culture into one of the cornerstones of popular culture. but given the extent of his influence on both music and 1940s hipster jargon, he remains a relatively unknown figure.
 
