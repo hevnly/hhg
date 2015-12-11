@@ -10,9 +10,11 @@ category: people
 editionName: revolution 
 editionNumber: 5
 featureNumber: 3
+publish: true
 ---
 
 Ai Weiwei’s father, the renown revolutionary Chinese poet, Ai Quing, was an officer in Chairman Mao’s Communist party. Until 1956 he was the chief adviser on literary policy but a year before his son’s birth, in a moment of profound clarity, he wrote and published the poetical allegory “The Gardener’s Dream”, which speaks of a rose gardener who has an epiphany and realises that he’s been discriminating against all the other beautiful flowers in the world. This overt comment on Chinese governmental regime was immediately recognised as a threat to Mao’s “New World” and he was banished, with his pregnant wife, into exile. Scarcely months later, Ai Weiwei was born into a socially and politically ostracised family, living on the edge of the Gobi desert. His “Rightist” father was blacklisted and forced to clean toilets and engage in manual labour for the next twenty years.
+
 After Mao’s death. Ai Qing was granted a pardon and he, his wife and his son were allowed back to Beijing. Upon their return, however, at the age of nineteen, after labouring with his father most of his young life, Ai Weiwei informed his parents that he was freeing himself from the shackles of his circumstances, moving to New York City and that he would not be returning.
 
 ![All the tyrants in history, all the avaricious and corrupt, have tried to imprison the light because light awakens the people.- Ai Quing.](father.jpg)

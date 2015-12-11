@@ -10,6 +10,7 @@ category: people
 editionName: revolution
 editionNumber: 5
 featureNumber: 5
+publish: true
 ---
 
 without much more than a wave, a kiss and a humble nod to his adoring audience, raf simons took his final walk as the creative director of christian dior at the end of its women’s spring/summer 2016 show. This fall, generating even more buzz than he did in april 2012 as he took over the french house, it was announced that he would not be renewing his contract with the lvmh holding. a resolution made by simons, was bittersweetly supported by sidney toledano, chief executive officer of christian dior and bernard arnault, chairman of lvmh. 

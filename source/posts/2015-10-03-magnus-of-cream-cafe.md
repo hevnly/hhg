@@ -10,6 +10,7 @@ category: people
 editionName: organic
 editionNumber: 2
 featureNumber: 1
+publish: true
 ---
 
 magnus reid takes his responsibilities seriously. 'for me, buying local is as, if not more important than buying a certified organic product', he says. 'people often overlook emissions, and transit spraying, fishing quotas and all that kind of thing.' we're sitting in c.r.e.a.m. cafe, a daytime canteen located in new inn yard, shoreditch, where magnus—blond, nearly six foot, and covered in tattoos—is head chef.
