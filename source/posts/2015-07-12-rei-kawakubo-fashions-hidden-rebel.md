@@ -2,15 +2,13 @@
 title: "rei kawakubo: fashion’s hidden rebel"
 subTitle: "meet the woman who may be fashion’s favourite longest standing and most elusive innovator"
 readingTime: 4min
-heroImage: never.jpg
+heroImage: cdghero.jpg
 date: 2015-07-12
 slug: rei-kawakubo-fashions-hidden-rebel
-tags: rei kawakubo, fashion
+tags: rei kawakubo, fashion,
 category: people
 editionName: revolution
 editionNumber: 5
-featureNumber: 4
-publish: true
 ---
 
 Revolutionaries too often become icons of personality at the expense of their achievements and even their values. But for Rei Kawakubo, the notoriously reclusive designer and founder of Comme des Garçons, it is her creations that always take priority. From her very first show to her current collections, Kawakubo has irreversibly changed the face of fashion and retail whether you realise it or not. 
@@ -38,5 +36,5 @@ In the same year, Kawakubo also unleashed her concept of the Guerilla stores. In
 
 Rei Kawakubo reclusive nature is what actually makes her a maverick in today’s age. Where so often personality overshadows and undermines the actual creations, for Kawakubo whether it’s a new collection, a new line, or even a new store, nothing ever falls flat. Rei Kawakubo has been one of fashion’s greatest revolutionaries and anti-heroes since 1981, but what sets her apart is the constant will and urge to innovate: for Kawakubo, the work is never over.
 
-![kawakubo](cdghero.jpg)
+![kawakubo](never.jpg)
 *kawakubo*

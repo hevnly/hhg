@@ -9,8 +9,6 @@ tags: panton, design, interior, chair
 category: product
 editionName: design
 editionNumber: 1
-featureNumber: 1
-publish: true
 ---
 
 in the mid-fifties, a charismatic young dane with a luxuriant fisherman's beard set out on a pilgrimage across europe in a vw camper. with a pack of cigarettes in one hand and a sharpened pencil in the other, few would have guessed that verner panton would become the enfant terrible of danish furniture design.
@@ -26,7 +24,6 @@ curvaceous as a space vixen, merely sitting on a panton felt out-of-this-world. 
 
 ![kate moss sits on a red panton chair, vogue magazine, january 1995](ate-moss.jpg)
 *kate moss sits on a red panton chair, vogue magazine, january 1995*
-
 
 born in 1926 to innkeeper parents in the tiny village gentofte, denmark, panton was an aspiring artist. during the second world war he joined the resistance – and spent a brief period in hiding after a cache of weapons was discovered in his bedroom. in 1947 he moved to copenhagen to study architecture, before embarking on a trip around europe in his beloved vw camper van, which he'd fitted with the bare essentials: a place to sleep and a drawing board. aside from intermittent hotel pit-stops for hot showers, he designed the first collapsible house (made from cardboard), the first inflatable transparent furniture, played around with new materials, collected the phone numbers of factories he thought might be useful and earned a living from small design projects. then, in 1959, eager to disrupt the notion that everything danish should be wholesome and crafted from wood, he sketched the panton chair.
 
@@ -48,7 +45,6 @@ while the beatles' white album was receiving mixed reviews, the panton chair lan
 
 ![verner panton (second from right) with vitra chairman rolf fehlbaum (second from left) during the development process of the panton chair](design.jpg)
 *verner panton (second from right) with vitra chairman rolf fehlbaum (second from left) during the development process of the panton chair*
-
 
 if you'd like to take a closer look, the original now sits in new york's museum of modern art. no need to attempt an oceans eleven-style heist, though, because vitra's superb 1990s re-issue can be yours from £208 from hevnly.com. made to panton's magical proportions, the only difference is that it's made from a more durable plastic, and thus suitable for use outdoors. or, indeed, in vintage vw camper vans.
 

@@ -1,16 +1,14 @@
 ---
-title: "the online station making radio relevant again : part 1"
-subTitle: "hevnly meets nts founder femi adeyemi"
+title: "femi adeyemi"
+subTitle: "part 1 - hhg talks to nts founder femi adeyemi who' online station is making radio waves across the globe "
 readingTime: 3min
-heroImage: nts-radio-part-1-hero.jpg
+heroImage: femi-hero.jpg.jpg
 date: 2015-10-02
 slug: nts-radio-part-1
-tags: radio, music, audio
+tags: radio, music, audio, london, dalston
 category: people
 editionName: music
 editionNumber: 3
-featureNumber: 1
-publish: true
 ---
 
 wander aimlessly down kingsland road, amidst dalston's perpetual hustle and bustle, seemingly engulfed in the cacophony of ridley road market and the never-ending stream of double deckers, and it's easy to miss the turn-off to gillett square. a granite-paved courtyard a mere stumble from the high street, this intimate opening in the heart of east london's concrete jungle occupies a patch of relative tranquility and pedestrianized space.
@@ -32,8 +30,8 @@ the station, which they never got around to naming, allowed femi to flex his mus
 
 at university, femi developed his fascination for radio in all its forms, ravenously consuming everything from indie-grunge on rock radio, to sports and political talk shows on talk sport and the bbc. his passion even drew his gaze across the atlantic, discovering the extensive digital archives of american college radio stations like new jersey's wfmu and california's kcrw.
 
-![Femi on the street](28-0.jpg)
-*nts is located in the heart of dalston's gillet square*
+![Femi in the nts office](0008.jpg)
+*nts radio wants offers a middle ground.*
 
 while pirate stations continued to battle, very publically, with ofcom and the government throughout the 2000s, femi looked to the technological advancements happening around him for inspiration. with broadband internet, audio (and video) streaming became very possible, very attainable solutions for the music industry, an industry which was in desperate need of new ideas. platforms like myspace and last.fm, as well as much of fm radio, had become exhausted and outdated, crucially because they hadn't caught up to the need for real-time engagement with their users and audiences. internet radio bridged that gap, and from this, nts radio was born.
 
@@ -45,7 +43,7 @@ their ethos is simple. "it's all about balance, covering all the bases, genre wi
 
 when at one stage that balance inadvertently tipped to a slight predominance of shows playing club-oriented music, the programming team acted to restore the equilibrium. "there was a period for like a year where the perception of listeners was that nts was predominantly a dance music station and we were like "what the fuck is going on?" because a lot of the parties we threw were dance parties and the other thing was that it did just start to blurt out the radio so we did have to cull it and bring back some other organic shows."
 
-![NTS Glitch](nts-radio-kit-records-glitchy.jpg)
-*nts offers over 200 hosts*
-
 curation, then, is essential and that reflects in much of the programming. with no show is this more true than record store rotation, which sees local retailers like kristina records, flashback, rough trade and manchester-based boomkat take to the airwaves with the latest and greatest from their respective shelves. while record store staff the world over may have a reputation of being fearsomely cliquey, these people occupy a pivotal place between labels and consumers and there's no denying their encyclopedic knowledge. sean "grew up working in record stores and i know from the people i encountered that those are the ones who know everything about music. they're the right people to have on the radio, and they're conversing everyday with customers". it's innovative shows like this that show the pioneering attitude nts has become synonymous with.
+
+![Femi in Gillet Sq.](28-0.jpg)
+*nts offers over 200 hosts*

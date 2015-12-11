@@ -7,9 +7,8 @@ date: 2015-07-12
 slug: fashion-and-communism
 tags: fashion, gosha rubchinskiy, culture
 category: people
-editionName: revolution
+editionName: revolution 
 editionNumber: 5
-featureNumber: 6
 ---
 
 Communist revolutionaries, dictators, and regimes may seem like a strange influence for fashion. And yet the iconic status that certain figures achieved (for good and for bad) and certain aspects of state-controlled style, have undeniably found their way into what we wear today. 
