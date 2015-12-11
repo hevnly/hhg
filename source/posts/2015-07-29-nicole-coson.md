@@ -10,6 +10,7 @@ category: people
 editionName: artisan
 editionNumber: 4
 featureNumber: 1
+publish: true
 ---
 
 a series of black and white monotype prints hang in a row, framed on a white wall. they look like a series of abstract pieces: black surfaces erratically erased. they look, from a distance, like seven versions of chaos.

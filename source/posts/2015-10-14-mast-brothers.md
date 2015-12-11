@@ -10,6 +10,7 @@ category: place
 editionName: organic
 editionNumber: 2
 featureNumber: 1
+publish: true
 ---
 
 "not everything strange and unfamiliar is transcendental". rothko isn't usually understood or agreed with, but having recently seen an exhibition of his, it seems his message might be something like this; we, as a culture have forgotten how to connect to our, basic and primal, human universality. we've forgotten to embrace those feelings that are so visceral that no words can articulate the sensations that they rouse in us. so much so that the beauty of quiet simplicity has been forgotten but rick and michael mast have done something about that.

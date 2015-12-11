@@ -10,6 +10,7 @@ category: product
 editionName: design
 editionNumber: 1
 featureNumber: 1
+publish: true
 ---
 
 in the mid-fifties, a charismatic young dane with a luxuriant fisherman's beard set out on a pilgrimage across europe in a vw camper. with a pack of cigarettes in one hand and a sharpened pencil in the other, few would have guessed that verner panton would become the enfant terrible of danish furniture design.

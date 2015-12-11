@@ -10,6 +10,7 @@ category: place
 editionName: north-american
 editionNumber: 7
 featureNumber: 1
+publish: true
 ---
 
 coffee and motorcycles stereotypically have nothing in common. they’re a pairing as abstract and unusual as they come. but jane motorcycles – a custom motorbike garage-cum-coffee shop hybrid in brooklyn has smashed these two sub-cultures together – and the outcome is truly special.

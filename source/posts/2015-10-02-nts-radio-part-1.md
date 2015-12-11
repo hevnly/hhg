@@ -10,6 +10,7 @@ category: people
 editionName: music
 editionNumber: 3
 featureNumber: 1
+publish: true
 ---
 
 wander aimlessly down kingsland road, amidst dalston's perpetual hustle and bustle, seemingly engulfed in the cacophony of ridley road market and the never-ending stream of double deckers, and it's easy to miss the turn-off to gillett square. a granite-paved courtyard a mere stumble from the high street, this intimate opening in the heart of east london's concrete jungle occupies a patch of relative tranquility and pedestrianized space.
