@@ -2,7 +2,7 @@
 title: "femi adeyemi"
 subTitle: "part 1 - hhg talks to nts founder femi adeyemi who' online station is making radio waves across the globe "
 readingTime: 3min
-heroImage: femi-hero.jpg.jpg
+heroImage: ntshero.jpg
 date: 2015-10-02
 slug: nts-radio-part-1
 tags: radio, music, audio, london, dalston

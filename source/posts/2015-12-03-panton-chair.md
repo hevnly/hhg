@@ -2,7 +2,7 @@
 title: "panton chair"
 subTitle: "blood, sweatband polypropylene: the story of verner panton's machine-made 1960's pop-art masterpiece"
 readingTime: 4min
-heroImage: panton-hero.jpg
+heroImage: pantonhero.jpg
 date: 2015-12-03
 slug: panton-chair
 tags: panton, design, interior, chair
