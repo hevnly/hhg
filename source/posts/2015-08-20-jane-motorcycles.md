@@ -6,7 +6,7 @@ heroImage: jane-motorcycles-hero.jpg
 date: 2015-08-20
 slug: jane-motorcycles
 tags: brooklyn, cafe, coffee, motorcycle, new york
-category: place
+category: places
 editionName: north-american
 editionNumber: 7
 featureNumber: 1

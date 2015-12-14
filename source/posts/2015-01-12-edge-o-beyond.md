@@ -6,7 +6,7 @@ heroImage: eobhero.jpg
 date: 2015-07-12
 slug: edge-o-beyond
 tags: edge o beyond, fashion, lingerie,
-category: product
+category: products
 editionName: artisan
 editionNumber: 4
 ---

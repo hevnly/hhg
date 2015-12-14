@@ -6,7 +6,7 @@ heroImage: lncc-hero.jpg
 date: 2015-12-07
 slug: lncc-concept-store
 tags: fashion, london, dalston, store, lifestyle
-category: place
+category: places
 editionName: design
 editionNumber: 1
 ---

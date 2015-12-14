@@ -6,7 +6,7 @@ heroImage: jmbhero.jpg
 date: 2015-07-12
 slug: jean-michel-basquiat
 tags: art, basquiat, culture,
-category: person
+category: people
 editionName: artisan
 editionNumber: 4
 ---

@@ -6,7 +6,7 @@ heroImage: panton-hero.jpg
 date: 2015-12-03
 slug: panton-chair
 tags: panton, design, interior, chair
-category: product
+category: products
 editionName: design
 editionNumber: 1
 ---

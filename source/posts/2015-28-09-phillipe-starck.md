@@ -6,7 +6,7 @@ heroImage: starck-hero.jpg
 date: 2015-28-09
 slug: phillipe-starck
 tags: architecture, design, technology, creativity
-category: person
+category: people
 editionName: design
 editionNumber: 1
 ---

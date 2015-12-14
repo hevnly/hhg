@@ -6,7 +6,7 @@ heroImage: los-hero.jpg
 date: 2015-12-03
 slug: lights-of-soho
 tags: soho, design, lifestyle, london
-category: place
+category: places
 editionName: design
 editionNumber: 1
 ---

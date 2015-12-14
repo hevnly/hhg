@@ -6,7 +6,7 @@ heroImage: cocteau-hero.jpg
 date: 2015-10-02
 slug: cocteau-twins
 tags: music, scotland, dream pop, avant-garde
-category: person
+category: people
 editionName: music
 editionNumber: 3
 ---
