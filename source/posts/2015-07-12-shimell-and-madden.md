@@ -6,7 +6,7 @@ heroImage: smhero.jpg
 date: 2015-07-12
 slug: shimell-and-madden
 tags: jewellery, london, artisan,
-category: product
+category: products
 editionName: artisan
 editionNumber: 4
 ---

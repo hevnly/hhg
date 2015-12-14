@@ -6,7 +6,7 @@ heroImage: nikehero.jpg
 date: 2015-07-12
 slug: black-culture-part-2
 tags: black culture, fashion, culture,
-category: product
+category: products
 editionName: revolution
 editionNumber: 5
 ---

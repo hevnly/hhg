@@ -6,7 +6,7 @@ heroImage: mutto-hero.jpg
 date: 2015-28-09
 slug: muuto-design
 tags: scandinavian, design, interior, colour, furniture
-category: product
+category: products
 editionName: design
 editionNumber: 1
 ---

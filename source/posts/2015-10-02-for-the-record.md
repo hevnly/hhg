@@ -6,7 +6,7 @@ heroImage: record-hero.jpg
 date: 2015-10-02
 slug: for-the-record
 tags: vinyl, records, music, curate
-category: product
+category: products
 editionName: music
 editionNumber: 3
 ---

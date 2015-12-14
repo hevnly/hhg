@@ -6,7 +6,7 @@ heroImage: our-legacy-hero.jpg
 date: 2015-12-07
 slug: our-legacy-contemporary-classic
 tags: fashion, design, minimalist, sweden
-category: product
+category: products
 editionName: design
 editionNumber: 1
 ---
