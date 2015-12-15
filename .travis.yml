@@ -7,9 +7,9 @@ script:
     - bloginate
 deploy:
   - provider: s3
-    access_key_id: AKIAJRNWPZQET66PPB5Q
+    access_key_id: AKIAJQOIHIYLDTKP2YWQ
     secret_access_key:
-      secure: rPQc8prtSrepyAHE5qST1HTWfQnX3r8P8ahh/LwP4uVKiiujevzGHWEB5EfjHeRzLtMMAr3xyLn+xO3pHchPdK56pKLOl9Vizt11WARA2m$
+      secure: "FPSxy2FNWEiZiTQXwPJlhw4rIcWP3/Ikhqd6iZf4ybYqv+/kQNdTj+tgergvNQezjoGWtGTK1dW0FovrHLJDlN1yrh58thJcBOeQuEaxn6IQMRK12B8KIr8zCh5ti1AaqVqh/p/ofa/ynw268M1NoeASn6yC0XEV+Ab8YgR9CYBIfOFKCOOhWlinReUKyuzfBgbxHePmC9yT5XmCg7m6xkCFsm93jh/EeJGsEzILia1HKJ0al/wRkZnKXXoZujxXVUUI8yNGE2hE1jK6xld+5+zIYUwMk6xdW+CPRjjcWgP97Xif3rY+FjD8IpYu8OkMg+WOD1Potmvb4u1vzIav5oTDwxbtzT5jq6SHhesFAJ1QgA+hGA5U55R2pmH8Tq7PqcX1Og200nJ0fGvbPfvtpEcQ5GwLKztvvEaWdJN1FZnVp5d3VX7eDbJyOKa5n83VDVL+ypyyvJLNMHozmNMFKAaYBTOSSt3IamnDe45EMt+5KTC/dI4mv+OPxydhZuEd+OCtvsmPLnmPHVVuvSMjqgsedBKXsC0GeQdtA/EDKJTKL4faKCNHZXWDkNodnB3/50AMXn3NZJF8FLRE9CyuvEn4KvY3F/wDgrB7tMRwVq4ev/zIzB1Q48f08rJE1QO1i+K1Z34wiRczQpqPBWG3zQrG+2oQF8xW+oeQlZi9deE="
     bucket: magazine.beta.hevnly.com
     region: eu-west-1
     skip_cleanup: true
