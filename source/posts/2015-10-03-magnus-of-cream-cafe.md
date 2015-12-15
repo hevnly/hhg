@@ -1,21 +1,24 @@
 ---
 title: "cream: how to redefine the 'conventional' café"
-subTitle: magnus reid is on a mission to create the perfect recipe
+subTitle: "magnus reid is on a mission to create the perfect recipe"
 readingTime: 6min
 heroImage: magnus-of-cream-cafe-hero.jpg
 date: 2015-10-03
 slug: magnus-of-cream-cafe
 tags:
-category: person
-editionName: coffee
-editionNumber: 3
+category: people
+editionName: organic
+editionNumber: 2
+featureNumber: 1
+publish: true
 ---
 
 magnus reid takes his responsibilities seriously. 'for me, buying local is as, if not more important than buying a certified organic product', he says. 'people often overlook emissions, and transit spraying, fishing quotas and all that kind of thing.' we're sitting in c.r.e.a.m. cafe, a daytime canteen located in new inn yard, shoreditch, where magnus—blond, nearly six foot, and covered in tattoos—is head chef.
 
 c.r.e.a.m. is clean, comfortable, inviting. the style might just about be called elegant, but there's enough of interest to avoid a deadening minimalism. framed photographs hang from white brick and plaster walls, potted herbs, ferns and cacti litter the room, and all is lit from above by drooping spot- and pendant lights that glow warm yellow beneath an exposed ceiling. wooden tables and countertops complete the look.
 
-[Cream Cafe Interior](cream-cafe-interion.jpg)
+![Cream Cafe Interior](cream-cafe-interion.jpg)
+*Cream Cafe Interior*
 
 around the corner from c.r.e.a.m.is the site of what was once "the theatre", built in 1576 but long since vanished, where several of shakespeare's early plays were performed. while the cafe hasn't been around that long, c.r.e.a.m. has brought something special to shoreditch life since its founding in january 2015. not content with the challenge of a menu that changes every week, the menu at c.r.e.a.m. changes every day. 'a lot of our menu is thought out at least a day or two before,' magnus says. 'because we're a café we have the opportunity to change our offering.'
 
@@ -27,7 +30,8 @@ to magnus the use of seasonal ingredients and local suppliers is just part of be
 
 it's not all play, of course. during the week c.r.e.a.m. fizzes with the entrepreneurial energy of east london, and people can be seen meeting, greeting, and eating the rich variety of foods on offer. protein magazine is around the corner, and together with c.r.e.a.m. they host regular events at the cafe. these events, known as "insights", range from talks about the future of feminism to film screenings and exhibitions. at these events drinks are served, and the sliding glass doors that serve as the entrance to c.r.e.a.m. are fanned out, opening the café to the cool of the night.
 
-[Magnus mix](magnus-mix.jpg)
+![Magnus mix](magnus-mix.jpg)
+*Magnus mix*
 
 one of the striking things about c.r.e.a.m. is that magnus himself roams the cafe floor, serving food and coffee alongside his staff. this seems to be the ethos at c.r.e.a.m., where there is a "no bullshit" approach that serves as an antidote to the pretentiousness which marks the contemporary cafe scene. it comes as no surprise, then, to learn that magnus started out on the cafe scene in perth, australia. but cooking was always a weekend job; his real desire was to become a tattoo artist. fortunately for us, food took over. after arriving in london in his late teens—'perth wasn't that fun'—magnus "staged" in kitchens like st john before moving on to the hackney pearl. soon, though, magnus decided to try his hand at running a cafe. along with several pop-up food events, magnus was jointly responsible for the rooftop cafe in london bridge and tuckshop in shoreditch, before moving on to c.r.e.a.m.
 
