@@ -1,30 +1,30 @@
 language: node_js
 before_install:
-    - sudo apt-get install graphicsmagick
+- sudo apt-get install graphicsmagick
 script:
-    - date
-    - npm install -g bloginator
-    - bloginate
+- date
+- npm install -g bloginator
+- bloginate
 deploy:
-  - provider: s3
-    access_key_id: AKIAJQOIHIYLDTKP2YWQ
-    secret_access_key:
-      secure: "FPSxy2FNWEiZiTQXwPJlhw4rIcWP3/Ikhqd6iZf4ybYqv+/kQNdTj+tgergvNQezjoGWtGTK1dW0FovrHLJDlN1yrh58thJcBOeQuEaxn6IQMRK12B8KIr8zCh5ti1AaqVqh/p/ofa/ynw268M1NoeASn6yC0XEV+Ab8YgR9CYBIfOFKCOOhWlinReUKyuzfBgbxHePmC9yT5XmCg7m6xkCFsm93jh/EeJGsEzILia1HKJ0al/wRkZnKXXoZujxXVUUI8yNGE2hE1jK6xld+5+zIYUwMk6xdW+CPRjjcWgP97Xif3rY+FjD8IpYu8OkMg+WOD1Potmvb4u1vzIav5oTDwxbtzT5jq6SHhesFAJ1QgA+hGA5U55R2pmH8Tq7PqcX1Og200nJ0fGvbPfvtpEcQ5GwLKztvvEaWdJN1FZnVp5d3VX7eDbJyOKa5n83VDVL+ypyyvJLNMHozmNMFKAaYBTOSSt3IamnDe45EMt+5KTC/dI4mv+OPxydhZuEd+OCtvsmPLnmPHVVuvSMjqgsedBKXsC0GeQdtA/EDKJTKL4faKCNHZXWDkNodnB3/50AMXn3NZJF8FLRE9CyuvEn4KvY3F/wDgrB7tMRwVq4ev/zIzB1Q48f08rJE1QO1i+K1Z34wiRczQpqPBWG3zQrG+2oQF8xW+oeQlZi9deE="
-    bucket: magazine.beta.hevnly.com
-    region: eu-west-1
-    skip_cleanup: true
-    acl: public_read
-    local_dir: build
-    on:
-      branch: master
-  - provider: s3
-    access_key_id: AKIAJRNWPZQET66PPB5Q
-    secret_access_key:
-      secure: rPQc8prtSrepyAHE5qST1HTWfQnX3r8P8ahh/LwP4uVKiiujevzGHWEB5EfjHeRzLtMMAr3xyLn+xO3pHchPdK56pKLOl9Vizt11WARA2mJH1OO636zw7bsXj1y0cpFnGOcn26S3xJYRjorgPvJ4iWv10wiVVPL5kfwvmVkRpbUOdYx8BijAMDxbwPYGH1PXU7ixFOgpJIYrhCkW/2hIfdAkIufsiCtFYGAqSpKs9ogj02nEcT3yr1Et7VS0wTWKqgYrPZBUi/KjOdt/YJiNyrvqzxklCXc+7wfDdbvespyt8zR8eYstDgnVFB623poje/wBqgMDnsD4kvPHC53rpj6vyapLqkDLKo1rJ2i9G/sHrRYksX45b0YB3AyG2t4mcX+AzmtIC2IQYXIGEfKc0r4zfrfWehIFBg/CorPUP/uO2aXBcxMD8OitPLH78JKIbu5vR8g8dbXcBLFdaRmqKMjd2T6Wb9pS55lTvuIB2yY4AR3RbIvabEQIVMyqU5FEYMcb5k7Ovofz1kqtcEwMs7ryYe0H0oBSXX6GR11YTMKDiNhD+Mc1BXbfa5r6Q0oIuhZheNOlEUT04GqJ8bcxb6x5CZirmisHHZlYF+49dv5zmW04UwOKiiZQWSQKJw0TJnN1qS+Cu2DLUIPu4vhIWfw0Ju/J3peP0eIR+h1qbUE=
-    bucket: magazine.nightly.hevnly.com
-    region: eu-west-1
-    skip_cleanup: true
-    acl: public_read
-    local_dir: build
-    on:
-      branch: develop
+- provider: s3
+  access_key_id: AKIAJQOIHIYLDTKP2YWQ
+  secret_access_key:
+    secure: kBOw3vhU6xaahgXHRTdtjVZdLXd9wPCiucGhfCpAMTmyTmJP0SalYqoCda5QNujnG/EsQNBklhgSW3WlfYGbIQ389dt5x6fyQ/vKj2IHMa0xgfGWGCnSLT6VVRmNDAL6Lkp1g5br/wAh2HZlesBnli7CED7bv/CVyanOUHb3yHupFgvcgB0iLoi+RgXq6dv/ysP6vCLH/IBzwd2BZxX8dcEilkR26cGfVkLbIYdP/TQGAQJou//+bLAHW2CL2unTBMXPEQXeiCbFwPgPlCCOhkYzwC5S/1nfC8vIWU0YL9B4Dmx1F2f7RXDnox/7heU2Ng0CxDRFMWLN2Yd0rfxVPeSbdpt2Dn5lF+gCA6Zfyl+iEaUsxM+qwyuM5xlnHNUATftphZg03kJgpbydl5zgzT3dm+PFc33iCUFd4sq1Pc6SBeshbkaS5T65eYEQ62L6rHqDpYZpKoMuxtaAjZPpJFxdTOoVquvcIPqFCUSddznYRdWHKOWQUUiLFyEjJgfibKRelBO2ugusieEWWu+uFJBT/Ippx3+3ab51zeSbCHTntEof32T142CrGAVagZE6B/Z3TEDQ7LjG1GOR9LGXTedjsn2xjgozb6V1p+VWgofu1X4q08g7XJKSi1S/3I+wHZcVOitqooOX54s5nOBmWNT14xSFIQZ0IcG+bBmyUcc=
+  bucket: magazine.beta.hevnly.com
+  region: eu-west-1
+  skip_cleanup: true
+  acl: public_read
+  local_dir: build
+  on:
+    branch: master
+- provider: s3
+  access_key_id: AKIAJRNWPZQET66PPB5Q
+  secret_access_key:
+    secure: rPQc8prtSrepyAHE5qST1HTWfQnX3r8P8ahh/LwP4uVKiiujevzGHWEB5EfjHeRzLtMMAr3xyLn+xO3pHchPdK56pKLOl9Vizt11WARA2mJH1OO636zw7bsXj1y0cpFnGOcn26S3xJYRjorgPvJ4iWv10wiVVPL5kfwvmVkRpbUOdYx8BijAMDxbwPYGH1PXU7ixFOgpJIYrhCkW/2hIfdAkIufsiCtFYGAqSpKs9ogj02nEcT3yr1Et7VS0wTWKqgYrPZBUi/KjOdt/YJiNyrvqzxklCXc+7wfDdbvespyt8zR8eYstDgnVFB623poje/wBqgMDnsD4kvPHC53rpj6vyapLqkDLKo1rJ2i9G/sHrRYksX45b0YB3AyG2t4mcX+AzmtIC2IQYXIGEfKc0r4zfrfWehIFBg/CorPUP/uO2aXBcxMD8OitPLH78JKIbu5vR8g8dbXcBLFdaRmqKMjd2T6Wb9pS55lTvuIB2yY4AR3RbIvabEQIVMyqU5FEYMcb5k7Ovofz1kqtcEwMs7ryYe0H0oBSXX6GR11YTMKDiNhD+Mc1BXbfa5r6Q0oIuhZheNOlEUT04GqJ8bcxb6x5CZirmisHHZlYF+49dv5zmW04UwOKiiZQWSQKJw0TJnN1qS+Cu2DLUIPu4vhIWfw0Ju/J3peP0eIR+h1qbUE=
+  bucket: magazine.nightly.hevnly.com
+  region: eu-west-1
+  skip_cleanup: true
+  acl: public_read
+  local_dir: build
+  on:
+    branch: develop
