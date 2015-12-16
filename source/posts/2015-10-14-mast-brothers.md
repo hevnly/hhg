@@ -7,8 +7,8 @@ date: 2015-10-14
 slug: mast-brothers
 tags: chocolate, beer
 category: places
-editionName: organic
-editionNumber: 2
+editionName: artisan
+editionNumber: 4
 featureNumber: 1
 publish: true
 ---
