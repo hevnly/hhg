@@ -45,5 +45,3 @@ a great deal of his more-recent works are inspired by the way organic processes 
 >the overall trend is towards degrowth, like society. in physics the volume always decreases as density rises, and i try to do the same. i grow back deliberately, increasing my density
 
 starck’s attitude toward his life and his work has a quintessential creative allure, synthesising both the moody and the playful, the scientific and the intuitive, a nostalgia for the past and an excitement for the future. despite his global success, starck has no intention of leaving a legacy – he just wishes to leave ‘white pages’ for generations to come. in a recent ted talk he impressed upon the audience the miracle of human progress – from bacteria to blackberry in 4 billion years – at each stage blissfully unaware of what we would later become. starck’s message is uplifting and empowering, every individual has a duty to contribute to our great story – ‘how we decide to shape the future … that is our poetry.’
-
-![](starck-footer.jpg)
