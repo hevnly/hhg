@@ -2,7 +2,7 @@
 title: "shimell and madden"
 subTitle: "crafting celestial bodies"
 readingTime: 4min
-heroImage: smhero.jpg
+heroImage: sandmhero.jpg
 date: 2015-07-12
 slug: shimell-and-madden
 tags: jewellery, london, artisan,
