@@ -31,7 +31,7 @@ record store day is another marker of vinyl’s growing popularity. it started i
 
 perhaps no-one is doing more to preserve vinyl culture more than colleen murphy, founder of classic album sundays. once a month, she chooses an album and plays it in a different london venue through the choicest sound system, tailored to both the music and the room. last month featured aphex twin’s ‘selected ambient works 85-92’ at the unique brilliant corners, dalston. damon gough, a.k.a. badly drawn boy, has been among guest speakers at previous events. they are largely hushed affairs, centred around the appreciation of great records heard in optimum conditions, audiences bearing witness to the indisputably higher sound quality of vinyl. the enterprise has expanded of late; similar nights are now on in oslo and new york.
 
-![pete rock & cl smooth.](rock&smooth.jpg)
+![pete rock & cl smooth.](image4.jpg)
 *pete rock & cl smooth.*
 
 generally, vinyl collectors purchase across a range of other mediums, so it would be wrong to state that vinyl is a reaction against streaming. rather, the two coexist, the latter accompanying our on-the-go lifestyle and the former allowing for a refreshing break from it.long may the vinyl revival continue.
