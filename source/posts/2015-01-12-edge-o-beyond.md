@@ -1,6 +1,6 @@
 ---
 title: "edge o beyond"
-subTitle: "the burgeoning label look set to shake the world of luxury lingerie."
+subTitle: "the burgeoning label set to shake the world of luxury lingerie."
 readingTime: 4min
 heroImage: eobhero.jpg
 date: 2015-07-12
