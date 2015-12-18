@@ -1,6 +1,5 @@
 language: node_js
 before_script:
-  - cd ~
   # Update apt repos
   - sudo apt-get update
   # Install command needed for node-gm (image resize)
