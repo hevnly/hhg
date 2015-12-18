@@ -2,7 +2,7 @@ language: node_js
 before_script:
   - cd ~
   # Update apt repos
-  - sudo apt-get-update
+  - sudo apt-get update
   # Install command needed for node-gm (image resize)
   - sudo apt-get install graphicsmagick
 script:
