@@ -15,7 +15,7 @@ the cocteau twins, one group that perfectly captures both beauty and experimenta
 
 the group formed in 1979 in the small town of grangemouth when childhood friends robin guthrie and william heggie met elizabeth fraser on the dance floor of the local disco, “nash”. after working on their first songs, the group found themselves on a night bus to london to see the birthday party. they brought with them only two cassettes, cassettes which would later become their first studio album, 1982’s garlands. dropping one at john peel’s office at the bbc and pressing the other directly into the hands of ivo watts-russell of record label 4ad; they returned to scotland and waited for a response – a response they knew would come. watts-russell immediately invited them down to play and after first hearing the band with fraser’s voice (that was inaudible on the tape) they were signed. call it youthful naivete or justified self-belief, the music clearly spoke for itself.
 
-![in 1979 grangemouth spawned the seminal band the cocteau twins](youthful.jpg)
+![in 1979 grangemouth spawned the seminal band the cocteau twins](garlands.jpg)
 *in 1979 grangemouth spawned the seminal band the cocteau twins*
 
 so what is this sound that still remains so distinguished? it has often been described as ethereal, otherworldly, and even as “the voice of god”. these airy descriptions reflect the importance of ambiguity and atmosphere over clarity and choruses.
