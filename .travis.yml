@@ -1,9 +1,9 @@
 language: node_js
 before_script:
   # Update apt repos
-  - sudo apt-get update
+  - sudo apt-get update -qq
   # Install command needed for node-gm (image resize)
-  - sudo apt-get install graphicsmagick
+  - sudo apt-get install -y graphicsmagick
 script:
   - date
   - npm install -g bloginator
