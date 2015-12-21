@@ -46,5 +46,6 @@ these are testimonies that illustrate just how influential black cultural icons 
 ozwald boateng, londoner by way of ghana, was the first designer of African heritage to set up shop on the prestigious savile row. boateng was responsible for creating suits not just for will smith and jamie foxx but also the entire ocean’s 13 cast. although already a sartorial force, tracy reese shot to fame when michelle obama started to wear her dresses on the world stage. beyonce, eva longoria and alicia keys also helped her cause. the first lady was also instrumental in popularising duro olowu’s range of vibrant patterns.
 
 these are just some of the contemporary figures shaping the trends and fashions we see in the media and online—though maybe not the names we are used to hearing about.
+
 ![ozwald boateng](ozwald.jpg)
 *ozwald boateng*
