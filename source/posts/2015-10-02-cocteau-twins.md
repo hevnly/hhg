@@ -20,9 +20,6 @@ the group formed in 1979 in the small town of grangemouth when childhood friends
 
 so what is this sound that still remains so distinguished? it has often been described as ethereal, otherworldly, and even as “the voice of god”. these airy descriptions reflect the importance of ambiguity and atmosphere over clarity and choruses.
 
-![garlands-1982](garlands.jpg)
-*garlands-1982*
-
 robin guthrie’s guitar uses distortion and delay with simplicity to create a sense of space. less traditional musicianship, prevalent in so many bands, is met with a similar approach to production through guthrie and simon raymonde (who replaced heggerty after garlands). this roughness and layering of sound is at home in an era where anybody can pirate their own software and experiment with production free from preconceptions.
 
 >when they first emerged in the early 80s, the cocteau twins were compared most often to siouxsie & the banshees, but in truth they never sounded like anyone – or anything – else.
