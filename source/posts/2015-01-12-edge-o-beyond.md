@@ -1,11 +1,11 @@
 ---
-title: "edge o beyond"
+title: "edge o' beyond"
 subTitle: "the burgeoning label set to shake the world of luxury lingerie."
 readingTime: 4min
 heroImage: shot_05_038.jpg
 date: 2015-07-12
 slug: edge-o-beyond
-tags: edge o beyond, fashion, lingerie,
+tags: edge o' beyond, fashion, lingerie,
 category: products
 editionName: artisan
 editionNumber: 4
