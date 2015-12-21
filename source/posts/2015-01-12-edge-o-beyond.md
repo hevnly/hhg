@@ -2,7 +2,7 @@
 title: "edge o beyond"
 subTitle: "the burgeoning label set to shake the world of luxury lingerie."
 readingTime: 4min
-heroImage: eobhero.jpg
+heroImage: shot_05_038.jpg
 date: 2015-07-12
 slug: edge-o-beyond
 tags: edge o beyond, fashion, lingerie,
