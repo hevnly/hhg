@@ -1,6 +1,6 @@
 ---
-title: “the ongoing influence of black culture within popular culture part 2”
-subTitle: “where are we now“
+title: "Reachin' (Black Lifestyle Marketing)"
+subTitle: "Part 2 - The ongoing influence of black culture."
 readingTime: 4min
 heroImage: nikehero.jpg
 date: 2015-07-12
