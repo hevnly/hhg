@@ -1,6 +1,6 @@
 ---
-title: “the ongoing influence of black culture within popular culture”
-subTitle: "part one – black culture and popular culture: the history and the development"
+title: "Reachin’ (A New Refutation of Blackness and Popular culture)"
+subTitle: "Part 1 - The history and the development of Black culture in Lifestyle."
 readingTime: 4min
 heroImage: dmc-hero.jpg
 date: 2015-07-12
