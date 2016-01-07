@@ -22,7 +22,7 @@ if you don't know panton by name, you'll almost certainly recognise his most cel
 
 curvaceous as a space vixen, merely sitting on a panton felt out-of-this-world. it became chair of the sixties, continued to scoop up awards in the seventies, was briefly swept away by the synth-pop yuppie-ism of the eighties, and then was rediscovered in the nineties. it even appeared on a now-iconic vogue cover in 1995 along with a then relatively unknown kate moss.
 
-![kate moss sits on a red panton chair, vogue magazine, january 1995](ate-moss.jpg)
+![kate moss sits on a red panton chair, vogue magazine, january 1995](panton-vouge.jpg)
 *kate moss sits on a red panton chair, vogue magazine, january 1995*
 
 born in 1926 to innkeeper parents in the tiny village gentofte, denmark, panton was an aspiring artist. during the second world war he joined the resistance – and spent a brief period in hiding after a cache of weapons was discovered in his bedroom. in 1947 he moved to copenhagen to study architecture, before embarking on a trip around europe in his beloved vw camper van, which he'd fitted with the bare essentials: a place to sleep and a drawing board. aside from intermittent hotel pit-stops for hot showers, he designed the first collapsible house (made from cardboard), the first inflatable transparent furniture, played around with new materials, collected the phone numbers of factories he thought might be useful and earned a living from small design projects. then, in 1959, eager to disrupt the notion that everything danish should be wholesome and crafted from wood, he sketched the panton chair.
