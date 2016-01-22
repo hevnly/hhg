@@ -43,7 +43,7 @@ A useful one is [stackedit](https://stackedit.io/editor).
     heroImage: hhg-post-hero.jpg
     date: 2015-11-20
     slug: hhg-post
-    tags: markdown, blog, magazine, metadata 
+    tags: markdown, blog, magazine, metadata
     category: product
     editionName: posting
     editionNumber: 1
@@ -58,5 +58,4 @@ A useful one is [stackedit](https://stackedit.io/editor).
     ```
     2015-10-21-back-to-the-future.md
     ```
-
     
