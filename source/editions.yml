@@ -1,0 +1,37 @@
+---
+editions:
+    - name   : 'Design'
+      description: ''
+      slug   : design
+      color  : #B0A598
+      number : 1
+      leadingPost:
+      quotationPost:
+    - name   : 'Music'
+      description: ''
+      slug   : music
+      color  : #6F9A95
+      number : 3
+      leadingPost:
+      quotationPost:
+    - name   : 'Artisan'
+      description: ''
+      slug   : artisan
+      color  : #AD9074
+      number : 4
+      leadingPost:
+      quotationPost:
+    - name   : 'Revolution'
+      description: ''
+      slug   : revolution
+      color  : #88638A
+      number : 5
+      leadingPost:
+      quotationPost:
+    - name   : 'Genesis'
+      description: ''
+      slug   : genesis
+      color  : #a6a8aa
+      number : 6
+      leadingPost:
+      quotationPost:
