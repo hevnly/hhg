@@ -26,7 +26,7 @@ de haan’s route into the world of design itself was unconventional. she studie
 unlike many of the larger lingerie brands, at edge o’ beyond the design process is intensely personal. throughout the year, de haan will sketch out ideas for new pieces as they come to her. when the time comes to begin a new season, she pulls out all her sketches and inspiration boards, and selects fabrics and colours based on what she would like to wear. the result is the beautifully whimsical offerings, a genuine effect of passion and care. the lingerie is made entirely within the united kingdom, and with only three product developers working with the label, the whole operation is intensely intimate.
 
 ![LEFT: EVIE BRA, Brief and suspenders. RIGHT: Lyvie Bra Brief Susp and Joshua chains](fotor-created-3.jpg)
-*:eft: Evie Bra, Brief and suspenders. right: Lyvie Bra Brief Susp and Joshua chains*
+*:left: Evie Bra, Brief and suspenders. right: Lyvie Bra Brief Susp and Joshua chains*
 
 yet edge o’ beyond’s ambitions extend outside of the local. the brand has already captured the imagination of the american market and is looking forward to expanding its global following. naomi de naan is excited about retaining the core concept of combining jewellery and lingerie while simultaneously experimenting with new shapes and materials. when asked what people can look forward to over the next few years, de haan tells hevnly that she is experimenting with incorporating leather into her designs, and hopes for an inaugural london boutique. this ambitious, sensitive designer and her burgeoning label look set to shake the world of luxury lingerie.
 
