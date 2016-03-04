@@ -5,7 +5,7 @@ readingTime: 4min
 heroImage: athlesiure-hero.jpg
 date: 2016-2-25
 slug: athlesiure
-tags: 
+tags: Athlesiure, Nike, Sports
 category: products
 editionName: genesis
 editionNumber: 6
@@ -16,6 +16,7 @@ editionNumber: 6
 Despite Parker’s former statement, Nike clearly look to further their connection with the luxury retail market. Collaborations with designers and celebrities from Michael Jordan to Kanye West, Chitose Abe (sacai) to Errolson Hugh (ACG) have substantially helped sportswear out the gym and onto the catwalk.
 
 ![Nike: Athlesiure - Exploring the phenomenon](a.jpg)
+*"if you have a body, you are an athlete," -  Bill Bowerman*
 
 The active sports category is the fastest-growing segment of the retail market and has designers itching to collaborate with influential sportswear companies. Trend forecaster, Sheila Aimette, shares some enlightening words on the subject:
 
@@ -30,6 +31,7 @@ Historically, sportswear as fashion was intended for ‘ladies of leisure’. Fu
 The western world has recently seen an explosion of ‘activewear’ into everyday fashion; whether you exercise or not. The trend is developing substantially amongst urbanites and makes sense against their social backdrop.
 
 ![Nike: Athlesiure - Exploring the phenomenon](b.jpg)
+*Average number of Nike shoes sold each year - 120,000,000*
 
 As a result of the dominant well-being and healthy-living narratives in this sector, there is increasing demand for running shoes, gym memberships and yoga classes. For those wishing to stay fit in a world where work is plentiful and time short, compromises are inevitable. The pace and constraints of city life have demanded that once separated uniforms of work and exercise converge into one seamless style.
 
