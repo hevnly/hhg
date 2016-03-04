@@ -5,7 +5,7 @@ readingTime: 3min
 heroImage: marrakech-hero.jpg
 date: 2016-2-25
 slug: marrakech
-tags: travel, Africa, lifestyle 
+tags: travel, Africa, lifestyle
 category: places
 editionName: genesis
 editionNumber: 6
