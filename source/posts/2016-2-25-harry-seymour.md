@@ -5,7 +5,7 @@ readingTime: 3min
 heroImage: harry-seymour-hero.jpg
 date: 2016-2-25
 slug: harry-seymour
-tags:
+tags: Art, Design, 
 category: products
 editionName: genesis
 editionNumber: 6
@@ -30,4 +30,3 @@ Having studied the aesthetic culture of various different eras and places, he is
 For someone so deeply immersed in the physical experience of art, it is no surprise that Harry laments the increasingly unsteady footing that art has in today’s digital world. He sees the Internet as a double-edged sword; the convenience of seeing artwork from the comfort of your phone has broadened people’s horizons, but it is also the death of looking at art. With a sense of foreboding, he talks about apps that are being developed for museums offering the viewer pages of text about the work in front of them. 'The idea of walking into The National Gallery and everyone staring at their phones is my worst nightmare.'
 
 He would rather see people investing efforts in developing online platforms for unknown artists where curators can discover them. ‘This is the biggest issue in the art industry for a young curator. As soon as someone finds a solution it will change the face of the industry entirely.’
-
