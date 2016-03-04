@@ -32,7 +32,7 @@ But it is not just heritage brands who can benefit from British manufacture.
 Albam founders, Alastair Rae and James Shaw, based their company’s manufacturing in the Midlands, taking advantage of the wealth of factories left over from the heyday of Britain’s industrial era.
 
 ![Made In Britain - A Brand Perspective](c.jpg)
-*The factory is now a sprawling space that has been added to over many years*
+*The factory is now a sprawling compound, slowly growing over many years*
 
 Although the pair lived and studied in the area, the choice was not for sentimental reasons. Driven exclusively by quality, they found that British was best. Having seen the business go from strength to strength over the past 10 years, Rae firmly believes that British factories are more efficient than ever in meeting and creating consumer demand.
 
