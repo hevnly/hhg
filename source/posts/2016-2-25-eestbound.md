@@ -5,7 +5,7 @@ readingTime: 4min
 heroImage: eestbound-hero.jpg
 date: 2016-2-25
 slug: eestbound
-tags: 
+tags: Music, Toronto, Master and Dynamic
 category: people
 editionName: genesis
 editionNumber: 6
@@ -18,6 +18,7 @@ The region has recently seen the likes of Majid Jordan, PARTYNEXTDOOR & Roy Wood
 In an era where the mozart-like minds behind hit records are becoming as revered and celebrated as the recording artist themselves, you will inevitably find production duo, EESTBOUND & Wondagurl.
 
 ![Eestbound - The Master of Sound](a.jpg)
+
 
 At only 19 years old, Wondagurl already has a series of production credits on major studio albums including; Jay-Z’s ‘Magna Carta Holy Grail’ and Drake’s ‘If You’re Reading This It’s Too Late’. To some extent she could be considered a veteran of the industry already.
 
