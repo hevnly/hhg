@@ -5,7 +5,7 @@ readingTime: 4min
 heroImage: introducing-hevnly-hero.jpg
 date: 2016-2-24
 slug: introducing-hevnly
-tags: 
+tags: Hevnly, Shopping, Fashion, Design
 category: people
 editionName: genesis
 editionNumber: 6
@@ -40,4 +40,3 @@ After working in New York as an oil trader, Badé sought to realise his dream of
 Ultimately, his dream is to have hevnly revered as an internationally renowned destination synonymous with quality and style. He believes that the platform will achieve this because fundamentally, it is about offering high-quality, high integrity products that are supported by inspirational individuals with real stories.
 
 hevnly’s mission is to elevate products with a truly positive force behind their conception. A force which truly deserves to permeate our everyday lives.
-
