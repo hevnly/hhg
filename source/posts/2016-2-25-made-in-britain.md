@@ -16,7 +16,7 @@ In 2015, the Confederation of British Industry announced that the UK’s factory
 Lea Mills - near Matlock in Derbyshire - has been the epicentre of British brand, John Smedley, for over 230 years now. The mill is built on a natural spring and continues to use the traditional double yarn technique - first seen in 1718 - whereby two strands are combined to create John Smedley’s unique and distinctive mottled garments.
 
 ![Made In Britain - A Brand Perspective](a.jpg)
-*Lea Mills was founded in 1784*
+*Lea Mills: founded in 1784*
 
 The company remains a family enterprise and these values are intrinsically woven into the fabric of the business. In many cases the company continues to employ successive generations of workers; one employee has worked the same machine since 1979.
 
