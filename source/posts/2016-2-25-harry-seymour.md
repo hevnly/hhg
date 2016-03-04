@@ -5,7 +5,7 @@ readingTime: 3min
 heroImage: harry-seymour-hero.jpg
 date: 2016-2-25
 slug: harry-seymour
-tags:
+tags: Art, Design
 category: people
 editionName: genesis
 editionNumber: 6
