@@ -27,7 +27,7 @@ It was Dom’s wife, Jo, who suggested he acquire a more functional space than t
 
 Haeckels’ packaging conveys sleek, minimal design: brown glass, wood and unwaxed cardboard are used to contain the company’s range of all-natural skin, hair and body products, fragrances, and candles. According to Haeckels, ‘the aesthetic of the brand is about presenting our coast in the best way we can, nothing more. We use minimal plastic and no labels: simple products utilising natural ingredients in high volume. Rather than using carriers to bulk out the product, we fill each product with as high percentage of antioxidants as we legally can.’
 
-![Margate’s hidden gem](5.jpg)
+![Margate’s hidden gem](2.jpg)
 *just some of Haeckels sleek packaging*
 
 
