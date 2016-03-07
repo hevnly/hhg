@@ -15,7 +15,7 @@ Through a foreground of delicately positioned gladioli stems, past blurred buddi
 
 “I designed the ready­to­wear collection, thinking about what I would want in my wardrobe,” explains Sylvie Khoy, founder and creative director of the label. “I wanted a wardrobe that’s smart, elegant, comfortable, and timeless. I wanted a bit of sexiness while still looking proper. A wardrobe that I can wear both in Paris and in Phnom Penh.”
 
-![Daily Mekong - From Paris to Phom Penh](5.jpg) 
+![Daily Mekong - From Paris to Phom Penh](5.jpg)
 *Anchaly Linen Dress*
 
 Born in France but of Southeast Asian descent, Khoy’s first capsule collection is a homage to her dual heritage. “It was important to me to keep my roots,” she shares. The name itself denotes a nod to the transboundary Mekong river which hails from the Tibetan Plateau, rushes down through the Yunnan province in China, and elapsing Cambodia and Vietnam before its final sweep into the South China Sea.
