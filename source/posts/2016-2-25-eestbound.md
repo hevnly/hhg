@@ -18,13 +18,14 @@ The region has recently seen the likes of Majid Jordan, PARTYNEXTDOOR & Roy Wood
 In an era where the mozart-like minds behind hit records are becoming as revered and celebrated as the recording artist themselves, you will inevitably find production duo, EESTBOUND & Wondagurl.
 
 ![Eestbound - The Master of Sound](a.jpg)
-
+*Wondagurl + Eestbound*
 
 At only 19 years old, Wondagurl already has a series of production credits on major studio albums including; Jay-Z’s ‘Magna Carta Holy Grail’ and Drake’s ‘If You’re Reading This It’s Too Late’. To some extent she could be considered a veteran of the industry already.
 
 Her new partner in crime, Dutch-born multi-instrumentalist Bryan Van Mierlo (AKA EESTBOUND)  - also only 19 himself - plays the guitar, piano, bass, and drums to a level of maturity far beyond his age. Since their partnership began in 2014, the talented pair went on to produce some of 2015’s most exciting releases from artists such as Travi$ Scott and Young Thug.
 
 ![Eestbound - The Master of Sound](b.jpg)
+*Eestbound | Master & Dynamic MH40 over ear headphones*
 
 One chilly winter’s evening, in a dimly lit Toronto recording studio known as Studio 64, hevnly found EESTBOUND refusing to use a guitar synth, craving the authenticity of 'the real thing'. He nostalgically recounts how the absence of a real guitar during his childhood inspired lego-constructed alternatives or the repurposing of a violin - his brother often chastised him for holding it 'the wrong way'.
 
@@ -33,6 +34,7 @@ An innate need to express himself saw him enter a musical talent competition, wh
 'I like to create beats that are unpredictable,' he remarks. '...if I'm gonna give you what you expect, I'm going to make sure that it's exactly what you want … and more'. Wondagurl is entirely supportive as both nod their heads in tandem. 'I'm his biggest fan … when it comes to beats,' she beams proudly.
 
 ![Eestbound - The Master of Sound](c.jpg)
+*The Rising Toronto based producers making waves in hip-hop*
 
 It’s refreshing to see she hasn't become disillusioned with all the new found fame and industry respect she now commands. Both charming and assertive at the same time, her reserved nature, softly-spoken voice and well-mannered demeanour only serve to make her more attractive and personable.
 
