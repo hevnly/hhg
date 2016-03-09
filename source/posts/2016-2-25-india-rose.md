@@ -2,7 +2,7 @@
 title: "India Rose"
 subTitle: "The creative power of anonymity."
 readingTime: 3min
-heroImage: india-rose-hero.jpg
+heroImage: https://meta.hevnly.com/images/on-25-2-2016/india-rose-india-rose-hero.jpg
 date: 2016-2-25
 slug: india-rose
 tags: fashion, india-rose, Instagram
@@ -13,7 +13,7 @@ editionNumber: 6
 
 To some she is an influencer, to others a director or stylist. Either way, all India’s projects are united by her minimalist individual aesthetic - as she emphatically states:  'Regardless of the brand - that’s my priority.'
 
-![India Rose - The creative power of anonymity.](https://s3-eu-west-1.amazonaws.com/meta.hevnly.com/images/on-25-2-2016/a.jpg)
+![India Rose - The creative power of anonymity.](https://meta.hevnly.com/images/on-25-2-2016/india-rose-a.jpg)
 *Anonymity, adjective "anonymous", is derived from the Greek word, anonymia, meaning "without a name" or "namelessness"*
 
 Growing up in both London and Chester, creativity was encouraged early-on by her mother and step-father: 'Our dining table was always covered with drawings and paint and we made our own Jackson Pollock paintings with drumsticks and spoons'. The defining moment came when the family bought their first SLR camera: 'I loved taking pictures from that moment.'
@@ -26,7 +26,7 @@ This intuitive eye found its outlet through her fashion blog: 'Within a year bra
 
 'By then, brands were flying me across the world to cover Fashion Week and store openings,’ she explains, 'so I quit my job, moved to London, and sofa surfed my way into the world of freelance.'
 
-![India Rose - The creative power of anonymity.](https://s3-eu-west-1.amazonaws.com/meta.hevnly.com/images/on-25-2-2016/b.jpg)
+![India Rose - The creative power of anonymity.](https://meta.hevnly.com/images/on-25-2-2016/india-rose-b.jpg)
 *Averted faces, spectral cars from an American past, a unique eye for fashion and elegant composition: this is the work of India Rose.*
 
 Now India has moved back behind the camera and into the role of Creative Director, producing what she describes as 'quality imagery' revolving around an aesthetic of anonymity. This is, in part, a reaction to the blogging area of the fashion industry India knows so well.

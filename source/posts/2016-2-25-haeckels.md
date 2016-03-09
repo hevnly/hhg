@@ -2,7 +2,7 @@
 title: "Haeckels"
 subTitle: "Margate’s hidden gem"
 readingTime: 5min
-heroImage: haeckels-hero.jpg
+heroImage: https://meta.hevnly.com/images/on-25-2-2016/haeckels-haeckels-hero.jpg
 date: 2016-2-25
 slug: haeckels
 tags: Haeckels, Grooming,
@@ -27,7 +27,7 @@ It was Dom’s wife, Jo, who suggested he acquire a more functional space than t
 
 Haeckels’ packaging conveys sleek, minimal design: brown glass, wood and unwaxed cardboard are used to contain the company’s range of all-natural skin, hair and body products, fragrances, and candles. According to Haeckels, ‘the aesthetic of the brand is about presenting our coast in the best way we can, nothing more. We use minimal plastic and no labels: simple products utilising natural ingredients in high volume. Rather than using carriers to bulk out the product, we fill each product with as high percentage of antioxidants as we legally can.’
 
-![Margate’s hidden gem](https://s3-eu-west-1.amazonaws.com/meta.hevnly.com/images/on-25-2-2016/2.jpg)
+![Margate’s hidden gem](https://meta.hevnly.com/images/on-25-2-2016/haeckels-2.jpg)
 *just some of Haeckels sleek packaging*
 
 

@@ -2,7 +2,7 @@
 title: "Kate Unsworth"
 subTitle: "Living in the moment."
 readingTime: 4min
-heroImage: kate-unsworth-hero.jpg
+heroImage: https://meta.hevnly.com/images/on-25-2-2016/kate-unsworth-kate-unsworth-hero.jpg
 date: 2016-2-25
 slug: kate-unsworth
 tags: Vinaya, Technology, Altruis
@@ -23,7 +23,7 @@ Unusually for a tech company, Vinaya’s aim is to reduce the amount of time peo
 
 Their Altruis jewellery range melds cutting edge technology with impeccable design. Each item in the small collection is strikingly minimalist, which belies the complex engineering behind them. The zirconia ceramic stone in every piece encases the very latest Bluetooth technology. The smart jewellery can be synced with an iOS app to let off small vibrations when the phone receives calls and messages.
 
-![Kate Unsworth - Living in the moment](https://s3-eu-west-1.amazonaws.com/meta.hevnly.com/images/on-25-2-2016/a.jpg)
+![Kate Unsworth - Living in the moment](https://meta.hevnly.com/images/on-25-2-2016/kate-unsworth-a.jpg)
 *ALTRUIS gold & black ring*
 
 Initially, this seems to stand in exact opposition to Unsworth’s founding inspiration of a digital detox. However, Vinaya’s Altruis app allows you to filter who you want to receive a notification from; Unsworth herself only receives an alert whenever either of her founding partners try to contact her.
