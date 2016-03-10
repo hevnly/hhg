@@ -5,11 +5,7 @@ readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/daily-mekong-hero.jpg
 date: 2016-2-25
 slug: daily-mekong
-<<<<<<< HEAD
-tags: Fashion, Paris, Womens, SS16 
-=======
-tags: Fashion, Paris, daily-mekong
->>>>>>> 8853f42932c10910cd95895b01313f0ea400162c
+tags: Fashion, Paris, Womens, SS16
 category: products
 editionName: genesis
 editionNumber: 6
