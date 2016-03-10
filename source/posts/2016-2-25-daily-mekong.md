@@ -42,9 +42,6 @@ With all that said and done, as the new collection launches, so does the latest 
 
 When asked what she hopes to achieve in the future, Khoy earnestly
 confesses, “I’d love to show people another image of Cambodia—give back their noble letter. Cambodia was destroyed by war and the country is rebuilding itself step ­by ­step. I’d love to contribute to that restoration with Daily Mekong.”
-<<<<<<< HEAD
-=======
 
 ![Daily Mekong - From Paris to Phom Penh](https://meta.hevnly.com/images/on-25-2-2016/daily-mekong-daily-mekong-hero.jpg)
 *Daily Mekong founder Sylvie Khoy*
->>>>>>> 8853f42932c10910cd95895b01313f0ea400162c
