@@ -7,7 +7,7 @@ date: 2015-07-12
 slug: Edge-o-Beyond
 tags: Edge o' Beyond, Fashion, Lingerie,
 category: Products
-editionName: Artisan
+editionName: artisan
 editionNumber: 4
 ---
 
