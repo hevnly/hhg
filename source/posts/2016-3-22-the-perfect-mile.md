@@ -7,7 +7,7 @@ date: 2016-3-22
 slug: the-perfect-mile
 tags: Running, Essentials, Fashion
 category: products
-editionName: Running
+editionName: running
 editionNumber: 7
 ---
 
