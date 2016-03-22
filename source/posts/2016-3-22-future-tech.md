@@ -7,15 +7,13 @@ date: 2016-3-22
 slug: Future-tech
 tags: future, technology, fashion, sport
 category: products
-editionName: Running
+editionName: running
 editionNumber: 7
 ---
-
 
 If you haven’t come across a pack of runners in your neighbourhood, you’ve surely come across it on social media. Through the proliferation of tags such as “crewlove” and “nevernotrunning” the rise in running’s traction as an aesthetic and athletic activity can quite literally be traced by the mile. With it and other hyper-popular methods—yoga, pilates, crossfit—innovative and technically engineered garments and accessories are being designed to evolve with every stride.
 
 Gone are the days when mainstream training technology meant a Kellogg’s Special K step counter that came free with a box of cereal. Enter the era of conductive copper thread woven into your shirt which syncs up to your phone via Bluetooth. Or a pair of socks which monitor and feeds back your running form in real time. from specialized brands like Hexoskin and Athos to prevailing names such as Nike and Adidas, more and more labels are paying attention to the “Athleisure” sector. And that’s no surprise considering sales in the market came to $35-billion in 2014, according to research firm, NPD Group. That share accounts for roughly 17% of the entire u.s. clothing market.
-
 
 ![nike trainer](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-eb46ceaa-001a-4b08-9b45-85e0dbd984c7.png)
 *The now ubiquitous Nike Flyknit*

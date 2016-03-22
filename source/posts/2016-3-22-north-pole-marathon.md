@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-d1d2bd09-f7b1-45aa
 date: 2016-3-22
 slug: north-pole-marathon
 tags: running, north pole, extreme
-category: Places
+category: places
 editionName: running
 editionNumber: 7
 ---
@@ -19,11 +19,8 @@ However, they soon find the race far more than just a change of scenery.
 
 To gain confidence in their gear and abilities, some athletes undertake specialist training sessions using an ‘environmental chamber’: which simulates the temperature and conditions of the race. A few runners have even been known to exercise in industrial freezers.
 
-
-
 ![North Pole Marathon](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-45caf5a8-0310-4f94-96d3-c39fc8b87e15.png)
 *Winter temperatures at the North Pole can range from about −50 to −13 °C, averaging around −31 °C*
-
 
 Maintaining core temperature is essential to performance. Runners must wear enough layers to prevent ice from dampening their body and freezing, but not too many that they sweat profusely and this freezes also.
 
@@ -39,10 +36,8 @@ People who run often speak of ‘a wondering mind’, or of ‘having important 
 
 Matan Rochlitz and Ivo Gormley’s short film ‘The Runners’ explores this pensive (and surprisingly candid) atmosphere runners so often report. Their urban subjects explore themes from; absolute human values and the creation of the universe, through to their most intimate problems and failures.
 
-
 ![The Runners](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-edf8743e-1f59-4bee-9436-b2e8f971bfde.png)
 *A short film by Matan Rochlitz & Ivo Gormley*
-
 
 Runners also spoke about the pressures of business and its highly competitive environment. studies suggest that by confronting the hardships of this goal-oriented activity, runners cultivate an 'emotional control’ which can then be applied to their life. The fixed distance of a race or lap of the park allows runners to set goals and take responsibility for achieving them. Pitted against the often indeterminate nature of life and work, we see how running offers people a mechanism of control as well as a direct and fair appraisal of one’s effort.
 
