@@ -20,7 +20,7 @@ Most records worthy of the term were heard first on vinyl, which gives the mediu
 
 >Its comeback is largely explained by the cultural nostalgia attached to the current obsession with ‘vintage’.
 
-But the design potential of the vinyl format has not been exhausted yet. The ‘ultra’ edition of jack white’s lazaretto features a hologram of an angel that floats as the record spins. In total, the album sold 87,000 units on vinyl in 2014, making it the best selling LP in over a decade.
+But the design potential of the vinyl format has not been exhausted yet. The ‘Ultra’ edition of Jack White’s Lazaretto features a hologram of an angel that floats as the record spins. In total, the album sold 87,000 units on vinyl in 2014, making it the best selling LP in over a decade.
 
 ![Vinyl record sales continue to surpassed many expectations](https://meta.hevnly.com/images/on-2-10-2015/for-the-record-vinyl-player.jpg)
 *Vinyl record sales continue to surpassed many expectations.*
