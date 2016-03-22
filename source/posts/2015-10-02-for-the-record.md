@@ -34,6 +34,6 @@ Perhaps no-one is doing more to preserve vinyl culture more than colleen murphy,
 ![Pete Rock & CL Smooth.](https://meta.hevnly.com/images/on-2-10-2015/for-the-record-image4.jpg)
 *Pete Rock & CL Smooth.*
 
-Generally, vinyl collectors purchase across a range of other mediums, so it would be wrong to state that vinyl is a reaction against streaming. Rather, the two coexist, the latter accompanying our on-the-go lifestyle and the former allowing for a refreshing break from it.long may the vinyl revival continue.
+Generally, vinyl collectors purchase across a range of other mediums, so it would be wrong to state that vinyl is a reaction against streaming. Rather, the two coexist, the latter accompanying our on-the-go lifestyle and the former allowing for a refreshing break from it. Long may the vinyl revival continue!
 
 ![](https://meta.hevnly.com/images/on-2-10-2015/for-the-record-footer.jpg)
