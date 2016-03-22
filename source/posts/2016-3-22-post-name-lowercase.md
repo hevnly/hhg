@@ -1,53 +1,33 @@
 ---
-title: "North Pole Marathon"
-subTitle: "The Worlds Coldest Run"
+title: "Future Tech"
+subTitle: "Driving fitness forward"
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-d1d2bd09-f7b1-45aa-9048-0a196c265f39.png
+heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-cefa5d44-b601-46c3-ab03-1df1d05b19c9.png
 date: 2016-3-22
-slug: post-title
-tags: running, north pole, extreme
-category: Places
-editionName: running
+slug: Future-tech
+tags: future, technology, fashion, sport
+category: products
+editionName: Running
 editionNumber: 7
 ---
 
-With temperatures dropping as low as -15˚ celsius, the North Pole Marathon has rightly earned itself the title: ‘World’s Coolest Marathon’.
 
-Since the first race - a solo effort by Irish athlete, founder, and race director: Richard Donovan - back in 2002, the North Pole Marathon has seen a steady increase in attendees. Most participants are familiar with marathon-running but wish to trade tarmac and high-rise for the Pole’s beautiful desolate landscape.
+If you haven’t come across a pack of runners in your neighbourhood, you’ve surely come across it on social media. Through the proliferation of tags such as “crewlove” and “nevernotrunning” the rise in running’s traction as an aesthetic and athletic activity can quite literally be traced by the mile. With it and other hyper-popular methods—yoga, pilates, crossfit—innovative and technically engineered garments and accessories are being designed to evolve with every stride.
 
-However, they soon find the race far more than just a change of scenery.
-
-To gain confidence in their gear and abilities, some athletes undertake specialist training sessions using an ‘environmental chamber’: which simulates the temperature and conditions of the race. A few runners have even been known to exercise in industrial freezers.
+Gone are the days when mainstream training technology meant a Kellogg’s Special K step counter that came free with a box of cereal. Enter the era of conductive copper thread woven into your shirt which syncs up to your phone via Bluetooth. Or a pair of socks which monitor and feeds back your running form in real time. from specialized brands like Hexoskin and Athos to prevailing names such as Nike and Adidas, more and more labels are paying attention to the “Athleisure” sector. And that’s no surprise considering sales in the market came to $35-billion in 2014, according to research firm, NPD Group. That share accounts for roughly 17% of the entire u.s. clothing market.
 
 
+![nike trainer](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-eb46ceaa-001a-4b08-9b45-85e0dbd984c7.png)
+*The now ubiquitous Nike Flyknit*
 
-![North Pole Marathon](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-45caf5a8-0310-4f94-96d3-c39fc8b87e15.png)
-*Winter temperatures at the North Pole can range from about −50 to −13 °C, averaging around −31 °C*
+The broad term “Athleisure” encompasses as much as the apparel they categorize want to achieve. On the simple and more familiar end of the spectrum there are the moisture-wicking fibres, four-way stretch elastic, and highly reflective prints. But flirting with a forward-thinking and nearly science-fictional end, companies like physiclo plan to develop and incorporate technology into their garments that will stimulate muscles to physically support and enhance the efficacy of a workout. The latter of classes is perhaps better described as “Smart Fitness Wear”.
 
+Not to discredit bigger thinking ideas as fanciful, the merits of Athleisure and Smart Fitness Wear demonstrates a more practical and sustainable shelf-life than most other exercise equipment. Technology analyst from NPD Group, Ben Arnold, points out that other devices and fitness trackers are often abandoned by fickle consumers due to the nuisance of having yet one more thing to consider. When there are already so many hurdles people have to overcome in order to fit in a proper workout, eliminating one that seems frivolous is easy. Where with smart garments, everyone already has to don some article of clothing to exercise in.
 
-Maintaining core temperature is essential to performance. Runners must wear enough layers to prevent ice from dampening their body and freezing, but not too many that they sweat profusely and this freezes also.
+>Why not have your shirt, shorts, or leggings be the equipment?
 
-The soft terrain is tough under foot; ‘It’s like running on sugar’, as one runner describes it. The ground is rarely flat and can be icy in places. Runners find it difficult to differentiate terrain against the white desert in clear conditions. Prevailing snow-screens make it infinitely harder and many are forced to concentrate on their feet just to avoid tripping over.
+But beyond its function, is its form. the research and development departments of a company like Physiclo are spending equally as much time into the design of the look as they are the technology—taking two years to develop a sleek, black short. And with brands like Arc’teryx and Ralph Lauren, who are both venturing in with technical athletic wear, sacrificing their established and highly regarded style isn’t something they’re willing to do.
 
-Taking such conditions into account, it is hardly surprising to hear runners frequently commend the event's camaraderie over competition. As female winner Fiona Oathes notes:
+So perhaps, the next time you see a crew, solo runner, or pass by a gym, take a closer look. Their workout gear could be working just as hard as they are.
 
->‘You don’t look at other runners and think “I can take you down” or “I can beat you”, you are thinking “I hope we all get round in one piece!” '
-
-One question remains: what does one gain from testing the limits of the body in this way? Not only from the challenge of a formidable environment, but what does one gain from the act of running more generally?
-
-People who run often speak of ‘a wondering mind’, or of ‘having important dialogues with themselves’. Many feel that by focusing on the esoteric, they can physically push themselves further.
-
-Matan Rochlitz and Ivo Gormley’s short film ‘The Runners’ explores this pensive (and surprisingly candid) atmosphere runners so often report. Their urban subjects explore themes from; absolute human values and the creation of the universe, through to their most intimate problems and failures.
-
-
-![The Runners](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-edf8743e-1f59-4bee-9436-b2e8f971bfde.png)
-*A short film by Matan Rochlitz & Ivo Gormley*
-
-
-Runners also spoke about the pressures of business and its highly competitive environment. studies suggest that by confronting the hardships of this goal-oriented activity, runners cultivate an 'emotional control’ which can then be applied to their life. The fixed distance of a race or lap of the park allows runners to set goals and take responsibility for achieving them. Pitted against the often indeterminate nature of life and work, we see how running offers people a mechanism of control as well as a direct and fair appraisal of one’s effort.
-
-Many runners, from the everyday to the extreme, ‘religiously’ stick to their training regimes. One does not just train the body, but also the mind. In urban and secular societies in particular, running speaks to practical values and offers a socially-accepted space to test resolve and garner self-improvement. This utility could help explain running’s growing popularity amongst urban professionals in the Western world.
-
-Finally, and perhaps most importantly, people run for others. Not for their praises but for their causes. The charity sector is largely supported by marathon runners the world over. For example, last year’s london marathon saw the event record its largest amount ever raised. Rarely is a runner’s chosen charity selected arbitrarily, it is usually conflated with a deeply personal struggle. Although the money goes to an institution, it is motivated by intimate relationships and in turn this emotional talisman motivates an athlete to endure and finish a race. When we see a marathon, in a city or the icy plains of the north pole, we are literally seeing e-‘motion’ - emotional energy on the move.
-
-![Running](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-39727034-bc90-4147-926c-59a3896a108f.png)
+![Gym Sweat ](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-b8c2114e-b14e-460c-94aa-b29e9d1db240.png)
