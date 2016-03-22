@@ -7,8 +7,8 @@ date: 2016-2-25
 slug: athlesiure
 tags: Athlesiure, Nike, Sports
 category: products
-editionName: genesis
-editionNumber: 6
+editionName: running
+editionNumber: 7
 ---
 
 'Our motivation isn't to make products that resonate with the luxury fashion consumer. But the nature of what we do, the design and the inspiration, I think sometimes makes it part of that world,' claims Nike’s CEO, Mark Parker, when asked about his company’s growing share in the luxury sportswear market.
