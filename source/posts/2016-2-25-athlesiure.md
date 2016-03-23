@@ -30,8 +30,9 @@ Historically, sportswear as fashion was intended for ‘ladies of leisure’. Fu
 
 The western world has recently seen an explosion of ‘activewear’ into everyday fashion; whether you exercise or not. The trend is developing substantially amongst urbanites and makes sense against their social backdrop.
 
-![Nike: Athlesiure - Exploring the phenomenon](https://meta.hevnly.com/images/on-25-2-2016/athlesiure-b.jpg)
+![Nike: Athlesiure - Exploring the phenomenon](https://meta.hevnly.com/images/on-3-3-2016/hhg-img-021b2231-9bf3-493e-88c4-31527cace1c9.png)
 *Average number of Nike shoes sold each year - 120,000,000*
+
 
 As a result of the dominant well-being and healthy-living narratives in this sector, there is increasing demand for running shoes, gym memberships and yoga classes. For those wishing to stay fit in a world where work is plentiful and time short, compromises are inevitable. The pace and constraints of city life have demanded that once separated uniforms of work and exercise converge into one seamless style.
 
