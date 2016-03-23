@@ -36,10 +36,10 @@ It’s likely that Rihanna is doing well out of her collaboration with Puma. The
 
 The relationship is more difficult to untangle when it comes to high fashion. In September 2014 DKNY models sported baby curls on the catwalk. You don’t have to be a TLC fan to know that baby curls, popularized by Rozonda “Chilli” Thomas, became a major trend in the 90s. But who is owed what? And is it ok for FKA Twigs to showcase her baby curls on stage but not the (mostly) white models walking down the catwalk during New York fashion week?
 
-The same issue arises when we see popular and successful white artists like Taylor Swift wearing chunky jewellery in her music videos. We only need to look back as far as Run-D.M.C. Again to realise how influential they were in popularising that trend. And the same goes for bantu knots (worn by Gwen Stefani and Miley Cyrus for example) and parachute pants (worn by MC Hammer and, now, every american female celebrity caught on camera doing their grocery-shopping).
+The same issue arises when we see popular and successful white artists like Taylor Swift wearing chunky jewellery in her music videos. We only need to look back as far as Run-D.M.C. Again to realise how influential they were in popularising that trend. And the same goes for Bantu Knots (worn by Gwen Stefani and Miley Cyrus for example) and parachute pants (worn by MC Hammer and, now, every american female celebrity caught on camera doing their grocery-shopping).
 
 ![Rihanna sporting the 'Bantu knots'](https://meta.hevnly.com/images/on-12-7-2015/black-culture-part-2-knots.jpg)
-*Rihanna sporting the 'bantu knots'*
+*Rihanna sporting the 'Bantu Knots'*
 
 These are testimonies that illustrate just how influential black cultural icons have been in shaping popular culture and some of the major trends that have come about in recent years. But tracing the roots of these major fashion trends runs the risk of overlooking some of the more immediately influential figures that are shaping popular culture now.
 
