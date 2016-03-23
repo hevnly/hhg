@@ -28,4 +28,5 @@ But beyond its function, is its form. the research and development departments o
 
 So perhaps, the next time you see a crew, solo runner, or pass by a gym, take a closer look. Their workout gear could be working just as hard as they are.
 
-![Gym Sweat ](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-b8c2114e-b14e-460c-94aa-b29e9d1db240.png)
+
+![tech](https://meta.hevnly.com/images/on-3-3-2016/hhg-img-163af0c6-655d-4a0d-9322-860622a7f34f.png)
