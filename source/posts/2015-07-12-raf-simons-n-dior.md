@@ -6,12 +6,12 @@ heroImage: https://meta.hevnly.com/images/on-12-7-2015/raf-simons-n-dior-dior-he
 date: 2015-07-12
 slug: raf-simons-n-dior
 tags: Raf Simons, Fashion, Dior
-category: people
+category: People
 editionName: revolution
 editionNumber: 5
 ---
 
-Without much more than a wave, a kiss and a humble nod to his adoring audience, Raf Simons took his final walk as the creative director of Christian Dior at the end of its women’s Spring/Summer 2016 show. This fall, generating even more buzz than he did in April 2012 as he took over the french house, it was announced that he would not be renewing his contract with the lvmh holding. A resolution made by Simons, was bittersweetly supported by Sidney Toledano, chief executive officer of Christian Dior and Bernard Arnault, chairman of LVMH.
+Without much more than a wave, a kiss and a humble nod to his adoring audience, Raf Simons took his final walk as the creative director of Christian Dior at the end of its women’s Spring/Summer 2016 show. This fall, generating even more buzz than he did in April 2012 as he took over the french house, it was announced that he would not be renewing his contract with the LVMH holding. A resolution made by Simons, was bittersweetly supported by Sidney Toledano, chief executive officer of Christian Dior and Bernard Arnault, chairman of LVMH.
 
 “It is a decision, based entirely and equally on my desire to focus on other interests in my life, including my own brand, and the passions that drive me outside of my work,” Simons said in an official statement on his departure. “Christian Dior is an extraordinary company, and it has been an immense privilege to be allowed to write a few pages of this magnificent book.”
 
