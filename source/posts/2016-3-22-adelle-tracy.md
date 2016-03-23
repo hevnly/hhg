@@ -15,7 +15,7 @@ editionNumber: 7
 
 It’s another day at the office for the Olympic 800m hopeful, whose rigourous routine means that most days begin with training at eight in the morning; unless she’s working, in which case she starts at five thirty. She limits herself to between five and six miles a day, and eight miles on a Sunday. In total, she runs about two marathons a week. ‘Everything I do,’ Adelle points out, ‘fits around my training.’
 
-![Adelle Tracy](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-a8d483aa-e545-445e-afb0-a5d1be97fd06.png)
+![Adelle Tracy](https://meta.hevnly.com/images/on-3-3-2016/hhg-img-c3776ba2-13a6-4df7-a86d-6e137fbebd9e.png)
 *'As my running got better, everything else seemed to get better too.’*
 
 Adelle’s foray into athletics began at a young age: at 12 she joined local athletics club Guildford and Godalming AC. At 15 she won her first national title and began specializing in the 800m. At 16 she donned her first Great Britain vest and became a European Youth Olympic silver medallist. She was later invited to two-time Olympic gold medallist Dame Kelly Holmes’ own specialist training camp, before being nominated by Holmes herself to light the Olympic cauldron in London in 2012.
