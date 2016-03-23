@@ -1,42 +1,42 @@
 ---
-title: "shimell and madden"
-subTitle: "crafting celestial bodies"
+title: "Shimell and Madden"
+subTitle: "Crafting celestial bodies"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-sandmhero.jpg
 date: 2015-07-12
 slug: shimell-and-madden
-tags: jewellery, london, artisan,
+tags: Jewellery, London, Artisan, Accessories
 category: products
 editionName: artisan
 editionNumber: 4
 ---
 
-luke shimell and emma madden are artisan jewellers based in shoreditch, east london. they work in the space ‘where craft, art and fashion intersect’, and have exhibited their jewellery around the world. their inspiration comes from eclectic sources: mathematics, euclidean geometry, and the movement of celestial bodies; and their work is reminiscent of ancient artefacts, of long-forgotten treasure and classical architecture. at the same time it is relentlessly contemporary, and rigorously modern. each stone is precision cut and has crystal clarity; each piece has an energy and force of its own. 
+Luke Shimell and Emma Madden are artisan jewellers based in Shoreditch, east London. They work in the space ‘where craft, art and fashion intersect’, and have exhibited their jewellery around the world. Their inspiration comes from eclectic sources: mathematics, euclidean geometry, and the movement of celestial bodies; and their work is reminiscent of ancient artefacts, of long-forgotten treasure and classical architecture. At the same time it is relentlessly contemporary, and rigorously modern. Each stone is precision cut and has crystal clarity; each piece has an energy and force of its own.
 
-![one example of there work](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-work.jpg)
-*one example of there work*
+![Prototype](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-work.jpg)
+*Prototype*
 
-emma took a metalwork and jewellery degree at the university for the creative arts. luke, meanwhile, studied product design before going on to train as a diamond mounter in mayfair. after working together in both devon and london, they decided to found a business in 2010. ‘as the projects got bigger it was a natural progression to set up a company and continue the same,’ emma says. 
+Emma took a metalwork and jewellery degree at the university for the creative arts. Luke, meanwhile, studied product design before going on to train as a diamond mounter in Mayfair. After working together in both Devon and London, they decided to found a business in 2010. ‘As the projects got bigger it was a natural progression to set up a company and continue the same,’ Emma says.
 
-so how does the jewellery get made? ‘after developing the initial concept for a piece or collection,’ luke says, ‘we sometimes get the inspiration for the form, from finding a particular cut or type of gemstone.’ they go through plenty of prototypes before they hit on the final product. ‘we like to develop our ideas by creating prototypes in wax and base metal,’ says emma. this system of trial and error allows them to take time to consider proportion, look, and feel. but it has to be exact, not least because there are precious materials at stake. 
+So how does the jewellery get made? ‘After developing the initial concept for a piece or collection,’ Luke says, ‘we sometimes get the inspiration for the form, from finding a particular cut or type of gemstone.’ They go through plenty of prototypes before they hit on the final product. ‘We like to develop our ideas by creating prototypes in wax and base metal,’ says Emma. This system of trial and error allows them to take time to consider proportion, look, and feel. But it has to be exact, not least because there are precious materials at stake.
 
-![some of these prototypes will never the see the light of day](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-type.jpg)
-*some of these prototypes will never the see the light of day*
+![Some designs never the see the light of day](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-type.jpg)
+*Some designs never the see the light of day*
 
-the prototypes and final piece are made in much the same way. according to luke, this involves traditional hand forging and annealing of the metal. ‘we then slowly solder all the different components together exactly where we want them. the metal part is made first and then we set the stones after, often under a microscope for precision.’ precision is a word they like to use, and you can see why. theirs is a geometry of exactitude, dominated by clean lines and abstract shapes, where shimmering gold or silver is punctuated by red ruby, orange sapphire, or white diamond. ‘then comes the finish—the piece really comes to life by applying the polish or the desired texture to the metal.’ 
+The prototypes and final piece are made in much the same way. According to Luke, this involves traditional hand forging and annealing of the metal. ‘We then slowly solder all the different components together exactly where we want them. The metal part is made first and then we set the stones after, often under a microscope for precision.’ Precision is a word they like to use, and you can see why. Theirs is a geometry of exactitude, dominated by clean lines and abstract shapes, where shimmering gold or silver is punctuated by red ruby, orange sapphire, or white diamond. ‘Then comes the finish—the piece really comes to life by applying the polish or the desired texture to the metal.’
 
-are they artisans? ‘we get most joy,’ emma says, ‘from reacting to the behaviour of the metal and testing the boundaries of its properties.’ this fascination with the making process, along with a love for the materials themselves, keep shimell and madden firmly rooted in the tradition of artisanship. ‘forming a shape or structure with our hands using techniques that are hundreds of years old—it’s truly satisfying,’ emma adds. ‘we’ll always remain bench workers and keep the artisanal traditions at the core of our business.’ 
+Are they artisans? ‘We get most joy,’ Emma says, ‘from reacting to the behaviour of the metal and testing the boundaries of its properties.’ This fascination with the making process, along with a love for the materials themselves, keep Shimell and Madden firmly rooted in the tradition of artisanship. ‘Forming a shape or structure with our hands using techniques that are hundreds of years old—it’s truly satisfying,’ Emma adds. ‘We’ll always remain bench workers and keep the artisanal traditions at the core of our business.’
 
->we make these to a very high standard, and we aim never to mass-produce our work. - luke shimell
+>We make these to a very high standard, and we aim never to mass-produce our work. - Luke Shimell
 
-you might think that people would love this kind of thing, but over the years many london workshops have considerably decreased in size. this is mostly, luke explains, because of the competition faced from less expensive production available overseas. ‘luckily more and more artisans have developed in recent years,’ emma says. many of them have been championed by the goldsmiths’ company, which both regulates the quality of precious metals in the uk and supports smaller producers, as well as other similar initiatives. ‘it feels like the handcrafting side of the industry is growing again,’ according to luke, ‘and it’s great to be a part of it.’  
+You might think that people would love this kind of thing, but over the years many London workshops have considerably decreased in size. This is mostly, Luke explains, because of the competition faced from less expensive production available overseas. ‘Luckily more and more artisans have developed in recent years,’ Emma asserts. Many of them have been championed by the goldsmiths’ company, which both regulates the quality of precious metals in the UK and supports smaller producers, as well as other similar initiatives. ‘It feels like the handcrafting side of the industry is growing again,’ according to Luke, ‘and it’s great to be a part of it.’  
 
-![just part of the extensive crafting process](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-heat.jpg)
-*just part of the extensive crafting process*
+![Just part of the extensive crafting process](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-heat.jpg)
+*Just part of the extensive crafting process*
 
-part of why shimell and madden take pride in their work is the historical value of their methods. One of their roles, they say, is to keep these skills alive. ‘It is hard to find a truly british made brand so we need to continue to promote this. we believe in, and work towards, the strengthening of our national arts and crafts trade.’ 
+Part of why Shimell and Madden take pride in their work is the historical value of their methods. One of their roles, they say, is to keep these skills alive. ‘It is hard to find a truly British made brand so we need to continue to promote this. We believe in, and work towards, the strengthening of our national arts and crafts trade.’
 
-what’s next for shimell and madden? ‘we’ve only scratched the surface of what we’re capable of,’ emma says. in the short term they’re focused on releasing their next collection at london fashion week in february. ‘but’, luke says, ‘there are many directions of design and making that we want to explore. we would also love to grow our workshop and be able to pass on the knowledge we have gained.’ whatever happens, while jewellers like shimell and madden are around artisanal traditions are here to stay.
+What’s next for Shimell and Madden? ‘we’ve only scratched the surface of what we’re capable of,’ emma says. In the short term they’re focused on releasing their next collection at London fashion week in February. ‘But’, Luke says, ‘there are many directions of design and making that we want to explore. We would also love to grow our workshop and be able to pass on the knowledge we have gained.’ Whatever happens, while jewellers like Shimell and Madden are around artisanal traditions are here to stay.
 
-![emma madden](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-stay.jpg)
-*emma madden*
+![Emma Madden](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-stay.jpg)
+*Emma Madden*
