@@ -2,7 +2,7 @@
 title: "Adelle Tracy"
 subTitle: "Running Her Own Race"
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-a8d483aa-e545-445e-afb0-a5d1be97fd06.png
+heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-a3b37198-d7a3-4757-9356-0e4981ae8897.png
 date: 2016-3-22
 slug: Adelle-Tracy
 tags: Adelle-Tracy, running, Nike
@@ -33,4 +33,4 @@ Now a model for Nike, Adelle is determined to use her increasing status in the b
 
 It would seem that Adelle Tracy is tearing down the home straight to yet another benchmark in her prodigious career. ‘Women’s running can only become more popular with the Olympics in Rio,’ she says excitedly, and suffice to say the 2016 Games will surely inspire yet another generation of athletes. ‘Even just being at the Olympic stadium, knowing that I’ve got there, would be really satisfying,’ she envisages. It all testifies to the sturdy, central philosophy embedded in the rising star’s career: I think the most important thing is just to focus on you and what you can do, and allowing that belief to carry you through. ’
 
-![Adelle Tracy stretch](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-a3b37198-d7a3-4757-9356-0e4981ae8897.png)
+![Adelle Tracy](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-a8d483aa-e545-445e-afb0-a5d1be97fd06.png)
