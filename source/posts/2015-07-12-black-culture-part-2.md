@@ -14,7 +14,7 @@ Around the same time that Adidas began collaborating with Run-D.M.C., rival bran
 
 But the collaboration didn’t get off to a good start. It was decided by the NBA commissioner that the trainer, designed by Peter Moore, didn’t contain enough white and therefore broke the NBA clothing rules. and so each time Jordan stepped onto the court he was fined $5000.
 
-But, of course, this only generated demand. and perhaps more importantly, it helped the brand develop and sustain the image they wanted. Air Jordan 1s, it was known, belonged to those who were out to break records—but didn’t mind breaking the rules either.
+But, of course, this only generated demand. And perhaps more importantly, it helped the brand develop and sustain the image they wanted. Air Jordan 1s, it was known, belonged to those who were out to break records—but didn’t mind breaking the rules either.
 
 ![the iconic Air Jordan I](https://meta.hevnly.com/images/on-12-7-2015/black-culture-part-2-air1.jpg)
 *The iconic Air Jordan I*
