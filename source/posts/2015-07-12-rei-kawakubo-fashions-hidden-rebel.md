@@ -1,24 +1,24 @@
 ---
-title: "rei kawakubo: fashion’s hidden rebel"
-subTitle: "meet the woman who may be fashion’s favourite longest standing and most elusive innovator"
+title: "Rei Kawakubo: Fashion’s hidden rebel"
+subTitle: "One of fashion’s longest standing and most elusive innovator"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-12-7-2015/rei-kawakubo-fashions-hidden-rebel-kcdghero.jpg
 date: 2015-07-12
 slug: rei-kawakubo-fashions-hidden-rebel
-tags: rei kawakubo, fashion,
-category: people
+tags: Comme des garçon, fashion, Japan, Paris
+category: People
 editionName: revolution
 editionNumber: 5
 ---
 
-Revolutionaries too often become icons of personality at the expense of their achievements and even their values. But for Rei Kawakubo, the notoriously reclusive designer and founder of Comme des Garçons, it is her creations that always take priority. From her very first show to her current collections, Kawakubo has irreversibly changed the face of fashion and retail whether you realise it or not. 
+Revolutionaries too often become icons of personality at the expense of their achievements and even their values. But for Rei Kawakubo, the notoriously reclusive designer and founder of Comme des Garçons, it is her creations that always take priority. From her very first show to her current collections, Kawakubo has irreversibly changed the face of fashion and retail whether you realise it or not.
 
-Born in Japan in 1946, Kawakubo never went to fashion school but instead studied fine art and literature. This lack of formal training meant that Kawakubo is a figure who has never been constrained by tradition or the attitudes of others and this is manifested in her work that has at times been likened to deconstruction and even “anti-fashion”. 
+Born in Japan in 1946, Kawakubo never went to fashion school but instead studied fine art and literature. This lack of formal training meant that Kawakubo is a figure who has never been constrained by tradition or the attitudes of others and this is manifested in her work that has at times been likened to deconstruction and even “anti-fashion”.
 
 ![Hiroshima Chic](https://meta.hevnly.com/images/on-12-7-2015/rei-kawakubo-fashions-hidden-rebel-kconstruct.jpg)
 *Hiroshima Chic*
 
-When Kawakubo opened a tiny boutique store in her native Tokyo in 1973, Comme des Garçons was born. Her first show would take place in Paris in 1981 and, like any revolutionary, came with an already devoted following known as the “Crows”, a name that pays testament to Kawakubo’s designs that they wore and adored. The now iconic style centred around a monochrome palette with asymmetrical, oversized and almost deformed cuts that exposed seams and crushed detailing. These were clothes misshapen and distressed yet always elegant. In a single moment Rei Kawakubo took fashion from a medium focused so heavily on sexualised notions of beauty into the abstract. 
+When Kawakubo opened a tiny boutique store in her native Tokyo in 1973, Comme des Garçons was born. Her first show would take place in Paris in 1981 and, like any revolutionary, came with an already devoted following known as the “Crows”, a name that pays testament to Kawakubo’s designs that they wore and adored. The now iconic style centred around a monochrome palette with asymmetrical, oversized and almost deformed cuts that exposed seams and crushed detailing. These were clothes misshapen and distressed yet always elegant. In a single moment Rei Kawakubo took fashion from a medium focused so heavily on sexualised notions of beauty into the abstract.
 
 ![one of the now numerous stores](https://meta.hevnly.com/images/on-12-7-2015/rei-kawakubo-fashions-hidden-rebel-kstore.jpg)
 *one of the now numerous stores*
@@ -32,7 +32,7 @@ But all revolutions are cyclical, and in an age where being “avant-garde” ha
 ![Comme des Garçons:play](https://meta.hevnly.com/images/on-12-7-2015/rei-kawakubo-fashions-hidden-rebel-kplay.jpg)
 *Comme des Garçons:play*
 
-In the same year, Kawakubo also unleashed her concept of the Guerilla stores. In five years 37 guerilla shops were opened with non-fashion partners in little known areas of cities all over the world. Lasting only one year, these sparse spaces were isolated in not yet fashionable areas. This refreshing notion of a store took retail back to basics, allowing the products to come to the fore. This innovation has been seen by many to be the inspiration behind the “pop-up store” that is so prevalent in today’s retail. Rei Kawakubo not only changed the way we see clothes - she changed the way we buy them. 
+In the same year, Kawakubo also unleashed her concept of the Guerilla stores. In five years 37 guerilla shops were opened with non-fashion partners in little known areas of cities all over the world. Lasting only one year, these sparse spaces were isolated in not yet fashionable areas. This refreshing notion of a store took retail back to basics, allowing the products to come to the fore. This innovation has been seen by many to be the inspiration behind the “pop-up store” that is so prevalent in today’s retail. Rei Kawakubo not only changed the way we see clothes - she changed the way we buy them.
 
 Rei Kawakubo reclusive nature is what actually makes her a maverick in today’s age. Where so often personality overshadows and undermines the actual creations, for Kawakubo whether it’s a new collection, a new line, or even a new store, nothing ever falls flat. Rei Kawakubo has been one of fashion’s greatest revolutionaries and anti-heroes since 1981, but what sets her apart is the constant will and urge to innovate: for Kawakubo, the work is never over.
 
