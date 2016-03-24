@@ -36,7 +36,7 @@ You might think that people would love this kind of thing, but over the years ma
 
 Part of why Shimell and Madden take pride in their work is the historical value of their methods. One of their roles, they say, is to keep these skills alive. ‘It is hard to find a truly British made brand so we need to continue to promote this. We believe in, and work towards, the strengthening of our national arts and crafts trade.’
 
-What’s next for Shimell and Madden? ‘we’ve only scratched the surface of what we’re capable of,’ emma says. In the short term they’re focused on releasing their next collection at London fashion week in February. ‘But’, Luke says, ‘there are many directions of design and making that we want to explore. We would also love to grow our workshop and be able to pass on the knowledge we have gained.’ Whatever happens, while jewellers like Shimell and Madden are around artisanal traditions are here to stay.
+What’s next for Shimell and Madden? ‘We’ve only scratched the surface of what we’re capable of,’ Emma says. In the short term they’re focused on releasing their next collection at London fashion week in February. ‘But’, Luke says, ‘there are many directions of design and making that we want to explore. We would also love to grow our workshop and be able to pass on the knowledge we have gained.’ Whatever happens, while jewellers like Shimell and Madden are around artisanal traditions are here to stay.
 
 ![Emma Madden](https://meta.hevnly.com/images/on-12-7-2015/shimell-and-madden-stay.jpg)
 *Emma Madden*
