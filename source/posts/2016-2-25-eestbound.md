@@ -4,9 +4,9 @@ subTitle: "The Master of Sound"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/eestbound-eestbound-hero.jpg
 date: 2016-2-25
-slug: eestbound
+slug: Eestbound
 tags: Music, Toronto, Master and Dynamic
-category: people
+category: People
 editionName: genesis
 editionNumber: 6
 ---
@@ -29,7 +29,7 @@ The music itself is characteristically dark and full bodied, complemented by eac
 
 >I just wanted to do my own thing
 
-With her work featured on Jay-Z’s Magna Carta Holy Grail and Drake’s If You’re Reading This It’s Too Late, She too shows a great degree of maturity and realism. It’s refreshing to know that she hasn't become disillusioned with the new found fame and industry respect she now commands. Her shyness is humbling. She's charming and commanding at the same time. Her reserved nature, softly-spoken voice and well mannered demeanour only serve to make her more attractive and personable. Both Van-Mierlo and Oshunrinde are prime examples of the effortless multiculturalism that defines Toronto. With EESTBOUND born and raised in Holland and Wondagurl raised in a predominantly Nigerian family, the duo seem to have brought the best elements of their backgrounds with them into the studio - perhaps an advantage they have over their competition. Presumably both family oriented people, it’s clear why they collaboration and respect are at the core of their values. "I'm his biggest fan...when it comes to beats” she beams proudly as the session comes to an end.
+With her work featured on Jay-Z’s Magna Carta Holy Grail and Drake’s If You’re Reading This It’s Too Late, She too shows a great degree of maturity and realism. It’s refreshing to know that she hasn't become disillusioned with the new found fame and industry respect she now commands. Her shyness is humbling. She's charming and commanding at the same time. Her reserved nature, softly-spoken voice and well mannered demeanour only serve to make her more attractive and personable. Both Van-Mierlo and Oshunrinde are prime examples of the effortless multiculturalism that defines Toronto. With EESTBOUND born and raised in Holland and Wondagurl raised in a predominantly Nigerian family, the duo seem to have brought the best elements of their backgrounds with them into the studio - perhaps an advantage they have over their competition. Presumably both family oriented people, it’s clear why collaborating and respect are at the core of their values. "I'm his biggest fan...when it comes to beats” she beams proudly as the session comes to an end.
 
 Listening to a work in progress is an interesting experience. Knowing that you're in the proverbial kitchen of a prolific chef and you know what's currently in the frying pan is going to be a hell of a meal when it's finished - like all greats in any field, the one thing they all have in common is  the gift of foresight. EESTBOUND is no different, he says he likes to create beats that are unpredictable. It seems that he’s already looking (and listening) ahead from the listener's point of view and trying to feel out what they'd expect. "If I'm gonna give you what you expect, I'm going to make sure that it's exactly what you want...and more". It's a privilege listening to music in the process of being made that might one day in the near future be a hit - bumping out of sound systems across the globe - whipping people up into a frenzy and unlocking that emotional DNA that only a gifted few artists have the keys to. If 2015 was the poison, 2016 will be the antidote.
 
