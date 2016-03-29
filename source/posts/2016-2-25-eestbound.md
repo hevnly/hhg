@@ -4,9 +4,9 @@ subTitle: "The Master of Sound"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/eestbound-eestbound-hero.jpg
 date: 2016-2-25
-slug: eestbound
+slug: Eestbound
 tags: Music, Toronto, Master and Dynamic
-category: people
+category: People
 editionName: genesis
 editionNumber: 6
 ---
