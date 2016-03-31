@@ -1,6 +1,6 @@
 ---
 title: "Criminal superstar "
-subTitle: "Ai Weiwei"
+subTitle: "Ai Weiwei."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-12-7-2015/the-most-dangerous-man-in-china-weihero.jpg
 date: 2015-07-12
