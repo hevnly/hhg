@@ -18,7 +18,7 @@ Morocco, or as it’s known in Arabic - “The Kingdom Of The West” - is a cou
 
 Marrakech is Morocco’s best known city. Yves Saint Laurent fell in love with the city, and it soon became his second home. His old residence - the Majorelle Garden designed by the painter Jacques Majorelle in 1926 - is now a popular destination for sightseers, and also houses the Islamic Art Museum of Marrakech.
 
->as of 2014 Morocco had a population of 928,850.
+>As of 2014 Morocco had a population of 928,850.
 
 From the city’s main square, Jemaa el-Fnaa (still populated with storytellers and snake charmers, as it was hundreds of years ago) you are enticed into the rabbit warren of surrounding souks. This seemingly endless labyrinth yields a myriad of offerings from traditional textiles and local spices, to high-quality leather goods and exotic animals.
 
