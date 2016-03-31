@@ -1,6 +1,6 @@
 ---
 title: "Marrakech"
-subTitle: "Exploring the imperial city"
+subTitle: "Exploring the imperial city."
 readingTime: 3min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/marrakech-marrakech-hero.jpg
 date: 2016-2-25
