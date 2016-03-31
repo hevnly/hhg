@@ -1,6 +1,6 @@
 ---
 title: "Adelle Tracey"
-subTitle: "Running Her Own Race"
+subTitle: "Running her own race."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-a3b37198-d7a3-4757-9356-0e4981ae8897.png
 date: 2016-3-22
