@@ -25,18 +25,15 @@ The ‘NPC’ or ‘Newport Classic’, sees a new premium take on one of the br
 
 Originally released back in 1991, with engineered stability in the heel and extra flexibility and cushion in the forefoot, the shadow 6000 has been a favourite of the high-mileage runner in need of a balanced shoe. Saucony pays tribute to Joe Sheridan the inventor of the famous Irish Coffee by crafting this light, limited edition pack. The ingredients are represented with buttery suede uppers, all sitting on clean white midsoles and gum outer-soles.
 
-
 ![Puma Trainer](https://meta.hevnly.com/images/on-4-5-2016/hhg-img-9ca988dc-7cb7-4e0f-98a9-9ed2ba3aabf2.png)
 *Puma x Alife - Blaze of Glory*
 
 For a bold reissue of the Blaze of Glory, this unique colourway sees Puma collaborate with the street brand ALIFE for a limited release. Taking influence from the East side of New York, ALIFE have taken the iconic runner and draped it in retro styled colours, combining mesh and suede overlays to develop a eccentric looking sneaker.
 
-
 ![Novesta Trainer](https://meta.hevnly.com/images/on-4-5-2016/hhg-img-05a44f77-3bd4-4890-a50c-817599274547.png)
 *Novesta Star Master - YCCA*
 
 Established in 1939, the Slovakian brand, Novesta revel in manufacturing ethically produced sneakers. Classic silhouette, distinguishable colourways and matchless comfort, the Novesta Star is the ideal casual trainer for summer days attire.
-
 
 ![Puma Blaze of Glory](https://meta.hevnly.com/images/on-4-5-2016/hhg-img-e2d239e1-1237-4570-9f6a-a2a636a1ed7f.png)
 *Puma - Blaze of Glory - Blue Heaven*
