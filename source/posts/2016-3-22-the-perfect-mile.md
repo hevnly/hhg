@@ -1,6 +1,6 @@
 ---
 title: "The Perfect Mile"
-subTitle: "5 Essentials For The Modern Runner"
+subTitle: "5 essentials for the modern runner."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-b54ea5db-f134-4dec-9d18-dd2c59bd29a7.png
 date: 2016-3-22

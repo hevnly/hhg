@@ -1,6 +1,6 @@
 ---
 title: "Future Tech"
-subTitle: "Driving fitness forward"
+subTitle: "Driving fitness forward."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-cefa5d44-b601-46c3-ab03-1df1d05b19c9.png
 date: 2016-1-20

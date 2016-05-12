@@ -1,6 +1,6 @@
 ---
 title: "Panton Chair"
-subTitle: "Blood, sweatband polypropylene: the story of verner panton's machine-made 1960's pop-art masterpiece"
+subTitle: "Blood, sweat and polypropylene: the story of verner panton's machine-made 1960's pop-art masterpiece"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-3-12-2015/panton-chair-pantonhero.jpg
 date: 2015-12-03

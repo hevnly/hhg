@@ -1,6 +1,6 @@
 ---
 title: "Edge o' Beyond"
-subTitle: "The label going beyond lingerie"
+subTitle: "The label going beyond lingerie."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-12-7-2015/edge-o-beyond-shot_05_038.jpg
 date: 2015-07-12
