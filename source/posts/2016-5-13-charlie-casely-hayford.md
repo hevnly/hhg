@@ -1,6 +1,6 @@
 ---
 title: "Charlie Casely-Hayford"
-subTitle: "In Conversation"
+subTitle: "In Conversation with one half of the burgeoning Fashion empire"
 readingTime: 4min
 heroImage:  https://meta.hevnly.com/images/on-13-5-2016/hhg-img-5bf63442-efb5-468d-8624-49b84a7b4838.png
 date: 2016-5-13
