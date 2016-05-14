@@ -1,11 +1,11 @@
 ---
-title: "Athlesiure"
+title: "Athleisure"
 subTitle: "Exploring the phenomenon"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/athlesiure-athlesiure-hero.jpg
 date: 2016-2-25
-slug: athlesiure
-tags: Athlesiure, Nike, Sports
+slug: athleisure
+tags: Athleisure, Nike, Sports
 category: products
 editionName: running
 editionNumber: 7
