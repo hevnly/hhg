@@ -1,11 +1,11 @@
 ---
 title: "Charlie Casely-Hayford"
-subTitle: "In Conversation with one half of the burgeoning Fashion empire"
+subTitle: "Design which embodies a truly British sense of style – classic and refined "
 readingTime: 4min
 heroImage:  https://meta.hevnly.com/images/on-13-5-2016/hhg-img-5bf63442-efb5-468d-8624-49b84a7b4838.png
 date: 2016-5-13
 slug: Charlie-Casely-Hayford
-tags: Casely-Hayford, Fashion, Menswear
+tags: Casely-Hayford, Fashion, Menswear, Tailoring
 category: Person
 editionName: spring
 editionNumber: 8
