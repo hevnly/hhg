@@ -18,12 +18,10 @@ There are sunglasses, Sunglasses - Noun: Glass tinted to protect the eyes from s
 ![Gentle Monster2](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-e58f241a-1591-40b3-a73a-e0aef444dc9e.png)
 
 
-
 ![Gentle Monster3](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-27f75466-cc02-40e9-8fcd-6921341323e9.png)
 
 
-
-![Gentle Monster4](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-590ec94e-dbf0-48a4-83b8-ebdf538af4f6.png)
+![Gentle Monster4](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-6feb9f85-f219-4438-88f7-b7f74c63f21a.png)
 
 
 ![Gentle Monster5](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-f205fae7-06e6-43c2-8556-8b486cab2311.png)
