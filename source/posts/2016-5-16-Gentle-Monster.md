@@ -10,13 +10,13 @@ category: products
 editionName: Spring
 editionNumber: 8
 ---
-There are sunglasses, Sunglasses - Noun: Glass tinted to protect the eyes from sunlight or glare. Then there are Gentle Monster Sunglasses - Noun: A designer eyewear label that constantly develops itself under a philosophy of "innovational high-end experiments". In other words, this is no ordinary eyewear. Pioneering South Korean "optics lab" Gentle Monster designs eyewear with a frankensteinian approach - crafting a range of dynamic, eye-catching optical wear in the true spirit of innovation. They say that the "eyes are the window to the soul" - in this editorial, hevnly takes a material and experimental approach to this concept. Set against the backdrop of New York City - by donning a pair of the design studio's creations, each individual channels their inner monster and vicariously the spirit of the city they inhabit. hevnly presents the "Gentle Monsters of New York"
+There are sunglasses; Sunglasses - Noun: Glass tinted to protect the eyes from sunlight or glare...Then there are Gentle Monster Sunglasses; Noun: A designer eyewear label that constantly develops itself under a philosophy of "innovational high-end experiments". In other words, this is no ordinary eyewear. Pioneering South Korean "optics lab", Gentle Monster, designs eyewear with a frankensteinian approach - crafting a range of dynamic, eye-catching optical wear in the true spirit of innovation. It is often said that the "eyes are the window to the soul" - Set against the backdrop of New York City, this editorial takes a material and experimental approach to that ideology in the sense that by donning a pair of the design studio's creations, each individual featured channels their "inner monster" and indirectly, the spirit of the city they inhabit. hevnly presents: The Gentle Monsters of New York.
 
 ![workman](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-01a65a36-c3c9-4ab5-b033-e57da8ff85ba.png)
-
+*Model - Jumping jack*
 
 ![red monster](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-0604637e-eb36-43b9-a8ff-88a0a4d41d8c.png)
-
+*name - Lucy. Model - Big Bully.*
 
 ![wide monster](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-3f27c0d5-1b6f-413b-bf03-8e8843414d6d.png)
 
