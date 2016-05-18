@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-16-5-2016/hhg-img-7e2a5f7e-1fb0-432
 date: 2016-5-13
 slug: Charlie-Casely-Hayford
 tags: Casely-Hayford, Fashion, Menswear, Tailoring
-category: Person
+category: people
 editionName: spring
 editionNumber: 8
 ---
