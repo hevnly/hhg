@@ -30,15 +30,17 @@ Danish Design is for all intents and purposes, a noun. Sartorially speaking, int
 *Long Hoodie - Martin Asbjørn | Jacket - Wood Wood | Trousers - vintage Dries Van Noten at Bau Bau shop | Socks - Henrik Vibskov | Sneakers - Hope*
 
 
-![Look4](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-ef6e0504-fc6b-4723-b634-665ac4f4ddb8.png)
-*Jacket - Wood Wood | Sunglasses - Fendi*
-
-
-
 ![Look 5](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-7146aa88-35b5-4d46-9dd5-f97108aa54f3.png)
 *Jacket & Trousers - Henrik Vibskov | Bag - Barbara i Gongini | T-Shirt & Sneakers - Wood Wood*
 
 
-
 ![Look6](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-3c3b104f-6642-45de-93bb-79ffc3a8d961.png)
-*Image caption text*
+*Shirt - Our Legacy | Jumpsuit - Vétra at Mads Nørgaard*
+
+
+![Look7](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-c4f8e845-cdf5-4476-96eb-38672d74e4b0.png)
+*Jacket & trousers - Wood Wood | Sleeveless hoodie - Martin Asbjørn*
+
+
+![Look8](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-c326c88f-9e83-4911-8ccd-a74bb2ea55ea.png)
+*Jacket - Barbara i Gongini  | Hooded Top - Bibi Chemnitz | Trousers & Bum-Bag - Henrik Vibskov | Sneakers - Filippa K*
