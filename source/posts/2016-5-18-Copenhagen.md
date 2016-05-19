@@ -4,7 +4,7 @@ subTitle: "Harbour Of Style"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-18-5-2016/hhg-img-77a39bf7-cd6c-45e0-a69f-5908584b1f8d.png
 date: 2016-5-18
-slug: Copenhagen
+slug: copenhagen
 tags: Copenhagen, fashion,
 category: place
 editionName: spring
