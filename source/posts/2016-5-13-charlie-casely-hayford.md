@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-16-5-2016/hhg-img-7e2a5f7e-1fb0-432
 date: 2016-5-13
 slug: Charlie-Casely-Hayford
 tags: Casely-Hayford, Fashion, Menswear, Tailoring
-category: Person
+category: people
 editionName: spring
 editionNumber: 8
 ---
@@ -28,7 +28,7 @@ And who better to navigate this liminal space between tradition and innovation, 
 The young designer had already began forging his own path by styling stars from Nas to Jamie XX, an experience which has fed into the label: “My Dad and I style each runway so a lot of what I learnt before is still very relevant for the development of the brand now.” The A/W 2016 collection builds on this trans-generational relationship by returning to youth culture, more specifically how British anti-establishment subcultures have coopted the military uniform. For Charlie this opens a dialogue between “a code principally associated with the establishment or uniformity and a message for individualism.” In the collection vibrant patterning meets muted khaki and deep olive green. In continuation with previous collections, oversized, sometimes floor length, outerwear, is complemented by exaggerated military insignia where in other areas of the collection the careful attention to cut and fit provides a deliberately militaristic precision.
 
 ![Studio](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-7e4685bb-af2b-46c1-943e-219d60ae5526.png)
-*A view of the Severn Sisters studio*
+*Casely-Hayford Studio, Seven Sisters, London*
 
 This precision is also manifest in a growing personal tailoring service - an area where the fashion conscious “still desire craftsmanship.” When Saville Row is too old-school, Casely-Hayford can offer what Charlie calls “a modern dynamism while respecting the tradition of tailoring.” It is this element of the label that allows Casely-Hayford to exist alongside, what Charlie describes as, “the transiency of both fashion and social media”. While influencers and social media play an important part in disturbing the rules and boundaries of fashion that can lead to innovation, this acceleration of both “the pace of the industry and the consumption of fashion” also has more negative consequences as this transiency “does not marry well with craft and luxury” as Charlie explains, “craft and luxury by definition require time” and this change of pace therefore “leaves many independent designers a difficult place”. But it is in this place that Casely-Hayford comes into its own, truly engaging with new rules “outside of the traditional fashion lexicon” and yet never forgetting the importance of traditional craftsmanship.
 

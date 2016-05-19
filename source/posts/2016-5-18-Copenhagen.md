@@ -45,4 +45,4 @@ Danish Design is for all intents and purposes, a noun. Sartorially speaking, int
 ![Look8](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-c326c88f-9e83-4911-8ccd-a74bb2ea55ea.png)
 *Jacket - Barbara i Gongini  | Hooded Top - Bibi Chemnitz | Trousers & Bum-Bag - Henrik Vibskov | Sneakers - Filippa K*
 
-Photographers website [HERE](http://jannickboerlum.com/) Stylist Website [HERE](http://fadimorad.com/)
+Stylist - [Fadi Morad](http://fadimorad.com/) | Photographer - [Jannick Boerlum](http://jannickboerlum.com/) | Model - Krisoffer Jul, Next
