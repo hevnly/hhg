@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-16-5-2016/hhg-img-14f8ad63-da81-439
 <<<<<<< HEAD
 <<<<<<< HEAD
 date: 2016-5-16
-slug: Gentle-Monster
+slug: gentle-monster
 =======
 =======
 >>>>>>> origin/develop
