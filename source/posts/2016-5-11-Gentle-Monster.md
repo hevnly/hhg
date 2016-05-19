@@ -4,23 +4,15 @@ subTitle: "Of New York"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-16-5-2016/hhg-img-14f8ad63-da81-4396-85d3-cfcb57a66fba.png
 date: 2016-5-16
-<<<<<<< HEAD
 slug: gentle-monster
-=======
-=======
->>>>>>> origin/develop
-date: 2016-5-11
-slug: post-title
->>>>>>> origin/develop
-=======
-slug: Gentle-Monster
->>>>>>> origin/develop
-tags: Gentle Monster, sunglasses, fashion
+tags: gentle monster, sunglasses, fashion
 category: products
 editionName: spring
 editionNumber: 8
 ---
+
 There are sunglasses; Sunglasses - Noun: Glass tinted to protect the eyes from sunlight or glare...Then there are Gentle Monster Sunglasses; Noun: A designer eyewear label that constantly develops itself under a philosophy of "innovational high-end experiments". In other words, this is no ordinary eyewear. Pioneering South Korean "optics lab", Gentle Monster, designs eyewear with a frankensteinian approach - crafting a range of dynamic, eye-catching optical wear in the true spirit of innovation. It is often said that the "eyes are the window to the soul" - Set against the backdrop of New York City, this editorial takes a material and experimental approach to that ideology in the sense that by donning a pair of the design studio's creations, each individual featured channels their "inner monster" and indirectly, the spirit of the city they inhabit. hevnly presents: The Gentle Monsters of New York.
+
 
 ![workman](https://meta.hevnly.com/images/on-16-5-2016/hhg-img-01a65a36-c3c9-4ab5-b033-e57da8ff85ba.png)
 *Chris | Jumping jack*

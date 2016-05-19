@@ -11,6 +11,7 @@ editionName: spring
 editionNumber: 8
 ---
 
+
 Charlie Casely-Hayford cuts a striking and elegant figure in his Seven Sisters studio - these same words could a be applied to any collection from his eponymous luxury menswear label: Casely-Hayford. Headed up by Charlie and his father, Joe, Casely-Hayford is a label that represents, for Charlie, “a time where a lot of boundaries are no longer relevant”. Merging traditional craftsmanship from the English tailoring with modern innovation, Casely-Hayford’s collections blur distinctions to create a sense of contemporary class that is simply unparalleled.
 
 ![Charlie-Casely-Hayford Portrait](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-56c90331-6e23-4a75-8afd-82d62ebe5533.png)
