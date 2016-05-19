@@ -12,7 +12,6 @@ editionNumber: 8
 ---
 All things being considered, Kestin Hare is still a baby as far as clothing labels are concerned. That said, the two year-old Scottish fashion house is well on it’s way to becoming a respected designer of premium, contemporary menswear. Unapologetically sartorial, Kestin Hare’s clothing takes strong design cues from traditional British tailoring and elegantly weaves in Japanese style influences. The omni-presence of fine fabrics and the occasional experimentation with bionic yarns, such as a water resistant cotton/nylon cloth, make this particular designer stand out from the madding crowd. Naturally, wardrobe offerings from the label do not disappoint, with each collection featuring timeless pieces in the form of Crombie coats, fitted button-up shirts and finely hewn knitwear.
 
-
 ![Store View 1](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-39c5dcb0-c659-478f-8ff9-0c7042668b0e.png)
 *Product | Tynemouth Japanese Woven Cotton Shirt*
 
