@@ -1,6 +1,8 @@
 # Content source files for Hevnly Holy Grail
 
-![Travis build status](https://travis-ci.org/hevnly/hhg.svg?branch=develop)
+[![Travis Build Status](https://travis-ci.org/hevnly/hhg.svg?branch=master)](https://travis-ci.org/hevnly/hhg) master build
+
+[![Travis Build Status](https://travis-ci.org/hevnly/hhg.svg?branch=develop)](https://travis-ci.org/hevnly/hhg) develop build
 
 ## How to Deploy
 

@@ -4,7 +4,7 @@ subTitle: "Harbour Of Style"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-18-5-2016/hhg-img-77a39bf7-cd6c-45e0-a69f-5908584b1f8d.png
 date: 2016-5-18
-slug: Copenhagen
+slug: copenhagen
 tags: Copenhagen, fashion,
 category: place
 editionName: spring
@@ -21,28 +21,22 @@ Danish Design is for all intents and purposes, a noun. Sartorially speaking, int
 ![Look 1](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-2269368e-8eea-4bba-8ede-2c259d79ad27.png)
 *Knit & Coat - Henrik Vibskov | Trousers - Barbara i Gongini | Sneakers - Hope*
 
-
 ![Look 2](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-3e96f75a-963a-4ee0-acc1-ec0258389875.png)
 *Knit & Coat - Henrik Vibskov | Trousers - Barbara i Gongini |  Sneakers - Hope*
-
 
 ![Look3](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-47a9b1df-1b9e-42ab-9eba-e2528e49bc01.png)
 *Long Hoodie - Martin Asbjørn | Jacket - Wood Wood | Trousers - vintage Dries Van Noten at Bau Bau shop | Socks - Henrik Vibskov | Sneakers - Hope*
 
-
 ![Look 5](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-7146aa88-35b5-4d46-9dd5-f97108aa54f3.png)
 *Jacket & Trousers - Henrik Vibskov | Bag - Barbara i Gongini | T-Shirt & Sneakers - Wood Wood*
-
 
 ![Look6](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-3c3b104f-6642-45de-93bb-79ffc3a8d961.png)
 *Shirt - Our Legacy | Jumpsuit - Vétra at Mads Nørgaard*
 
-
 ![Look7](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-c4f8e845-cdf5-4476-96eb-38672d74e4b0.png)
 *Jacket & trousers - Wood Wood | Sleeveless hoodie - Martin Asbjørn*
-
 
 ![Look8](https://meta.hevnly.com/images/on-18-5-2016/hhg-img-c326c88f-9e83-4911-8ccd-a74bb2ea55ea.png)
 *Jacket - Barbara i Gongini  | Hooded Top - Bibi Chemnitz | Trousers & Bum-Bag - Henrik Vibskov | Sneakers - Filippa K*
 
-Photographers website [HERE](http://jannickboerlum.com/) Stylist Website [HERE](http://fadimorad.com/)
+Stylist - [Fadi Morad](http://fadimorad.com/) | Photographer - [Jannick Boerlum](http://jannickboerlum.com/) | Model - Krisoffer Juul, Next
