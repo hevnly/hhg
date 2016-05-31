@@ -10,7 +10,6 @@ category: products
 editionName: running
 editionNumber: 7
 ---
-
 The NikeLab X UNDERCOVER Gyakusou range deftly balances technical innovation and artistic vision to create a functional yet distinctive line of apparel for the discerning runner. The 2015 collection featured cleanly designed, form fitting hoodies and tights in subtle, winter tones. Designer Jun Takahashi is a runner himself, and the practical details this has informed – like lightweight, breathable materials and ample pocketing – are appreciated more with each mile you run in the uniform. UNDERCOVER’s label motto is “We Make Noise, Not Clothes”, and with every instalment of their collaboration with NikeLab having surpassed the last, it’s hard to disagree with that statement. The Gyakusou range is for runners, by runners.
 
 ![NikeLab Gyakusou collection](https://meta.hevnly.com/images/on-2-3-2016/hhg-img-49aa61d9-7617-4f30-a2ad-624cce16ad73.png)

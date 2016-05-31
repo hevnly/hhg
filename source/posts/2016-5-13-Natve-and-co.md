@@ -4,21 +4,21 @@ subTitle: "Celebrating the natural form of objects and their materials."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-13-5-2016/hhg-img-1d0a44af-244c-4cf2-ac9d-e5108c9e61c6.png
 date: 2016-5-13
-slug: Native-and-co
+slug: native-and-co
 tags: Native-and-co, London, Japanese, Design, Homeware
 category: place
 editionName: spring
 editionNumber: 8
 ---
 
-Streams of pale, untainted wood flood the room with a quiet and peaceful energy, and effortlessly blend with drops of slate grey, cool white and dynamic copper. Standing behind the counter, with a pot of green tea brewing in a smooth, charcoal, ceramic pot is Sharon Jo-Yun Hung, founder of Native & Co.
+Streams of pale, untainted wood flood the room with a quiet and peaceful energy, an effortless blend with drops of slate grey and dynamic copper. Standing behind the counter, with a pot of green tea brewing in a smooth, charcoal, ceramic pot is Sharon Jo-Yun Hung, founder of Native & Co.
 
 As the tea is poured, the clean lines that have been so carefully established in the shop lead the eye around as if on tram lines. The delicious juxtaposition of smooth wooden surfaces against chiseled or hammered ceramics; of cool, off whites punctuated by minimal patterns, this instills an intoxicating sense of calm and is what has come to be synonymous with Native & Co.
 
 ![Brush](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-fbe5791d-78f7-44c2-8c46-c5b55224451d.png)
 *Traditional craft products reinterpreted for contemporary life.*
 
-When the pair set out on their journey in 2014, after graduating in 3D Product Design from Central St. Martins and launching Native & Co at the London Design Festival, they wanted to challenge the notion that Japanese shops and crafts were moody and mysterious. Throwing light on the darkness of their native traditions, Native & Co have – seemingly effortlessly – created a light and airy environment that feels comfortable, easy and peaceful. ‘We were worried about it being too intimidating. We didn’t want it to feel like a gallery,’ Sharon shares. ‘We want our shop to compliment our crafts but in a new context.’
+When the pair set out on their journey in 2014, after graduating in 3D Product Design from Central St. Martins and launching Native & Co at the London Design Festival, they wanted to challenge the notion that Japanese shops and crafts were moody and mysterious. Throwing light on their native traditions, Native & Co have – seemingly effortlessly – created an environment that feels comfortable, easy and peaceful. ‘We were worried about it being too intimidating. We didn’t want it to feel like a gallery,’ Sharon shares. ‘We want our shop to compliment our crafts but in a new context.’
 
 It is this idea of evolving their traditions to a place the Western world can access that makes Native & Co so intriguing. ‘Japanese design is more purpose driven, which can make traditional crafts seem quite distant,’ Chris Yoshiro-Green, founder, explains. The eye wanders again over the products and imagination takes over. Silently, the mind finds each piece a place and a use in the home with surprising ease, scenarios are created whereby it becomes impossible to imagine managing without them. Loved ones and family are assigned them as gifts. Selecting such a diverse yet harmonious range is a skill and one that is standing Native & Co in very good stead.
 
