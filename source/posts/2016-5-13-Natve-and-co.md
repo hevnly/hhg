@@ -22,7 +22,6 @@ When the pair set out on their journey in 2014, after graduating in 3D Product D
 
 It is this idea of evolving their traditions to a place the Western world can access that makes Native & Co so intriguing. ‘Japanese design is more purpose driven, which can make traditional crafts seem quite distant,’ Chris Yoshiro-Green, founder, explains. The eye wanders again over the products and imagination takes over. Silently, the mind finds each piece a place and a use in the home with surprising ease, scenarios are created whereby it becomes impossible to imagine managing without them. Loved ones and family are assigned them as gifts. Selecting such a diverse yet harmonious range is a skill and one that is standing Native & Co in very good stead.
 
-
 ![Knife Fork Spoon](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-9ca96c3a-857c-406f-bb71-2eefa3979952.png)
 *A pared back selection of artisanal accessories sourced in Japan and Taiwan.*
 
