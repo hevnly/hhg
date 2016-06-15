@@ -15,6 +15,10 @@ In the second half of the 20th Century, three figures changed the state of fashi
 
 Emerging from a Japanese society experiencing economic boom and unrivaled technological development, these three channelled both traditional culture and the rapidly changing social landscape of Japan to create designs that would shock and then reinvigorate the high fashion of the western world.
 
+
+![Issey Miyake, Yohji Yammamoto, Rei Kawakubo](https://meta.hevnly.com/images/on-15-6-2016/hhg-img-f7e3f593-226f-48c7-9767-837bfad3a6e9.png)
+*The inspirational Miyake, Yamamoto and Kawakubo have influenced a generation of designers and artists alike*
+
 Issey Miyake has been heralded as starting this movement, after living in Paris and New York he returned to Japan in the 1970’s where he explored the new potential of fabric through technological development. Diffusing labels of “East” and “West”, Miyake broke down conventions of fashion by focusing his attention on the interaction between body and material, breaking down the rigidity of fashions rules through the deconstruction of conventional fits. By the 1980’s Rei Kawakubo and Yohji Yammamoto, building on Miyake’s legacy, took his ideas to further upend outdated western conceptions of fashion. This became manifest in minimalist, mostly black, but always monochrome, palettes and voluminous loose fits. Traditional eastern details such as wide sleeves were met with a penchant for asymmetry. Detail, if present, was constantly reinterpreted by being distressed, crushed, over-sized; the list goes on. The designs could look unfinished and broke down notions of beauty and gender to push the potential of what we wear to its limits.
 
 ![Yohji Yammamoto sketches](https://meta.hevnly.com/images/on-15-6-2016/hhg-img-2ba2663c-15d1-4a04-911b-21e50ddad842.png)
