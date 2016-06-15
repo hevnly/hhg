@@ -34,3 +34,6 @@ And this influence on western fashion stretches further than the catwalk to trul
 *Seashell Coat, 1980s*
 
 Finally, and perhaps most importantly, these designers changed the very way we conceive of fashion. Breaking down sexualised notions of beauty by focusing on abstract expression and notions of fit and form (Rei Kawakubo’s first store did not even have mirrors), clothes were given the potential to be something more. Taking inspiration not from the long history of western haute-couture but from a network of Japanese artists, architects and other innovators in their contemporary culture, their designs became imbued with a spirit that directly challenged and deconstructed fashion’s rules and touched on a more innate sense of identity. They took fashion into the abstract and the world has never looked back.
+
+![comme des garcons](https://meta.hevnly.com/images/on-15-6-2016/hhg-img-984d1b90-a545-4f17-952b-5a28984db147.png)
+*comme des garçons - Peter Lindbergh*
