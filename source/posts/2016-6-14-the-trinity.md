@@ -2,7 +2,7 @@
 title: "the trinity"
 subTitle: "Aligning fashion with art and ideology"
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-15-6-2016/hhg-img-d2ac45f0-d453-4ff4-a042-550a788b3357.png
+heroImage: https://meta.hevnly.com/images/on-15-6-2016/hhg-img-b63ff977-d6eb-4bc5-9d17-f5359cf1df7d.png
 date: 2016-6-14
 slug: the-trinity
 tags: rei Kawakubo, yohji yammamoto, issey miyake, fashion, japan, comme des garçon
