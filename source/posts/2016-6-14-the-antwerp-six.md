@@ -1,6 +1,6 @@
 ---
 title: "The Antwerp Six"
-subTitle: "A Collective History"
+subTitle: "A collective history"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-14-6-2016/hhg-img-12377c58-3171-4079-b3ba-de81ee52a478.png
 date: 2016-6-14

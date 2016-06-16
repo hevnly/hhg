@@ -31,7 +31,7 @@ If this all sounds familiar it is because the legacy of these designers has grad
 And this influence on western fashion stretches further than the catwalk to truly influence our interaction with fashion and clothes in the everyday. Issey Miyake’s Pleats style is truly unique and beautiful in its airy, delicate and fluid manifestation of fit and is being replicated in luxury retail like never before. Rei Kawakubo’s Comme des Garçons Play with its iconic heart shaped logo is one of street-styles most ubiquitous features, while Yohji Yammamoto’s diffusion label with Adidas, Y-3, has been exploring technical fabrics and the relationship between high-fashion and sportswear long before the indomitable rise of the style in recent years.
 
 ![Issey Miyake pleats](https://meta.hevnly.com/images/on-15-6-2016/hhg-img-467cd837-cfe5-4159-abc0-ac9dba090512.png)
-*Seashell Coat, 1980s*
+*Issey Miyake - Seashell Coat, 1980s*
 
 Finally, and perhaps most importantly, these designers changed the very way we conceive of fashion. Breaking down sexualised notions of beauty by focusing on abstract expression and notions of fit and form (Rei Kawakubo’s first store did not even have mirrors), clothes were given the potential to be something more. Taking inspiration not from the long history of western haute-couture but from a network of Japanese artists, architects and other innovators in their contemporary culture, their designs became imbued with a spirit that directly challenged and deconstructed fashion’s rules and touched on a more innate sense of identity. They took fashion into the abstract and the world has never looked back.
 
