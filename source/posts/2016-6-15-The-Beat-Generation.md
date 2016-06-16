@@ -27,4 +27,8 @@ But now it is the ideals of the Beat Generation that seem to be returning full c
 
 The Beats were in fact the original hipsters, a term coined by Norman Mailer in an essay that explored this section of the youth who ‘exist in the present, in that enormous present’ and their affiliation with the African-American culture at the time. This is another element that renders the Beats important to today, with the ubiquitous influence of African-American megastars still as relevant to culture and fashion in the forms of the Kanye’s and Beyonce’s as they were in the 50‘s with Charlie Parker and Dizzie Gillespie’s Bebop.
 
+
+![Dizzy Gillespie](https://meta.hevnly.com/images/on-16-6-2016/hhg-img-e8ac8885-19e1-4826-9841-edf2f08d262d.png)
+*Dizzy Gillespie is seen during the Boston Globe Jazz and Blues Festival*
+
 But more important than the appreciation of the culture was the breaking down of constricting forms of identity. The ideals of the Beats fosteredunity between different races and sexualities and these fluid concepts of identity are represented more openly in fashion than many other mediums within society. In a time where these dichotomies are still being challenged, and where youth culture has never been so inspiring to fashion, the Beats causing trouble in the 1950’s are still influencing the changes, and collections, we see today.
