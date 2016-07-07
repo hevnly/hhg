@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-15-6-2016/hhg-img-ed37cecf-b954-4f6
 date: 2016-6-15
 slug: the-beat-generation
 tags: beat, style, fashion
-category: People
+category: people
 editionName: tribes
 editionNumber: 9
 ---

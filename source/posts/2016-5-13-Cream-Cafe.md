@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-13-5-2016/hhg-img-88effbe7-cb58-45b
 date: 2016-5-13
 slug: cream
 tags: cafe, food, shoreditch, cream cafe
-category: Place
+category: places
 editionName: spring
 editionNumber: 8
 ---

@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-18-5-2016/hhg-img-77a39bf7-cd6c-45e
 date: 2016-5-18
 slug: copenhagen
 tags: Copenhagen, fashion,
-category: place
+category: places
 editionName: spring
 editionNumber: 8
 ---
