@@ -32,5 +32,6 @@ Alongside these styles are more narrative and immediately creative works. The Ph
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_BLANK"><img src="http://img.youtube.com/vi/wQlvSpPuWdo/0.jpg"
 alt="A TEST VIDEO" width="1280" height="500" border="10"/></a>
+*WATCH HERE*
 
 This tension between differing ideals of hip-hop was manifest in the huge variety of talent being showcased in the medium but also reflects how the rise of the music video could bring these tensions to a wider audience. Whether the video was a visual stimulant complementing the harsh reality in the lyrics, or a raucously free and celebratory visual feast, it is clear the hip hop video was an art form constantly pushing at the boundaries of music, style and society.
