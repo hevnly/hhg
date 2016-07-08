@@ -11,13 +11,13 @@ editionName: VHS
 editionNumber: 10
 ---
 
-##Tropical
+## Tropical
 
 Tropical motifs recur throughout the 80’s. The palm trees of 80’s deco and the sunsets of neon noir begin to show the increasing infatuation of life in the heat. Tropical prints went from just being on shirts to appearing on everything; from lunch boxes to watches, to all manner of clothing. The time of the Hawaiian shirt may have begun earlier with Elvis in the 60’s but now it was a high and low couture staple. This desire for the tropical life would eventually reached the point where even Wham sought to satirise the trend with their iconic 1983 video for ‘Club Tropicana’. In a decade of excess, this aesthetic and sensual ideal would be worn and replicated like never before, even if it could not always be lived.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WYX0sjP6Za8" frameborder="0" allowfullscreen></iframe>
 
-##‘80s Kid
+## ‘80s Kid
 
 If the 80’s was a decade where consumerism thrived like never before, it makes sense that the most natural consumers would influence their world like never before - these consumers are, of course, children. New technology allowed cheap, bright and varied toys to be produced at all new levels. Combine this increase with the love of geometric shapes and bold colours and there is no surprise that this over-the-top garish aesthetic extended to fashion styles, think pigtails and leg warmers; stickers and badges.
 
@@ -26,7 +26,7 @@ If the 80’s was a decade where consumerism thrived like never before, it makes
 
 This cute/consumer aesthetic always returns as an alluring muse for creativity. The most vivid recent example we have is the impossibly sugary, playful and extreme take on pop music that has emerged from UK label PC Music and other artists such as SOPHIE. Treading the fine line between evangelizing and satirizing, this unabashed love for all things sweet, immediate and seemingly shallow still resonates with the youth today.
 
-##Retro Futurism
+## Retro Futurism
 
 While much of the 80’s was looking to the future via the incredible changes in the present, Retro Futurism imbued ideas of what may come with a nostalgic merging of old and new technologies. This emerged in films such as Blade Runner, the literature of those such a William Gibson and Phillip K. Dick and countless other mediums.
 
@@ -35,7 +35,7 @@ While much of the 80’s was looking to the future via the incredible changes in
 
  Steam Punk took from the rapid technological change of the 19th Century to look to parallel or future societies and technologies in ways that has heavily influenced certain areas of fashion and culture. Mad Max saw a huge return to the spotlight for such an aesthetic while the notorious Burning Man festival illustrates the continuing relevance of a nostalgic take on the future. In music and fashion, the New Romantics also played with the idea of a retro futurism with their unbridled approach to mixing materials, styles and histories that merged fashion with costume in ever-evocative ways.
 
-##Digital
+## Digital
 
 Maybe the most iconic style of the 80’s was the emphasis placed on the digital or outright futuristic look. Science Fiction films seemed now to take place inside our own computers and our own cities as much as they did in outer space as in The Terminator franchise, or Tron. Groups like Germany’s Kraftwerk continued to hone the use of new technologies such as computer speech synthesis tools in their music that spawned albums such as Computer World and Tour de France. This now iconic sound truly came into its own in the 1980s where the hope for new technologies could take us into a digital world inside our own.
 
