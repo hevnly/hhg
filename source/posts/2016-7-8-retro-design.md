@@ -1,5 +1,5 @@
 ---
-title: "Retro Design"
+title: "Retro Design - Part 1"
 subTitle: "Neon Noir, 80's Deco, Memphis-Milano"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-cbe1c99c-daeb-4f7d-9c11-f9f24fca1911.png
@@ -7,8 +7,8 @@ date: 2016-7-8
 slug: Retro-Design
 tags: design, culture,
 category: products
-editionName: edition-name
-editionNumber: 0
+editionName: VHS
+editionNumber: 10
 ---
 
 The 80’s was a decade of extremes. With the rise of new tools and materials available to creatives and the rampant commercialisation of entertainment, excess and exaggeration rebelled against and warped previous notions of tradition. This aesthetic of exaggeration reflected bold hopes for the more technologically driven future merged with a nostalgia for the past. This tension has become even more pronounced in our contemporary landscape, rendering the 80’s a decade still so distinctive, and yet ever relevant.
@@ -24,13 +24,12 @@ This was predominantly a film genre that took the Noir feature into the contempo
 
 One need look no further than Nicholas Winding Refn’s Drive, to see how this genre has recaptured the imaginations of today. Beautiful (and long) scenes lifted by 80’s electro-pop, custom Chryslers, visceral scenes of brutality and neon credits meant that Ryan Gosling barely had to say a word in a film where the aesthetic spoke for itself.
 
-
 ‘80s Deco
 
 A return to the Art Deco style of the 1920’s and 30’s occurred throughout design. Fonts and graphic design returned to the classical, with a Roman Numeral style (See Miami Vice again). Also in interior design, grecian arches, potted tropical plants and exposed cream concrete and marble made a return. This sense of elegance and grandeur was both a perfect fit and jarring opposite for the more garish manifestations of the 80s.
 
 ![Vaporwave](https://meta.hevnly.com/images/on-8-7-2016/hhg-img-97659347-ea7e-4516-aa3b-8487199fdde5.png)
-*Vaporwave By Aaron Campbell*
+*Vaporwave - Aaron Campbell*
 
 Vaporwave, a sensation of the past few years, takes this juxtaposition to new levels. Palm trees, Grecian statues and purple sunsets are met with low quality windows 97 style graphics and logos from the corporate heavyweights. Ethereal, garish and tongue in cheek, there is clearly a similar, albeit more internet driven, nostalgia for the simultaneous future and past that was so prevalent throughout ‘80s style.
 
