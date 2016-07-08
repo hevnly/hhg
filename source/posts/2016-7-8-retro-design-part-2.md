@@ -16,6 +16,7 @@ editionNumber: 10
 Tropical motifs recur throughout the 80’s. The palm trees of 80’s deco and the sunsets of neon noir begin to show the increasing infatuation of life in the heat. Tropical prints went from just being on shirts to appearing on everything; from lunch boxes to watches, to all manner of clothing. The time of the Hawaiian shirt may have begun earlier with Elvis in the 60’s but now it was a high and low couture staple. This desire for the tropical life would eventually reached the point where even Wham sought to satirise the trend with their iconic 1983 video for ‘Club Tropicana’. In a decade of excess, this aesthetic and sensual ideal would be worn and replicated like never before, even if it could not always be lived.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WYX0sjP6Za8" frameborder="0" allowfullscreen></iframe>
+*Wham - Club Tropicana*
 
 ## ‘80s Kid
 
