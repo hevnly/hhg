@@ -30,8 +30,7 @@ It could be said the development of Hip-Hop rejected authenticity for an antithe
 
 Alongside these styles are more narrative and immediately creative works. The Pharcyde’s video for ‘The Drop’, directed by Spike Jonze, needed a voice coach to be hired so that the MC’s could learn to say their lyrics backwards allowing a reality bending video filmed in reverse with the lyrics still clearly portrayed by the MC’s actually saying them backwards. In 1996, The Roots took the music video meta, criticising the extravagance and avarice of hip-hop culture and its fakers in the video for ‘What They Do’. This took stereotypical elements of the videos and brought them down to size with perfectly dated typed comments and a deadpan delivery. Estates on show are ‘(rented for the day)’, the champagne is ‘(really ginger ale)’ and other tropes are comically called ‘Big Willie-isms’ in a video that holds back no punches.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_BLANK"><img src="http://img.youtube.com/vi/wQlvSpPuWdo/0.jpg"
-alt="A TEST VIDEO" width="1280" height="500" border="10"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQlvSpPuWdo" frameborder="0" allowfullscreen></iframe>
 *WATCH HERE*
 
 This tension between differing ideals of hip-hop was manifest in the huge variety of talent being showcased in the medium but also reflects how the rise of the music video could bring these tensions to a wider audience. Whether the video was a visual stimulant complementing the harsh reality in the lyrics, or a raucously free and celebratory visual feast, it is clear the hip hop video was an art form constantly pushing at the boundaries of music, style and society.
