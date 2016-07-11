@@ -1,6 +1,6 @@
 ---
 title: "Hip Hop music videos"
-subTitle: "that old school feel"
+subTitle: "That old school feel"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-068dd7bf-401e-4a58-935a-56b0327dc0e4.png
 date: 2016-7-8
@@ -18,8 +18,9 @@ From the rough and ready insight into city life of the early 90’s MC’s to th
 
 In a time before the internet and social media allowed us to follow our favourite artists’ every waking breath, the music video was an art form that truly brought Hip-Hop, and its creators, to life - via our living rooms. Early videos of the period illustrated the harsh realities experienced by the artists. Recurring dilapidated urban settings create the atmosphere. Derelict buildings and deserted subways showcase an art form still at odds with six-figure record deals. New York claustrophobic streets litter the videos of the East Coast’s finest, such as in Big L’s ‘Put It On’ or Mobb Deep’s ‘Shook Ones’. Likewise the distinctive Compton boulevards of the West Coast in videos such as Snoop Dogg and Dr. Dre’s ‘Nuthin' But A G Thang’ give a grounded aesthetic that mirrors the uncensored portrayals of violence, crime and marginalisation present in the lyrics. Dr. Dre was the director of his own video in ‘Nuthin but a G Thang’ that introduces us to Snoop Dogs family in the first scene. Amateur acting, a cookout with a gun-strapping chef, lowriders and volleyball, this was a homage to their experience, not cliche. Groups of artists and associates come together for the videos that is at once a case of safety in numbers and an illustration of the unifying potential of Hip-Hop.These artists didn’t have stylists or models or actors; it was their immediate circle, their talent and their personal environment on show, but the influence of their style perhaps resonates most vividly with the youth today. Carhart, Tommy Hilfiger, Timbalands and Clarkes Wallabes, just to name a few, are all still street-style staples.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/yoYZf-lBF_U" frameborder="0" allowfullscreen></iframe>
-*Mobb Deep - Shook Ones*
+<p class="ws-post-thepost-image">
+  <iframe width="100%" height="315" style="width: calc(100% + 2rem); transform: translateX(-1rem)" src="https://www.youtube.com/embed/yoYZf-lBF_U" frameborder="0" allowfullscreen></iframe>
+</p>
 
 What always shines through so powerfully in this type of video is a sense of authenticity, a priority that has since returned in the Drill scene that revealed to the world the dangers that still plague areas of Chicago. These videos provided a true snapshot into the lives of incredibly talented musicians, often surrounded by deprived and violent circumstances. Addressing these elements of society, and challenging them through a gritty and understated aesthetic renders these  videos still arresting and important.
 
