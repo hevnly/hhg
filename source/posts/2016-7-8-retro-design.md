@@ -1,6 +1,6 @@
 ---
-title: "Retro Design"
-subTitle: "Part 1: Exploring the design themes of the 80's."
+title: "Retro Design - Part 1 "
+subTitle: "Exploring the design themes of the 80's."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-cbe1c99c-daeb-4f7d-9c11-f9f24fca1911.png
 date: 2016-7-8
