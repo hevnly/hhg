@@ -1,5 +1,5 @@
 ---
-title: "Who's Keith Haring"
+title: "Who's Keith Haring?"
 subTitle: "You probably already know"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-45944090-7312-41f3-83e8-b30fb15cee55.png
@@ -15,7 +15,7 @@ In the early 1980’s, with New York’s street culture at its apex, cartoonish 
 
 Born in Pennsylvania in 1958, Haring’s father was an amateur cartoonist. Early, and perhaps unlikely, influences emerged in the creations of Charles Schultz and Dr Seus. Haring studied commercial art from 1976 to 1978 in Pittsburgh but lost interest and it was his maintenance job at the Pittsburgh Center for the Arts that allowed for tangible inspiration by introducing Haring to the possibilities of contemporary art. Moving to New York to study painting, it was again off the beaten track inspirations that took prevalence. The works of William Burroughs and studying semiotics with Bill Beckley were important but it was the freedom and voice of street art and graffiti that resonated most powerfully with Haring.
 
->If commercialization is putting my art on a shirt so that a kid who can't afford a $30,000 painting can buy one, then I'm all for it. Keith Haring
+>If commercialization is putting my art on a shirt so that a kid who can't afford a $30,000 painting can buy one, then I'm all for it. - Keith Haring
 
 It was in this medium that Haring’s vibrant, blockish, and now iconic, figures were developed. ‘The Radiant Baby’, dancing, faceless characters, his dogs that portray a frenzied movement and positivity, all conveyed strong messages of unity. These messages attacked the atomic bomb, America’s foreign policy and also the social politics at home, especially in regard to sexuality.
 

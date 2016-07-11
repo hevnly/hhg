@@ -1,6 +1,6 @@
 ---
-title: "Retro Design - Part 2"
-subTitle: "Tropical, 80'S kid, Retro Futurism, Digital"
+title: "Retro Design"
+subTitle: "Part 2"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-24735ad7-90d5-49ce-a81d-1748d48ecc34.png
 date: 2016-7-8
@@ -16,7 +16,7 @@ editionNumber: 10
 Tropical motifs recur throughout the 80’s. The palm trees of 80’s deco and the sunsets of neon noir begin to show the increasing infatuation of life in the heat. Tropical prints went from just being on shirts to appearing on everything; from lunch boxes to watches, to all manner of clothing. The time of the Hawaiian shirt may have begun earlier with Elvis in the 60’s but now it was a high and low couture staple. This desire for the tropical life would eventually reached the point where even Wham sought to satirise the trend with their iconic 1983 video for ‘Club Tropicana’. In a decade of excess, this aesthetic and sensual ideal would be worn and replicated like never before, even if it could not always be lived.
 
 <p class="ws-post-thepost-image">
-  <iframe width="100%" height="500" style="width: calc(100% + 2rem); transform: translateX(-1rem)" src="https://www.youtube.com/embed/WYX0sjP6Za8" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="600" style="width: calc(100% + 2rem); transform: translateX(-1rem)" src="https://www.youtube.com/embed/WYX0sjP6Za8" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ## ‘80s Kid
