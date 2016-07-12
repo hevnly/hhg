@@ -1,6 +1,6 @@
 ---
 title: "Who's Keith Haring?"
-subTitle: "You probably already know"
+subTitle: "You probably already know."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-45944090-7312-41f3-83e8-b30fb15cee55.png
 date: 2016-7-8
