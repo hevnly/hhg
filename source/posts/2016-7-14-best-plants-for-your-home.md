@@ -36,4 +36,5 @@ Aa its name suggests this plant is almost indestructible. It's good in low light
 
 This may not be a house plant as such but they do share many of the same qualities and are quite happy to be indoors. they will however require some extra attention and will need to be watered regularly.
 
-![Bonsai Tree](https://meta.hevnly.com/images/on-14-7-2016/hhg-img-eb11160e-477c-4122-881a-9e49b00347ee.png)
+
+![Bonsai Tree](https://meta.hevnly.com/images/on-14-7-2016/hhg-img-f4d59d32-d745-41c6-9ec9-29ec906ea6b1.png)
