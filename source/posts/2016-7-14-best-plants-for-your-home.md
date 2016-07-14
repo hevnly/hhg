@@ -1,0 +1,32 @@
+---
+title: "Best plants for your home"
+subTitle: "A curated guide"
+readingTime: 4min
+heroImage: https://meta.hevnly.com/images/on-14-7-2016/hhg-img-b5cac259-d105-4ddd-bdd6-1bc8bd250efd.png
+date: 2016-7-14
+slug: post-title
+tags: home, design, plants
+category: products
+editionName: July
+editionNumber: 11
+---
+
+Hevnly Takes a look at some of the best plants for your home. Aside from improving air quality they also add a good dose of colour to any room.
+
+## Rubber Tree
+
+The rubber tree is a vintage house plant - popular for its large waxy leaves that grow with age. The rubber tree as it's name suggests is a tree and grows accordingly, to stop it getting out of hand some regular pruning of the larger stems will keep it manageable.
+
+![Rubber Tree](https://meta.hevnly.com/images/on-14-7-2016/hhg-img-76a66255-cf45-48cf-9519-2e5031ee4ffd.png)
+
+## Jade Plant
+
+This particular plant seems to crop up everywhere from coffee shops to stylish retail spaces and it's easy to see why. The Jade Plant apart from its good looks doesn't need much in the way of maintenance as it prefers dry conditions.
+
+![Jade Plant](https://meta.hevnly.com/images/on-14-7-2016/hhg-img-effa741c-9a10-4ffa-9769-5e3d2553f9a4.png)
+
+## Cast Iron Plant
+
+Aa its name suggests this plant is almost indestructible. It's good in low light, can withstand neglect and can grow in a wide variety of temperatures.
+
+![Cast Iron Plant](https://meta.hevnly.com/images/on-14-7-2016/hhg-img-80b51775-6d2a-4c67-9a27-eefc625cde3d.png)
