@@ -30,3 +30,10 @@ This particular plant seems to crop up everywhere from coffee shops to stylish r
 Aa its name suggests this plant is almost indestructible. It's good in low light, can withstand neglect and can grow in a wide variety of temperatures.
 
 ![Cast Iron Plant](https://meta.hevnly.com/images/on-14-7-2016/hhg-img-80b51775-6d2a-4c67-9a27-eefc625cde3d.png)
+
+
+## Bonsai Tree
+
+This may not be a house plant as such but they do share many of the same qualities and are quite happy to be indoors. they will however require some extra attention and will need to be watered regularly.
+
+![Bonsai Tree](https://meta.hevnly.com/images/on-14-7-2016/hhg-img-eb11160e-477c-4122-881a-9e49b00347ee.png)

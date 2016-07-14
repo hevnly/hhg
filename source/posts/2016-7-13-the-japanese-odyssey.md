@@ -2,7 +2,7 @@
 title: "The Japanese Odyssey"
 subTitle: " A bicycle journey across Japan"
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-14-7-2016/hhg-img-9ea9d0df-dcde-47b6-8cca-bf4cb51cf584.png
+heroImage: https://meta.hevnly.com/images/on-14-7-2016/hhg-img-4fe6c535-54c0-4745-bcce-15b48e188b7f.png
 date: 2016-7-13
 slug: the-japanese-odyssey
 tags: japan, travel,
