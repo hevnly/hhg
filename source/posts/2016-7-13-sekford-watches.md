@@ -11,7 +11,9 @@ editionName: July
 editionNumber: 11
 ---
 
-Sekford watches - The english watch brand creating stylish dress watches with precision engineering. This contemporary dress watch brings together the skills of swiss watchmakers, english tanneries, world respected font foundries and engravers to create a product of distinction. Sekford’s stitched watch straps are made from hard-wearing English leathers (Bridle and Shell Cordovan), sourced from one of Britain’s oldest tanneries in Derbyshire. The companies logo is an English Gothic Revival wood engraving cut by specialist engraver Mark Wilkinson in Lincolnshire, and appears on the back of all Sekford wristwatches.
+Sekford watches - The English watch brand creating stylish dress watches with precision engineering. This contemporary dress watch brings together the skills of swiss watchmakers, english tanneries, world respected font foundries and engravers to create a product of distinction.
+
+Sekford’s stitched watch straps are made from hard-wearing English leathers (Bridle and Shell Cordovan), sourced from one of Britain’s oldest tanneries in Derbyshire. The companies logo is an English Gothic Revival wood engraving cut by specialist engraver Mark Wilkinson in Lincolnshire, and appears on the back of all Sekford wristwatches.
 
 ![Type 1A](https://meta.hevnly.com/images/on-13-7-2016/hhg-img-cffceda5-1c2f-44d4-b9c0-65f3d486de0b.png)
 *Type 1A is the first edition of 500 wristwatches from Sekford*
