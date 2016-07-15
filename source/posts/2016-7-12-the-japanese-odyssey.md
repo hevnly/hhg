@@ -11,7 +11,7 @@ editionName: July
 editionNumber: 11
 ---
 
-The ‘land of the rising sun’ known to many simply as ‘Japan’, possesses colossal landscapes and is highly regarded as a cyclist’s paradise, especially for veterans of the sport. Understood for its nuanced, and complex culture, Japan offers many distinctive wonders. Even with this guarantee of everlasting ignorance, the cycling tradition acts as a powerful tool to bridge that cultural gap and bond with like-minded people around the world. 
+The ‘land of the rising sun’ known to many simply as ‘Japan’, possesses colossal landscapes and is highly regarded as a cyclist’s paradise, especially for veterans of the sport. Understood for its nuanced, and complex culture, Japan offers many distinctive wonders. Even with this guarantee of everlasting ignorance, the cycling tradition acts as a powerful tool to bridge that cultural gap and bond with like-minded people around the world.
 
 Japan renowned for its densely populated cities and congested roads, also offers plenty of alternative circuits transporting cyclists through some of the most breathtaking scenery east Asia has to offer. While some of the most enthusiastic cyclists will travel far distances of the country, a new type of tour offers enthusiasts an unparalleled course to explore new regions.               
 
