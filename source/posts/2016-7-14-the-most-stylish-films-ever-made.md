@@ -1,6 +1,6 @@
 ---
 title: "The most stylish films ever made"
-subTitle: "Hevnly Takes a brief look at some of the most stylish films of all time."
+subTitle: "HHG dissects some of the most stylish films of all time"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-15-7-2016/hhg-img-670b611d-7723-420c-badb-3ef176f035ab.png
 date: 2016-7-14
