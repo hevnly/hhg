@@ -38,7 +38,7 @@ The style of this American Action Thriller directed by Alfred Hitchcock is best 
 A movie that came before the boom in street fashion and in many ways ushered it in! Although the film is now 20 years old it still feels burningly relevant, with its stark message on race and class. La Haine often captures a clash between parisian cultures through the clothing worn by the characters and has a deep anti luxury aesthetic that can be seen reflected on the runways of today.
 
 ![La Haine](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-520097b0-9f32-4fd1-a018-7a28308c793f.png)
-*he title derives from a line spoken by one of them, Hubert, "La haine attire la haine!", "hatred breeds hatred."*
+*The title derives from a line spoken by one of them, Hubert, "La haine attire la haine!", "hatred breeds hatred."*
 
 ## Do The Right Thing
 
