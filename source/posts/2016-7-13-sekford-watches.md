@@ -15,10 +15,11 @@ Sekford watches - The English watch brand creating stylish dress watches with pr
 
 Sekford’s stitched watch straps are made from hard-wearing English leathers (Bridle and Shell Cordovan), sourced from one of Britain’s oldest tanneries in Derbyshire. The companies logo is an English Gothic Revival wood engraving cut by specialist engraver Mark Wilkinson in Lincolnshire, and appears on the back of all Sekford wristwatches.
 
-![Type 1A](https://meta.hevnly.com/images/on-13-7-2016/hhg-img-cffceda5-1c2f-44d4-b9c0-65f3d486de0b.png)
+
+![Sekford Watches](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-693830ef-aa52-457a-a8bf-61ae3411006c.png)
 *Type 1A is the first edition of 500 wristwatches from Sekford*
 
-![Image description](https://meta.hevnly.com/images/on-13-7-2016/hhg-img-40e56f1e-cd1a-4408-8abf-d6e44a73097d.png)
+![Sekford Watches](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-40960f8f-40df-414a-9b9d-19b2513a2a72.png)
 *38.5 mm diameter case 9.55mm depth*
 
-![Sekford Watches](https://meta.hevnly.com/images/on-13-7-2016/hhg-img-28b52ab2-cfb1-4861-9bf0-82d3cd1516e3.png)
+![Sekford Watches](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-48928b38-0ae5-4e13-b9f0-5a5728e9105f.png)
