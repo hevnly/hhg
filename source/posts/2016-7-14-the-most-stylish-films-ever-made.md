@@ -1,6 +1,6 @@
 ---
 title: "The most stylish films ever made"
-subTitle: "Curated By Hevnly"
+subTitle: "Hevnly Takes a brief look at some of the most stylish films of all time."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-15-7-2016/hhg-img-670b611d-7723-420c-badb-3ef176f035ab.png
 date: 2016-7-14
@@ -11,7 +11,6 @@ editionName: july
 editionNumber: 11
 ---
 
-A breif look at some of the most stylish films of all time. No Order.
 
 ## Purple Noon
 
