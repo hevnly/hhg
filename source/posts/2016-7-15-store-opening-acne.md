@@ -1,6 +1,6 @@
 ---
 title: "Acne studios"
-subTitle: "Munich store oppening"
+subTitle: "Munich store opening"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-15-7-2016/hhg-img-d7270ec0-0a06-436a-9b27-1fcc0ab1e085.png
 date: 2016-7-15
