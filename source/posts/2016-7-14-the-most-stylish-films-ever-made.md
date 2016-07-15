@@ -11,7 +11,6 @@ editionName: july
 editionNumber: 11
 ---
 
-
 ## Purple Noon
 
 This René Clément Film showcased classic american style - costume designer Bella Clément put together stunningly elegant looks that were imbued with a sense of rebellion by Alain Delon. His first appearence in a light blue oxford button-down shirt, off-white jeans and brown suede horsebit loafers works perfectly with the Italian landscape of azure seas, waterfronts and picturesque coastal villages.
