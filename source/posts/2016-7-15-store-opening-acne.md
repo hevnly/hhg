@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-15-7-2016/hhg-img-d7270ec0-0a06-436
 date: 2016-7-15
 slug: store-opening
 tags: acne, fashion, store opening
-category: place
+category: places
 editionName: July
 editionNumber: 11
 ---
