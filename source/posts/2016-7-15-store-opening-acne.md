@@ -11,6 +11,11 @@ editionName: July
 editionNumber: 11
 ---
 
+The Swedish design house continues its relentless retail mission with their newest location in Maximiliansplatz, Munich. Its fourth Acne Studios store in Germany, following its Potsdamer Straße location in Berlin which opened in October 2015. This 180sqm space continues the codes of the new Acne Studio store vision, utilizing key signatures including stainless steel walls, custom units and furniture to create an eccentric destination. This latest edition exhibits a modern day Munich, combining innovation with tradition.      
+
+The large, light filled location is viewed through a series of windows, the store itself acting as if a window display.  A variation of textures are pivotal, with both stainless steel walls and concrete reflected in a mirrored angled box that encloses the fitting rooms. Long term collaborator Max Lamb once more designs the bespoke furniture. An oversized mirror leaning against a wall and mobile stainless steel rails on wheels are instrumental to the calculated makeshift feel. Here, the original ceiling can be viewed through the bespoke LED light fixtures, which run in vertical lines to highlight the depth of the space. Like its clothing with each new Acne Studio store, the decor feels as if it has been galvanized in clean fashion.           
+
+Acne Studios Maximiliansplatz is located at Maximiliansplatz 10.
 
 ![ACNE studios Store](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-97df431b-1a6e-4d60-b815-3d5aef6e4bed.png)
 *ACNE was founded in 1996 as part of a creative collective*
