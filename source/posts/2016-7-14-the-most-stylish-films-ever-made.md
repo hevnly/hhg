@@ -14,7 +14,8 @@ editionNumber: 11
 ## Purple Noon
 
 This René Clément Film showcased classic american style - costume designer Bella Clément put together stunningly elegant looks that were imbued with a sense of rebellion by Alain Delon. His first appearence in a light blue oxford button-down shirt, off-white jeans and brown suede horsebit loafers works perfectly with the Italian landscape of azure seas, waterfronts and picturesque coastal villages.
-![Purple Noon](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-711a9b39-f5b3-4620-881c-5e0854290c3a.png)
+
+![Purple Noon](https://meta.hevnly.com/images/on-16-7-2016/hhg-img-5fbfe0e7-a352-45e0-a809-291315205b81.png)
 *Purple Noon - loosely based on the 1955 novel The Talented Mr. Ripley by Patricia Highsmith*
 
 
