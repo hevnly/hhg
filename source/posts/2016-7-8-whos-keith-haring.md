@@ -4,7 +4,7 @@ subTitle: "You probably already know."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-45944090-7312-41f3-83e8-b30fb15cee55.png
 date: 2016-7-8
-slug: who's-keith-haring
+slug: whos-keith-haring
 tags: art, design, fashion
 category: people
 editionName: VHS
@@ -13,7 +13,7 @@ editionNumber: 10
 
 In the early 1980’s, with New York’s street culture at its apex, cartoonish figures began appearing on the on black, unused advertisement boards of the subway. Drawn with white chalk, these nameless images struck a chord with a culture and a city. They were the works of Keith Haring, an artist who’s pop-art style would leap from the subways to high-art, to a foundation for political activism that has rendered Haring one of the definitive figures of the decade.
 
-Born in Pennsylvania in 1958, Haring’s father was an amateur cartoonist. Early, and perhaps unlikely, influences emerged in the creations of Charles Schultz and Dr Seus. Haring studied commercial art from 1976 to 1978 in Pittsburgh but lost interest and it was his maintenance job at the Pittsburgh Center for the Arts that allowed for tangible inspiration by introducing Haring to the possibilities of contemporary art. Moving to New York to study painting, it was again off the beaten track inspirations that took prevalence. The works of William Burroughs and studying semiotics with Bill Beckley were important but it was the freedom and voice of street art and graffiti that resonated most powerfully with Haring.
+Born in Pennsylvania in 1958, Haring’s father was an amateur cartoonist. Early, and perhaps unlikely, influences emerged in the creations of Charles Schultz and Dr Seuss. Haring studied commercial art from 1976 to 1978 in Pittsburgh but lost interest and it was his maintenance job at the Pittsburgh Center for the Arts that allowed for tangible inspiration by introducing Haring to the possibilities of contemporary art. Moving to New York to study painting, it was again off the beaten track inspirations that took prevalence. The works of William Burroughs and studying semiotics with Bill Beckley were important but it was the freedom and voice of street art and graffiti that resonated most powerfully with Haring.
 
 >If commercialization is putting my art on a shirt so that a kid who can't afford a $30,000 painting can buy one, then I'm all for it. - Keith Haring
 
