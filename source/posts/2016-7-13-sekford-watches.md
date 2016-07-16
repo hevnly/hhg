@@ -2,7 +2,7 @@
 title: "Sekford Watches"
 subTitle: "First Collection - Type 1A"
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-13-7-2016/hhg-img-817d43ed-b02d-42fb-9ab7-09be086775d1.png
+heroImage: https://meta.hevnly.com/images/on-16-7-2016/hhg-img-25cd094d-b41d-4000-9235-d17853950862.png
 date: 2016-7-13
 slug: sekford-watches
 tags: fashion, watches, design
