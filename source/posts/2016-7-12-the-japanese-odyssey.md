@@ -21,8 +21,8 @@ Established by bicycle enthusiasts, the endurance event commits to offering part
 
 This year’s edition starts on September 17th in Tokyo - Visit [www.japanese-odyssey.com](www.japanese-odyssey.com)
 
-![Bike Shed](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-c4d7afcc-df21-4cb2-8228-da094c2f9f7f.png)
+![bikeshed](https://meta.hevnly.com/images/on-16-7-2016/hhg-img-98875bce-4f55-44fb-9008-ee93e6064e5c.png)
 
-![Bikerace](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-aaa3740f-fb2b-4edc-afa4-27aae11fc0f1.png)
+![bikeroute](https://meta.hevnly.com/images/on-16-7-2016/hhg-img-f0fadba7-e302-4d02-a9a4-c3931a530909.png)
 
-![Bridge](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-3c66c860-d1b6-4bd5-91b2-3080d6d0fb73.png)
+![bride](https://meta.hevnly.com/images/on-16-7-2016/hhg-img-71af5a00-664f-438f-b4c2-5c9deb47cc5e.png)
