@@ -2,7 +2,7 @@
 title: "Who's Keith Haring?"
 subTitle: "You probably already know."
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-45944090-7312-41f3-83e8-b30fb15cee55.png
+heroImage: https://meta.hevnly.com/images/on-16-7-2016/hhg-img-811407a7-8a91-467a-8035-0fbcad135a5d.png
 date: 2016-7-8
 slug: whos-keith-haring
 tags: art, design, fashion

@@ -2,7 +2,7 @@
 title: "Poetry in motion"
 subTitle: "Deconstructing the Hip-hop music videos of the 90's."
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-8-7-2016/hhg-img-068dd7bf-401e-4a58-935a-56b0327dc0e4.png
+heroImage: https://meta.hevnly.com/images/on-16-7-2016/hhg-img-1a8e5877-6717-4f63-93f7-d4e626994e69.png
 date: 2016-7-8
 slug: hip-hop-music-videos
 tags: Hip-hop, music, culture
