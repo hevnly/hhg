@@ -3,6 +3,7 @@ title: "Best plants for your home"
 subTitle: "A guide"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-16-7-2016/hhg-img-9a1011af-8b93-4e65-afc3-71cc12950e87.png
+date: 2016-7-14
 slug: best-plants-for-your-home
 tags: home, design, plants
 category: products
