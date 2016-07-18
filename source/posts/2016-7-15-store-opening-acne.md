@@ -23,7 +23,6 @@ Acne Studios Maximiliansplatz is located at Maximiliansplatz 10.
 ![ACNE studios Store](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-4df79104-5211-42b6-b8eb-dd2df7c2acc0.png)
 *The name ACNE stands for "Ambition to Create Novel Expressions"*
 
-
 ![ACNE Studios Store](https://meta.hevnly.com/images/on-15-7-2016/hhg-img-79db0d40-9bcd-49f2-aa6e-5c101bc065d4.png)
 *In 2006, Acne Studios became a standalone company and separated from Acne Film, Acne Advertising and Acne Digital*
 
