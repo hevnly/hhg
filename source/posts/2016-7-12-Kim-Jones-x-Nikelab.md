@@ -3,9 +3,9 @@ title: "Kim Jones x NikeLab"
 subTitle: "The Packable Sport Style Collection"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-18-7-2016/hhg-img-139718b9-bf9c-490c-b0b3-1785a97d32f2.png
-date: 2016-7-18
+date: 2016-7-12
 slug: Kim-Jones-x-nikeLab
-tags: nike, kim jones, fashion
+tags: nike, kim jones, fashion, nikelab
 category: products
 editionName: july
 editionNumber: 11
