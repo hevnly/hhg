@@ -3,7 +3,7 @@ title: "Acne studios"
 subTitle: "Munich store opening"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-16-7-2016/hhg-img-b70b5f49-da3a-4589-ba49-14f2027750b7.png
-date: 2016-7-15
+date: 2016-7-11
 slug: store-opening
 tags: acne, fashion, store opening
 category: places
