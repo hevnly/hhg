@@ -3,7 +3,7 @@ title: "Y-3 2016 Fall/Winter Campaign Video"
 subTitle: "Rave culture and minimalism combine"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-18-7-2016/hhg-img-f047ffb5-48aa-4a7c-aa5e-006822c330e7.png
-date: 2016-7-18
+date: 2016-7-11
 slug: y3-fall-winter-campaign
 tags: fashion, Y3, clothing,
 category: products
