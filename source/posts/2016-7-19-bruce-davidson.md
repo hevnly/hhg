@@ -1,6 +1,6 @@
 ---
 title: "Bruce Davidson"
-subTitle: "One of Americans greatest photographers"
+subTitle: "One of America's greatest photographers"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-19-7-2016/hhg-img-c15f5431-5590-431d-8e65-21c735d3530d.png
 date: 2016-7-19
@@ -26,3 +26,5 @@ His work “Time of Change” which followed the Civil Rights Movement and Freed
 >All the time I was witnessing that struggle, I felt I was part of something, not apart from it.
 
 Perhaps his most Famous book “East 100th Street” in which he photographed an infamously run-down block in East Harlem showcases the best qualities of his work. His ability to become a part of the community yielded intensely intimate work that captured inner-city ghetto life like never before. Speaking on the work he has acknowledged its significance "That book made a difference, though. I went back years later to photograph the positive changes and a woman who had been an activist there in the 1970s told me that when the people in power saw the book, heads rolled. It caused a shake-up and the good effects filtered down to the community."
+
+![East 100th street](https://meta.hevnly.com/images/on-19-7-2016/hhg-img-f2662c2b-f23f-4bc7-8a72-6c099ccb2604.png)
