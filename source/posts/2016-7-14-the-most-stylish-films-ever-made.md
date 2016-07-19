@@ -18,7 +18,6 @@ This René Clément Film showcased classic american style - costume designer Bel
 ![Purple Noon](https://meta.hevnly.com/images/on-16-7-2016/hhg-img-5fbfe0e7-a352-45e0-a809-291315205b81.png)
 *Purple Noon - loosely based on the 1955 novel The Talented Mr. Ripley by Patricia Highsmith*
 
-
 ## Easy Rider
 
 A film that became a symbol of American counterculture and outlaw spirt trod a fine line between iconic and ironic from gaudy stars and stripes to native american inspired biker jackets. Easy Rider was the classic road film.
