@@ -1,6 +1,6 @@
 ---
-title: "Bruce Davidson"
-subTitle: "One of America's greatest photographers"
+title: "One of America's greatest photographers"
+subTitle: "Exploring the major works of Bruce Davidson"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-19-7-2016/hhg-img-c15f5431-5590-431d-8e65-21c735d3530d.png
 date: 2016-7-19
