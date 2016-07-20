@@ -1,6 +1,6 @@
 ---
-title: "Korean Design"
-subTitle: "Taking centre stage "
+title: "East Asia's new design powerhouse"
+subTitle: "Exploring the surge of Korean design"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-20-7-2016/hhg-img-62501880-ec50-436b-ab46-5906726b7c9f.png
 date: 2016-7-11
