@@ -7,7 +7,7 @@ date: 2016-7-13
 slug: the-japanese-odyssey
 tags: japan, travel,
 category: places
-editionName: July
+editionName: july
 editionNumber: 11
 ---
 

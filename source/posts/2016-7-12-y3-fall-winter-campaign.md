@@ -5,9 +5,9 @@ readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-18-7-2016/hhg-img-f047ffb5-48aa-4a7c-aa5e-006822c330e7.png
 date: 2016-7-12
 slug: y3-fall-winter-campaign
-tags: fashion, Y3, clothing,
+tags: fashion, y3, clothing,
 category: products
-editionName: July
+editionName: july
 editionNumber: 11
 ---
 
