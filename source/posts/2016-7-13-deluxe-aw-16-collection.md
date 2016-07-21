@@ -7,7 +7,7 @@ date: 2016-7-13
 slug: deluxe-aw-16-collection
 tags: fashion, clothing, deluxe
 category: products
-editionName: July
+editionName: july
 editionNumber: 11
 ---
 

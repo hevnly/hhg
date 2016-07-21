@@ -7,7 +7,7 @@ date: 2016-7-14
 slug: best-plants-for-your-home
 tags: home, design, plants
 category: products
-editionName: July
+editionName: july
 editionNumber: 11
 ---
 

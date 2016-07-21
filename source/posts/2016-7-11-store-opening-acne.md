@@ -7,7 +7,7 @@ date: 2016-7-11
 slug: store-opening
 tags: acne, fashion, store opening
 category: places
-editionName: July
+editionName: july
 editionNumber: 11
 ---
 

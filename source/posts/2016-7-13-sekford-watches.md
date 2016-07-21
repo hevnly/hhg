@@ -7,7 +7,7 @@ date: 2016-7-13
 slug: sekford-watches
 tags: fashion, watches, design
 category: products
-editionName: July
+editionName: july
 editionNumber: 11
 ---
 
