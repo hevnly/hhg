@@ -3,7 +3,7 @@ title: "DELUXE AW 16 Collection"
 subTitle: "The Wardrobe Essentials"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-20-7-2016/hhg-img-ea5f7e7f-eaa9-4fa3-8d3b-e37e8f2f1ab1.png
-date: 2016-7-13
+date: 2016-7-11
 slug: deluxe-aw-16-collection
 tags: fashion, clothing, deluxe
 category: products
