@@ -11,7 +11,7 @@ editionName: july
 editionNumber: 11
 ---
 
-Having only been in business since 2003, DELUXE has made it's mark by producing high quality garments that blend American workwear traditions with Japanese tailoring skill, through this process of blending these staples are redefined for a more modern context. Founder and creative director Hideki "Hue" Kimura takes inspiration from New York City and mixes in a dose of Tokyo street culture to create a potent hybrid. Their motto -- "Street Tailor" -- means to mix the uncompromising, tailored methodology of producing high quality clothing with the conscious edge of functionality and flexibility found in American casual "street" clothing.
+Having only been in business since 2003, DELUXE has made it's mark by producing high quality garments that blend American workwear traditions with Japanese tailoring skill, through this process of blending these staples are redefined for a more modern context. Founder and creative director Hideki "Hue" Kimura takes inspiration from New York City and mixes in a dose of Tokyo street culture to create a potent hybrid. Their motto -- "Street Tailor" - means to mix the uncompromising, tailored methodology of producing high quality clothing with the conscious edge of functionality and flexibility found in American casual "street" clothing.
 
 This latest collection sees a number of military inspired pieces as well as some rugged jumpers and utility jackets, providing some much needed winter essentials.
 
