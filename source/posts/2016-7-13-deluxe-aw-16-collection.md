@@ -17,7 +17,6 @@ This latest collection sees a number of military inspired pieces as well as some
 
 To see the whole collection visit there [website](http://www.deluxe.jp/)
 
-
 ![Image description](https://meta.hevnly.com/images/on-20-7-2016/hhg-img-3062394b-e5b9-48d9-ab1a-14f718b3c82a.png)
 
 ![Image description](https://meta.hevnly.com/images/on-20-7-2016/hhg-img-cf399da2-5d83-4638-b0e7-e9026c7472a2.png)
