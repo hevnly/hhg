@@ -11,7 +11,6 @@ editionName: july
 editionNumber: 11
 ---
 
-
 An artisan by definition is a worker in a skilled trade, especially one that involves making things by hand. When investigating the design industry, there are a handful of exemplary cases hailing from  south Korea. Over a decade of work to develop a thriving manufacturing network, they’ve also been successful at defining design capabilities and nurturing strong brands. While its neighbouring countries in southeast Asia often take centre stage for cultural and political influence, these select makers are just as deserving.
 
 ![Woo Young Mi](https://meta.hevnly.com/images/on-20-7-2016/hhg-img-82104e9b-5a6b-4206-9976-74481f15fb84.png)

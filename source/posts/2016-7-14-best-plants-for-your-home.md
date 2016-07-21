@@ -19,7 +19,6 @@ The rubber tree is a vintage house plant - popular for its large waxy leaves tha
 ![Rubber Tree](https://meta.hevnly.com/images/on-16-7-2016/hhg-img-feeb5296-06ff-48f1-b918-b21de7b4a5cb.png)
 *The plant produces a milky colored latex sap which can be retrieved from the plant once it matures to an age of about six years old.*
 
-
 ## Jade Plant
 This particular plant seems to crop up everywhere, from coffee shops to stylish retail spaces and it's easy to see why. The Jade Plant apart from its good looks doesn't need much in the way of maintenance as it prefers dry conditions.
 
