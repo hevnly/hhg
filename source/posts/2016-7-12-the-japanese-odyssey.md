@@ -19,7 +19,7 @@ Now into its second edition, ‘the Japanese Odyssey’ sends riders from Tokyo 
 
 Established by bicycle enthusiasts, the endurance event commits to offering participants an enthralling glimpse into the unique bike culture and beautiful vistas of Japan.
 
-This year’s edition starts on September 17th in Tokyo - Visit [www.japanese-odyssey.com](www.japanese-odyssey.com)
+This year’s edition starts on September 17th in Tokyo - Visit [https://www.japanese-odyssey.com](www.japanese-odyssey.com)
 
 ![bikeshed](https://meta.hevnly.com/images/on-16-7-2016/hhg-img-98875bce-4f55-44fb-9008-ee93e6064e5c.png)
 
