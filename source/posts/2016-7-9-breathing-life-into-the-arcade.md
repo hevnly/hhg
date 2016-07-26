@@ -11,6 +11,7 @@ editionName: july
 editionNumber: 11
 ---
 
+
 The arcades offered three things: cutting-edge graphics, a social experience and different ways to play. Undoubtedly the golden age of the arcade was part of an era when technology was evolving and new innovations were emerging. Even to those who experienced that era, the environment of any downtown arcade became a convenient venue for people to socialise and have fun before heading home for the night. With the accelerating advancement of technology, a change to the industry was inevitable, turning the size and expense of arcade machines into a liability rather than an advantage. Affordable, rapidly updated computers and consoles (and eventually mobile phones) first contested and then far surpassed the processing capabilities of big arcade cabinets. Swift updates in graphics, processing, storage, networking, portability, controls and screen resolutions were comfortably welcomed by the home markets. Arcade operators, tasked with changing large numbers of towering, costly systems in order to keep up of such changes, tailed off completely.       
 ![neo legend](https://meta.hevnly.com/images/on-26-7-2016/hhg-img-03050f65-dddb-488d-9d12-f9105ff76df1.png)
 *The Neo Legend showroom is located - 71 rue Crozatier 75012 Paris FRANCE*
