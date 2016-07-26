@@ -15,7 +15,7 @@ Having only been in business since 2003, DELUXE has made its mark by producing h
 
 This latest collection sees a number of military inspired pieces as well as some rugged jumpers and utility jackets, providing some much needed winter essentials.
 
-To see the whole collection visit there [website](http://www.deluxe.jp/)
+To see the whole collection, visit their [website](http://www.deluxe.jp/)
 
 ![Image description](https://meta.hevnly.com/images/on-20-7-2016/hhg-img-3062394b-e5b9-48d9-ab1a-14f718b3c82a.png)
 
