@@ -1,6 +1,6 @@
 ---
 title: "Enter the psychedelic world of Takashi Murakami"
-subTitle: "HHG explores the artists work"
+subTitle: "The Japanese artist that gripped the imagination of collectors and curators"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-27-7-2016/hhg-img-4906fae4-f064-4fd0-92b3-94e87c61e646.png
 date: 2016-7-27
