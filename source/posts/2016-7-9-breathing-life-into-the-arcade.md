@@ -29,4 +29,4 @@ The company founded and led by a team of enthusiasts in 2007, attempts to redisc
 ![arcade games](https://meta.hevnly.com/images/on-26-7-2016/hhg-img-c9de946f-4a84-4802-9a11-44828589d632.png)
 *A selection of Neo Legend machines*
 
-Neo Legend is a testament to the golden age of the arcade, extracted from original ideas and incorporating the latest technologies. While social or commercial aspects could still pull the rug out from any hope of any arcade recovery or renaissance, Neo Legend’s existence certainly permits fresh hope for new kinds of out-of-home conceptual gaming and interactive entertainment experiences.     
+Neo Legend is a testament to the golden age of the arcade, extracted from original ideas and incorporating the latest technologies. While social or commercial aspects could still pull the rug out from any hope of any arcade recovery or renaissance, Neo Legend’s existence certainly permits fresh hope for new kinds of out-of-home conceptual gaming and interactive entertainment experiences.
