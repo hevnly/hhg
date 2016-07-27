@@ -11,7 +11,9 @@ editionName: july
 editionNumber: 11
 ---
 
-Rebelliously crossing the well-defined lines between art, commerce, pop and subcultural concerns, the spectrum of Takashi Murakami’s creative pursuits are seemingly limitless. Murakami is arguably one of the most notable and important Japanese artists working today yet, “The Japanese Andy Warhol”, the brush with which many critics paint him, does not do justice to the complex and wide-ranging work of  the prolific artist. And while it is likely on the most overused, if not reductive monikers in the book, the Warholian model does support a valid point of departure for understanding Murakami’s oeuvre. Unquestionably, Murakami simply cannot be reduced to being a mere disciple of the American Pop master, his influence on Japan rivals Andy Warhol’s on the United States, and he is known for publicising and promoting pop art strategies in the most unpredictable and novel ways.  
+Rebelliously crossing the well-defined lines between art, commerce, pop and subcultural concerns, the spectrum of Takashi Murakami’s creative pursuits are seemingly limitless. Murakami is arguably one of the most notable and important Japanese artists working today yet, “The Japanese Andy Warhol”, the brush with which many critics paint him, does not do justice to the complex and wide-ranging work of  the prolific artist. And while it is likely on the most overused, if not reductive monikers in the book, the Warholian model does support a valid point of departure for understanding Murakami’s oeuvre.
+
+Unquestionably, Murakami simply cannot be reduced to being a mere disciple of the American Pop master, his influence on Japan rivals Andy Warhol’s on the United States, and he is known for publicising and promoting pop art strategies in the most unpredictable and novel ways.  
 
 ![Takashi Murakami](https://meta.hevnly.com/images/on-27-7-2016/hhg-img-9954a82d-9cee-45b8-adfe-9eca2d222767.png)
 *Takashi Murakami was born 1 February 1962*
