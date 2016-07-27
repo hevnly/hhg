@@ -4,7 +4,7 @@ subTitle: "HHG curates a selection stations from around the world"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-27-7-2016/hhg-img-220d8ba2-e40c-4092-9ff4-032f89564a09.png
 date: 2016-7-9
-slug: Five-online-stations-you-should-be-listening-to
+slug: five-online-stations-you-should-be-listening-to
 tags: radio, music,
 category: products
 editionName: july
