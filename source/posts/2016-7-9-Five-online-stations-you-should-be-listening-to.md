@@ -1,6 +1,6 @@
 ---
 title: "Five online stations you should be listening to"
-subTitle: "HHG curates the best stations from around the world"
+subTitle: "HHG curates a selection stations from around the world"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-27-7-2016/hhg-img-220d8ba2-e40c-4092-9ff4-032f89564a09.png
 date: 2016-7-9
@@ -39,5 +39,5 @@ This Portland based radio station has a simple mission, “Our mission is to hol
 ![Newtown Radio](https://meta.hevnly.com/images/on-27-7-2016/hhg-img-3d68e89d-6e47-4af9-84d4-950992fa3c01.png)
 *Newtown Radio*
 
-Newtown Radio is a Brooklyn-based internet radio station dedicated to sharing the great music that the neighborhoods around Newtown Creek — Williamsburg, Greenpoint, Bushwick, Long Island City, Ridgewood. New York has always been a centre of music and art - Newtown Radio has become a place where key artists promote the weirdest and most interesting sounds inspiring them.
+Newtown Radio is a Brooklyn-based internet radio station dedicated to sharing the great music from the neighborhoods around Newtown Creek — Williamsburg, Greenpoint, Bushwick, Long Island City, Ridgewood. New York has always been a centre of music and art and Newtown Radio has become a place where key artists promote the weirdest and most interesting sounds inspiring them.
 [Listen Here](http://www.newtownradio.com/)
