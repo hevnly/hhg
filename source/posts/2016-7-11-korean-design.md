@@ -2,7 +2,7 @@
 title: "East Asia's new design powerhouse"
 subTitle: "Exploring the surge of Korean design"
 readingTime: 4min
-heroImage: https://meta.hevnly.com/images/on-20-7-2016/hhg-img-62501880-ec50-436b-ab46-5906726b7c9f.png
+heroImage: https://meta.hevnly.com/images/on-28-7-2016/hhg-img-8702ca0c-a754-4ddd-8636-e12a1b07c475.png
 date: 2016-7-11
 slug: korean-design
 tags: design, korean, architecture, fashion
