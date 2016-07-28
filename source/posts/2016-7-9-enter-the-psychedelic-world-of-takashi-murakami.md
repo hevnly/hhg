@@ -16,7 +16,7 @@ Rebelliously crossing the well-defined lines between art, commerce, pop and subc
 Unquestionably, Murakami simply cannot be reduced to being a mere disciple of the American Pop master, his influence on Japan rivals Andy Warhol’s on the United States, and he is known for publicising and promoting pop art strategies in the most unpredictable and novel ways.  
 
 ![Takashi Murakami](https://meta.hevnly.com/images/on-27-7-2016/hhg-img-9954a82d-9cee-45b8-adfe-9eca2d222767.png)
-*Takashi Murakami was born 1 February 1962*
+*Flowers in heaven, 2010*
 
 Murakami’s artistic practice is expansive, spilling unreservedly into fashion, film and numerous commercial endeavors. In addition to producing some of the most iconic paintings and sculptures in the previous two decades, his extra-commercial work extends to designing a full range of consumer merchandise (either for his own Kaikai Kiki label or for household fashion names such as Louis Vuitton and Comme des Garçons), managing a gallery that promotes young Japanese artistic talent and to hosting a weekly radio talk show in Tokyo. His works unify strands of culture that are usually considered disparate; traditional Japanese painting with Western influences, penetrating the realm of fine art entwined with the animated “otaku” lifestyle (juvenile culture obsessed with toys, anime, and videogames), and commercial retail environments complemented with museums and inspiring break-out spaces - Murakami’s work is acknowledged and respected for its ambition, flair, and deft execution.
 
