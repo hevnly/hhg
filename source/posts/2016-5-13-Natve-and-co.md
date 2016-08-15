@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-13-5-2016/hhg-img-1d0a44af-244c-4cf
 date: 2016-5-13
 slug: native-and-co
 tags: native-and-co, London, Japanese, Design, Homeware
-category: place
+category: places
 editionName: spring
 editionNumber: 8
 ---
