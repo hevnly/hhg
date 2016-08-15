@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-13-5-2016/hhg-img-57669204-cc3a-412
 date: 2016-5-13
 slug: kestin-hare
 tags: kestin-hare, scottish fashion, edinburgh
-category: place
+category: places
 editionName: spring
 editionNumber: 8
 ---
