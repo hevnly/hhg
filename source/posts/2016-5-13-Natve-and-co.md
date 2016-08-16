@@ -5,8 +5,8 @@ readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-13-5-2016/hhg-img-1d0a44af-244c-4cf2-ac9d-e5108c9e61c6.png
 date: 2016-5-13
 slug: native-and-co
-tags: Native-and-co, London, Japanese, Design, Homeware
-category: place
+tags: native-and-co, London, Japanese, Design, Homeware
+category: places
 editionName: spring
 editionNumber: 8
 ---
@@ -21,7 +21,6 @@ As the tea is poured, the clean lines that have been so carefully established in
 When the pair set out on their journey in 2014, after graduating in 3D Product Design from Central St. Martins and launching Native & Co at the London Design Festival, they wanted to challenge the notion that Japanese shops and crafts were moody and mysterious. Throwing light on their native traditions, Native & Co have – seemingly effortlessly – created an environment that feels comfortable, easy and peaceful. ‘We were worried about it being too intimidating. We didn’t want it to feel like a gallery,’ Sharon shares. ‘We want our shop to compliment our crafts but in a new context.’
 
 It is this idea of evolving their traditions to a place the Western world can access that makes Native & Co so intriguing. ‘Japanese design is more purpose driven, which can make traditional crafts seem quite distant,’ Chris Yoshiro-Green, founder, explains. The eye wanders again over the products and imagination takes over. Silently, the mind finds each piece a place and a use in the home with surprising ease, scenarios are created whereby it becomes impossible to imagine managing without them. Loved ones and family are assigned them as gifts. Selecting such a diverse yet harmonious range is a skill and one that is standing Native & Co in very good stead.
-
 
 ![Knife Fork Spoon](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-9ca96c3a-857c-406f-bb71-2eefa3979952.png)
 *A pared back selection of artisanal accessories sourced in Japan and Taiwan.*

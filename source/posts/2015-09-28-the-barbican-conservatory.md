@@ -11,7 +11,7 @@ editionName: design
 editionNumber: 1
 ---
 
-After World War II, much of London had to be rebuilt. Whole areas had been devastated, and there was an increasing demand for urban renewal. And so began the work of redevelopment: massive, city-wide, and modern. ‘It was as if a meteor had crashed into silk street,’ said one resident, describing the enormous excavation site that came to be the barbican arts centre. Known as ‘the city’s gift’ to the people of London, the arts centre took over a decade to build before it was officially opened in 1982. Despite being widely acknowledged as one of the most significant urban architectural achievements of the 20th century, the barbican had—and still has—its detractors. A 2003 poll named it ‘London’s ugliest building’.
+‘It was as if a meteor had crashed into silk street,’ said one resident, describing the enormous excavation site that came to be the barbican arts centre. Known as ‘the city’s gift’ to the people of London, the arts centre took over a decade to build before it was officially opened in 1982.
 
 ![Concrete wall - integral ingredient](https://meta.hevnly.com/images/on-28-9-2015/the-barbican-conservatory-0l8a04321.jpg)
 *The integral ingredient of the barbican centre*
@@ -30,8 +30,6 @@ The solution was a conservatory. Not only would a conservatory provide much-need
 Nearly thirty-five years after it was built, the conservatory remains more or less hidden, concealed by the concrete mass of the arts centre. It’s peculiarly inconspicuous given that it’s the second largest conservatory in London (the biggest, of course, is at kew); it’s probably not a place that you’d just stumble across. To get there, you walk through the arts centre, enter a lift to then walk outside again before bearing right and eventually reaching what the barbican describes as their own ‘hidden tropical oasis’.
 
 >Once you’re inside, you understand why
-
-Here, in the middle of the city, are over 2,000 species of tropical plants and trees (some rare and endangered). Within the peaceful conservatory plants creep up walls and thick trees bow overhead, while fish roam in their large ponds. Certain species are so diminutive that they demand your full attention just to be seen, while others are so large that they can’t be missed and everywhere you turn there’s colour.
 
 A highlight of the conservatory is the cactus room, in which home to myriad cacti and a host of other exotic species. The lithop, or ‘living stone’, are one of the more interesting plants in the cacti room. A master of camouflage, their colouration resembles the soil that surrounds them, making them almost impossible to find. It’s easy to forget, and sometimes hard to believe, that such plants exist.
 

@@ -6,12 +6,12 @@ heroImage: https://meta.hevnly.com/images/on-18-5-2016/hhg-img-77a39bf7-cd6c-45e
 date: 2016-5-18
 slug: copenhagen
 tags: Copenhagen, fashion,
-category: place
+category: places
 editionName: spring
 editionNumber: 8
 ---
 
-If conversation ever turns to fashion or more generally, the often lauded “most fashionable city in the world” - London, Milan, Paris and New York all jockey for pole position. Similarly, the enviably grandiose title of “Capital Of Fashion” is a three-horse race consisting of the same old guard, with Seoul or Tokyo sometimes thrown in for sport and perhaps in the name of “cultural diversity”. The formula is simple: Major City + Calendar Week in February/September = Fashion week. Do the math…
+If conversation ever turns to fashion or more generally, the often lauded “most fashionable city in the world” - London, Milan, Paris and New York all jockey for pole position. Similarly, the enviably grandiose title of “Capital Of Fashion” is a three-horse race consisting of the same old guard, with Seoul or Tokyo sometimes thrown in for sport and perhaps in the name of “cultural diversity”.
 
 Rarely does debate centre around the “most stylish city” in the world and the reason for that is simple. It's because style cannot be measured; Style cannot be measured by sales numbers. Style cannot be measured by the number of upmarket flagship stores that line a famous stucco-fronted street (see London’s Bond Street or Rue Saint Honoré in Paris). And style cannot be measured by the number of globally recognised fashion houses any single country can boast. Fashion is a game of numbers. Style is not. If style is more about personality, individualism, self-expression and originality, then Copenhagen certainly deserves a seat at the table.
 

@@ -1,5 +1,5 @@
 ---
-title: "A New Refutation of Blackness and Popular culture"
+title: "A new refutation of blackness and popular culture"
 subTitle: "Part 1 - The history and the development of black culture in lifestyle."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-12-7-2015/black-culture-part-1-dmc-hero.jpg
