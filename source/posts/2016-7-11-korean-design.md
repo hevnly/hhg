@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-28-7-2016/hhg-img-8702ca0c-a754-4dd
 date: 2016-7-11
 slug: korean-design
 tags: design, korean, architecture, fashion
-category: palaces
+category: places
 editionName: july
 editionNumber: 11
 ---
