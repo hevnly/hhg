@@ -3,10 +3,11 @@ title: "Charlie May"
 subTitle: "AW16 Collection"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-17-8-2016/hhg-img-373932cd-e3c8-42e6-9772-20348bce9349.png
+date: 2016-8-17
 slug: charlie-may
 tags: Fashion, Charlie May, Women's, Tailoring
 category: products
-editionName: August
+editionName: august
 editionNumber: 12
 ---
 
