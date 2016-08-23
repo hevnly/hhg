@@ -26,13 +26,7 @@ Around the corner from c.r.e.a.m. is the site of what was once “the Theatre”
 This ever-changing menu means that dishes are based on what’s fresh at the market; meals follow ingredients, not the other way round. ‘I’ve worked with most of my suppliers for a long time,’ Magnus says. ‘I trust them, which is important. If my veg guy (Dennis at bill Bean) sends me french strawberries over British during the season, he normally has a pretty good reason.’ But you have to be quick. ‘They often email out a list of what they have, so it’s first come first serve.’ How much work goes into this? ‘Not much. We maintain a super simple menu. We have some staple dishes we go back to when it’s been a busy week and we are too brain dead to think.’  
 
 
-<<<<<<< HEAD
 ![cream cafe 2](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-5908857a-aff3-464d-ba77-f17e0a0befbb.png)*Offering a convenience that appeals to everybody by diversifying its offering.*
-=======
-![cream cafe 2](https://meta.hevnly.com/images/on-13-5-2016/hhg-img-5908857a-aff3-464d-ba77-f17e0a0befbb.png)
-
->Offering a convenience that appeals to everybody by diversifying its offering.
->>>>>>> 92673e1ac930bbe0c92c361a28533f1186383562
 
 To Magnus the use of seasonal ingredients and local suppliers is just part of being responsible. ‘It’s better to buy a small producer that’s close by over a big organic company,’ he says. ‘we try to work with a couple of smaller people.’ Does that mean he avoids larger companies entirely? ‘Both have their benefits. Usually, the organic companies try to lower emissions too.’ This idea of responsibility extends to people too. There is a “no laptops on the weekend” policy at c.r.e.a.m. in a time when work-life balance is hard to find, Magnus does his part to foster a sense of play.
 

@@ -5,9 +5,9 @@ readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-31-7-2016/hhg-img-7aff15cf-4b14-4b49-b674-03adc0f5037c.png
 date: 2016-7-9
 slug: tomorrowland
-tags: fashion, tomorrowland, Japan, mens
+tags: Fashion, Tomorrowland, Japan, Mens, Tailoring
 category: products
-editionName: july
+editionName: July
 editionNumber: 11
 ---
 
@@ -32,7 +32,7 @@ TOMORROWLAND is widely renowned for, seamlessly merging contemporary silhouettes
 
 
 ![Image description](https://meta.hevnly.com/images/on-16-8-2016/hhg-img-d56d798b-7b85-4600-a9ad-1f743b1fd91a.png)
-**
+*Polyester taffeta mods | *
 
 
 ![Image description](https://meta.hevnly.com/images/on-16-8-2016/hhg-img-f9ffab64-0f69-4dfb-ad04-b05a701babc1.png)
@@ -54,13 +54,4 @@ TOMORROWLAND is widely renowned for, seamlessly merging contemporary silhouettes
 ![Image description](https://meta.hevnly.com/images/on-16-8-2016/hhg-img-937a7236-6e49-4bce-81dd-a1856024aff2.png)
 *Knit combination crew neck pullover |*
 
-For more infomration on the upcoming 2016 autumn/winter collection, see [TOMORROWLAND](http://www.tomorrowland.co.jp.e.mf.hp.transer.com/).
-
-
-![TOMORROWLAND1](https://meta.hevnly.com/images/on-31-7-2016/hhg-img-7c6a7e9d-8f64-451f-bc42-b82633a3fdb0.png)
-
-
-![TOMORROWLAND2](https://meta.hevnly.com/images/on-31-7-2016/hhg-img-3a55c379-9d85-4b76-a971-c6f62ea56b4e.png)
-
-
-![TOMORROWLAND3](https://meta.hevnly.com/images/on-31-7-2016/hhg-img-561bef88-751d-4498-b481-72b97790b945.png)
+For more information on the upcoming 2016 autumn/winter collection, see [TOMORROWLAND](http://www.tomorrowland.co.jp.e.mf.hp.transer.com/).
