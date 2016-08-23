@@ -57,7 +57,9 @@ TOMORROWLAND is widely renowned for, seamlessly merging contemporary silhouettes
 
 
 
+For more information on the upcoming 2016 autumn/winter collection, see [TOMORROWLAND](http://www.tomorrowland.co.jp.e.mf.hp.transer.com/).
+
+
+
 ![Image description](https://meta.hevnly.com/images/on-23-8-2016/hhg-img-c9269324-c8ec-482d-b4e4-85ff843f0a9c.png)
 *Knit combination crew neck pullover |*
-
-For more information on the upcoming 2016 autumn/winter collection, see [TOMORROWLAND](http://www.tomorrowland.co.jp.e.mf.hp.transer.com/).

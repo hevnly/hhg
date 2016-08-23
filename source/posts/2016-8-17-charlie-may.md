@@ -34,7 +34,11 @@ Stand-out garments include a woolen split kimono coat and the alpaca origami tan
 *Cropped drop shoulder coat|*
 
 
-![Image description](https://meta.hevnly.com/images/on-17-8-2016/hhg-img-27c9a8c0-2140-4daa-ae22-92e46469642e.png)
-*Raw shirt jacket | Cowl Maxi Dress*
 
 To discover more of [Charlie May](http://charlie-may.co.uk/)’s 2016 AW collection, download the hevnly application on the app store.   
+
+
+
+
+![Image description](https://meta.hevnly.com/images/on-17-8-2016/hhg-img-27c9a8c0-2140-4daa-ae22-92e46469642e.png)
+*Raw shirt jacket | Cowl Maxi Dress*
