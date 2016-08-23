@@ -6,7 +6,7 @@ heroImage: https://meta.hevnly.com/images/on-12-7-2015/edge-o-beyond-shot_05_038
 date: 2015-07-12
 slug: Edge-o-Beyond
 tags: Edge o' Beyond, Fashion, Lingerie,
-category: Products
+category: products
 editionName: artisan
 editionNumber: 4
 ---
