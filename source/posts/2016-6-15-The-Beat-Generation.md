@@ -3,7 +3,7 @@ title: "the beat generation"
 subTitle: "More than a movement"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-15-6-2016/hhg-img-ed37cecf-b954-4f60-b78b-3dbc061420d3.png
-date: 2016-6-15
+date: 2016-06-15
 slug: the-beat-generation
 tags: beat, style, fashion
 category: people

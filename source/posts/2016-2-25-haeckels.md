@@ -3,7 +3,7 @@ title: "Haeckels"
 subTitle: "Margate’s hidden gem"
 readingTime: 5min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/haeckels-haeckels-hero.jpg
-date: 2016-2-25
+date: 2016-02-25
 slug: haeckels
 tags: Haeckels, Grooming,
 category: products

@@ -3,7 +3,7 @@ title: "Gentle Monsters"
 subTitle: "Of New York"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-16-5-2016/hhg-img-14f8ad63-da81-4396-85d3-cfcb57a66fba.png
-date: 2016-5-11
+date: 2016-05-11
 slug: gentle-monster
 tags: gentle monster, sunglasses, fashion
 category: products

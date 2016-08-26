@@ -3,7 +3,7 @@ title: "NikeLab x Gyakusou"
 subTitle: "Rio in Reverse capsule collection"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-23-8-2016/hhg-img-6c58f1d9-9f98-4fe4-abeb-ac2d19a80edf.png
-date: 2016-8-23
+date: 2016-08-23
 slug: nikelab-x-gyakusou
 tags: Nike, NikeLab, Gyakusou, Running, UNDERCOVER
 category: products

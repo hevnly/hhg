@@ -1,6 +1,6 @@
 ---
 title: "Femi Adeyemi"
-subTitle: "Part 1 - HHG talks to NTS founder Femi Adeyemi who' online station is making radio waves across the globe "
+subTitle: "Part 1 - HHG talks to NTS founder Femi Adeyemi who' online station is making radio waves across the globe"
 readingTime: 3min
 heroImage: https://meta.hevnly.com/images/on-2-10-2015/nts-radio-part-1-ntshero.jpg
 date: 2015-10-02

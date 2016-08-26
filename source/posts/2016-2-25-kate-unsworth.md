@@ -3,7 +3,7 @@ title: "Kate Unsworth"
 subTitle: "Living in the moment."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/kate-unsworth-kate-unsworth-hero.jpg
-date: 2016-2-25
+date: 2016-02-25
 slug: kate-unsworth
 tags: Vinaya, Technology, Altruis
 category: people

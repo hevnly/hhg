@@ -3,7 +3,7 @@ title: "North Pole Marathon"
 subTitle: "The worlds coldest run."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-2-3-2016/hhg-img-d1d2bd09-f7b1-45aa-9048-0a196c265f39.png
-date: 2016-3-22
+date: 2016-03-22
 slug: north-pole-marathon
 tags: running, north pole, extreme
 category: places

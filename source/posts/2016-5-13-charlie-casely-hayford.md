@@ -3,7 +3,7 @@ title: "Charlie Casely-Hayford"
 subTitle: "Design that embodies a truly British sense of style – classic and refined "
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-13-5-2016/hhg-img-56c90331-6e23-4a75-8afd-82d62ebe5533.png
-date: 2016-5-13
+date: 2016-05-13
 slug: charlie-casely-hayford
 tags: casely-hayford, fashion, menswear, tailoring
 category: people

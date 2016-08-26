@@ -3,7 +3,7 @@ title: "Retro Design - Part 2"
 subTitle: "Exploring the design themes of the 80's."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-16-7-2016/hhg-img-c2821c92-021b-463e-b84a-3caa43213174.png
-date: 2016-7-8
+date: 2016-07-08
 slug: retro-design-part-2
 tags: design, retro, culture
 category: products
