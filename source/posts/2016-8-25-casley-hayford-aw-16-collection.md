@@ -3,6 +3,7 @@ title: "Casey-Hayford: AW16 Collection "
 subTitle: "The royal rebel editorial"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-8-2016/hhg-img-61e0cf56-2ba4-4ad1-9293-952b7e600d3c.png
+date: 2016-08-25
 slug: casley-hayford-aw-16-collection
 tags: Casey-Hayford, Mens, Fashion, Tailoring  
 category: products
