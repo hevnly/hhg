@@ -3,7 +3,7 @@ title: "TOMORROWLAND"
 subTitle: "AW16 Collection"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-31-7-2016/hhg-img-7aff15cf-4b14-4b49-b674-03adc0f5037c.png
-date: 2016-7-9
+date: 2016-07-09
 slug: tomorrowland
 tags: Fashion, Tomorrowland, Japan, Mens, Tailoring
 category: products

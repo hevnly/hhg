@@ -3,7 +3,7 @@ title: "The most stylish films ever made"
 subTitle: "HHG dissects some of the most stylish films of all time"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-16-7-2016/hhg-img-8f31cbd7-8717-4605-aead-0e5248e9aa0b.png
-date: 2016-7-14
+date: 2016-07-14
 slug: the-most-stylish-films-ever-made
 tags: film, fashion, style
 category: people

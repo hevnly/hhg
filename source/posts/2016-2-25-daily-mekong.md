@@ -3,7 +3,7 @@ title: "Daily Mekong"
 subTitle: "From Paris to Phom Penh"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/daily-mekong-hero.jpg
-date: 2016-2-25
+date: 2016-02-25
 slug: daily-mekong
 tags: Fashion, Paris, Womens, SS16
 category: products

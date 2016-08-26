@@ -3,7 +3,7 @@ title: "Phillipe Starck"
 subTitle: "HHG explores an iconic world of imagination and creativity"
 readingTime: 5min
 heroImage: https://meta.hevnly.com/images/on-9-4-2017/phillipe-starck-starck-hero.jpg
-date: 2015-28-09
+date: 2015-09-28
 slug: phillipe-starck
 tags: Architecture, Design, Technology, Creativity
 category: People

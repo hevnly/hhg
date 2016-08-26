@@ -3,7 +3,7 @@ title: "Breathing life into the Arcade"
 subTitle: "Neo Legend revives the golden age of the 16-bit era."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-26-7-2016/hhg-img-175598c5-9b28-4099-a36c-1c00779cdf2d.png
-date: 2016-7-9
+date: 2016-07-09
 slug: breathing-life-into-the-arcade
 tags: arcade, design, paris
 category: products

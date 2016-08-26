@@ -3,7 +3,7 @@ title: "Harry Seymour"
 subTitle: "A traditional voice for modern times."
 readingTime: 3min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/harry-seymour-harry-seymour-hero.jpg
-date: 2016-2-25
+date: 2016-02-25
 slug: harry-seymour
 tags: Art, Design
 category: people

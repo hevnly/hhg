@@ -3,7 +3,7 @@ title: "C.R.E.A.M"
 subTitle: "Creative seasonally led food and coffee"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-13-5-2016/hhg-img-88effbe7-cb58-45b4-9dae-8fe71463dd7f.png
-date: 2016-5-13
+date: 2016-05-13
 slug: cream
 tags: cafe, food, shoreditch, cream cafe
 category: places

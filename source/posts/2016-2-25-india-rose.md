@@ -3,7 +3,7 @@ title: "India Rose"
 subTitle: "The creative power of anonymity."
 readingTime: 3min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/india-rose-india-rose-hero.jpg
-date: 2016-2-25
+date: 2016-02-25
 slug: india-rose
 tags: fashion, india-rose, Instagram
 category: people

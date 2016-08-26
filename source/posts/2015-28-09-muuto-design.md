@@ -3,7 +3,7 @@ title: "Muuto"
 subTitle: "Colour in design"
 readingTime: 2min
 heroImage: https://meta.hevnly.com/images/on-9-4-2017/muuto-design-mutto-hero.jpg
-date: 2015-28-09
+date: 2015-09-28
 slug: muuto-design
 tags: Denmark, Design, Interior, Colour, Furniture
 category: Products

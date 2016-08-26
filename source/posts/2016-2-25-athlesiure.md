@@ -3,7 +3,7 @@ title: "Athleisure"
 subTitle: "Exploring the phenomenon"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/athlesiure-athlesiure-hero.jpg
-date: 2016-2-25
+date: 2016-02-25
 slug: athleisure
 tags: Athleisure, Nike, Sports
 category: products

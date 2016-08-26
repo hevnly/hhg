@@ -3,7 +3,7 @@ title: "Introducing hevnly"
 subTitle: "E-commerce built to inspire."
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-24-2-2016/introducing-hevnly-introducing-hevnly-hero.jpg
-date: 2016-2-24
+date: 2016-02-24
 slug: introducing-hevnly
 tags: Hevnly, Shopping, Fashion, Design
 category: people

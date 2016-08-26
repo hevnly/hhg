@@ -3,7 +3,7 @@ title: "Made In Britain"
 subTitle: "A Brand Perspective"
 readingTime: 4min
 heroImage: https://meta.hevnly.com/images/on-25-2-2016/made-in-britain-made-in-britain-hero.jpg
-date: 2016-2-25
+date: 2016-02-25
 slug: made-in-britain
 tags: fashion, design, John Smedley, Albam
 category: places
