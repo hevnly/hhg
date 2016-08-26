@@ -31,8 +31,5 @@ Unlike previous collections, which make a stronger use of more usual muted colou
 *The performance apparel and footwear adhere to the
 Gyakusou principle of distraction-free running.*
 
-
-The “Rio in Reverse” collection is now available in NikeLab stores and [online](http://www.nike.com/gb/en_gb/c/nikelab/gyakusou).        
-
 ![Image description](https://meta.hevnly.com/images/on-23-8-2016/hhg-img-2aa58bfd-94ea-4165-ac58-104cf002795f.png)
 *Gyakusou dry running visor | Dry distance top | Distance shorts | Free RN Flyknit*
